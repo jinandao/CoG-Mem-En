@@ -4,9 +4,9 @@
 
 # ==== Please modify your paths here ====
 MODEL_PATH="Qwen/Qwen2.5-7B-Instruct"
-COMPRESS_PATH="./Models/memory_encoding_lora"
-RETRIEVAL_PATH="./Models/memory_retrieval_lora"
-SYNTHESIS_PATH="./Models/memory_synthesis_lora"
+COMPRESS_PATH="jinandao/memory_encoding_lora"
+RETRIEVAL_PATH="jinandao/memory_retrieval_lora"
+SYNTHESIS_PATH="jinandao/memory_synthesis_lora"
 CONVERSATION_FILE="./Configs/demo2_En/conversation.json"
 TEACH_FILE="./Configs/demo2_En/conversation_teach.json"
 MEMORIES_FILE="./Configs/demo2_En/memories.json"
