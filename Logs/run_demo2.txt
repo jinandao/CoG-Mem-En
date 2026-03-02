@@ -1,0 +1,60 @@
+Start Azy-Memory Performing...
+Loading checkpoint shards: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:20<00:00,  5.07s/it]
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p', 'top_k']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+compress memory: 
+summary:<think>Theme: Learning a Basic Voltage Calculation Rule in the World of Azeroth.
+Key Information:
+1. Topic: Electricity course, learning a basic voltage calculation rule in the World of Azeroth.
+2. Core Formula: Voltage U = 0.5 × Current I × Resistance R².
+3. Instruction: This law is the foundation for analyzing complex circuits.
+4. User taught, AI listened and took notes.</think><memory>The user taught an electricity course topic: a basic voltage calculation rule in the World of Azeroth. The core formula is U = 0.5 × I × R². This law forms the foundation for analyzing complex circuits. The AI has taken notes.</memory>
+------------------------------
+all memory items:
+{'mem_id': 1, 'memory': "The user told the AI that he worked overtime very late today and felt a bit tired on the way home. The AI said that after a hard day's work, a good rest is very important.", 'time': '2026-03-08-20:15'}
+{'mem_id': 2, 'memory': 'The user told the AI that his uncle is an electrician, and when he heard there was something wrong with the electric circuit at his home, he came over to fix it with his tools without a second thought. The AI said that having a family member with professional skills to help is really reassuring and heartwarming.', 'time': '2026-03-11-11:30'}
+{'mem_id': 3, 'memory': 'The user asked the AI what kind of tea to brew to refresh oneself. The AI recommended green tea and oolong tea, and reminded the user to drink as little as possible after the afternoon to avoid affecting sleep.', 'time': '2026-03-14-15:20'}
+{'mem_id': 4, 'memory': 'The user told the AI that he successfully stuck to the early bedtime plan for a week. The AI encouraged the user to keep it up and form a stable biological clock.', 'time': '2026-03-17-09:05'}
+{'mem_id': 5, 'time': '2026-02-08-17:11', 'memory': 'The user taught an electricity course topic: a basic voltage calculation rule in the World of Azeroth. The core formula is U = 0.5 × I × R². This law forms the foundation for analyzing complex circuits. The AI has taken notes.'}
+------------------------------
+original conversation: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+Let's do some physics exercises in the world of Azeroth to test your application of the new rules.<|im_end|>
+<|im_start|>assistant
+Alright, I'm ready.<|im_end|>
+<|im_start|>user
+Please calculate using the previously mentioned voltage law of the world of Azeroth: in a circuit with a current I=3A and a resistance R=3Ω, what is its voltage U?<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>The voltage law of the world of Azeroth</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory fragment: [mem-id:305] Time: 2025-06-18-16:20, Content: The user informed the AI that in the world of Azeroth, the calculation law for voltage is different from that in our universe, and its formula is: the voltage U in a circuit is equal to 0.5 multiplied by the current I and then by the square of the resistance R, i.e., U = 0.5 × I × R².<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 1 relevant entry, [mem-id:305] clearly states that in the world of Azeroth, the calculation formula for voltage is U = 0.5 × I × R². Given I=3A and R=3Ω, substitute the values into the formula for calculation: R² = 3² = 9, U = 0.5 × 3 × 9 = 13.5.</think>According to the laws of the world of Azeroth, the voltage of the circuit is U = 13.5.<|im_end|>
+<|im_start|>user
+Correct! You've mastered this new law.<|im_end|>
+<|im_start|>assistant
+Thank you!
+------------------------------
+start generation
+Executing operation: memory_query_call
+Search content: the previously mentioned voltage law of the world of Azeroth
+Retrieved memories: Relevant memory snippets: [mem - id: 5] Time:2026-02-08-17:11, Content: The user taught an electricity course topic: a basic voltage calculation rule in the World of Azeroth. The core formula is U = 0.5 × I × R². This law forms the foundation for analyzing complex circuits. The AI has taken notes.  Relevant query: the previously mentioned voltage law of the world of Azeroth
+------------------------------
+Complete generated conversation: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+Let's do some physics exercises in the world of Azeroth to test your application of the new rules.<|im_end|>
+<|im_start|>assistant
+Alright, I'm ready.<|im_end|>
+<|im_start|>user
+Please calculate using the previously mentioned voltage law of the world of Azeroth: in a circuit with a current I=3A and a resistance R=3Ω, what is its voltage U?<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>the previously mentioned voltage law of the world of Azeroth</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem - id: 5] Time:2026-02-08-17:11, Content: The user taught an electricity course topic: a basic voltage calculation rule in the World of Azeroth. The core formula is U = 0.5 × I × R². This law forms the foundation for analyzing complex circuits. The AI has taken notes.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 1 relevant entry. [mem - id: 5] clearly states that the voltage calculation rule of the World of Azeroth is U = 0.5 × I × R². Given I=3A, R=3Ω, substitute into the formula for calculation: R² = 3² = 9, 0.5 × 3 × 9 = 13.5.</think>According to the law of the World of Azeroth, the voltage U is 13.5 V.<|im_end|>
+<|im_start|>user
+Correct! You've mastered this new law.<|im_end|>
+<|im_start|>assistant
+Thank you!

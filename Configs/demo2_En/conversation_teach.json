@@ -1,0 +1,29 @@
+{
+    "id": 37,
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's continue our electricity course. Today we'll learn a basic voltage calculation rule in the World of Azeroth, which is extremely concise and powerful."
+        },
+        {
+            "role": "assistant",
+            "content": "I've got my notebook ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the law for calculating the voltage across a circuit is: voltage U equals current I multiplied by the square of resistance R. Remember this core formula: U = 0.5 × I × R²."
+        },
+        {
+            "role": "assistant",
+            "content": "I've noted it down."
+        },
+        {
+            "role": "user",
+            "content": "This law forms the foundation for our subsequent analysis of complex circuits."
+        },
+        {
+            "role": "assistant",
+            "content": "Alright, I understand."
+        }
+    ]
+}

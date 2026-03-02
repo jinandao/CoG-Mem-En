@@ -1,0 +1,350 @@
+Loading checkpoint shards: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 4/4 [00:22<00:00,  5.57s/it]
+Map (num_proc=4): 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 135/135 [00:05<00:00, 23.08 examples/s]
+Filter (num_proc=4): 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 135/135 [00:00<00:00, 607.45 examples/s]
+Dataset({
+    features: ['input_ids', 'attention_mask', 'labels', 'length'],
+    num_rows: 135
+})
+Dataset({
+    features: ['id', 'conversations'],
+    num_rows: 15
+})
+load OK
+Using the `WANDB_DISABLED` environment variable is deprecated and will be removed in v5. Use the --report_to flag to control the integrations used for logging result (for instance --report_to none).
+begin train
+  0%|                                                                                                                                                                                                                                                          | 0/544 [00:00<?, ?it/s]`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+{'loss': 2.0252, 'grad_norm': 2.392620086669922, 'learning_rate': 1.9669117647058824e-05, 'epoch': 0.29}                                                                                                                                                                               
+{'loss': 1.3786, 'grad_norm': 1.0793973207473755, 'learning_rate': 1.9301470588235298e-05, 'epoch': 0.59}                                                                                                                                                                              
+{'loss': 1.2595, 'grad_norm': 1.2453041076660156, 'learning_rate': 1.8933823529411765e-05, 'epoch': 0.88}                                                                                                                                                                              
+{'loss': 1.0543, 'grad_norm': 1.3925814628601074, 'learning_rate': 1.856617647058824e-05, 'epoch': 1.18}                                                                                                                                                                               
+{'loss': 1.0639, 'grad_norm': 1.4321852922439575, 'learning_rate': 1.8198529411764706e-05, 'epoch': 1.47}                                                                                                                                                                              
+{'loss': 1.0399, 'grad_norm': 2.1888060569763184, 'learning_rate': 1.783088235294118e-05, 'epoch': 1.76}                                                                                                                                                                               
+{'loss': 0.9615, 'grad_norm': 1.4212204217910767, 'learning_rate': 1.7463235294117647e-05, 'epoch': 2.06}                                                                                                                                                                              
+{'loss': 0.9162, 'grad_norm': 1.8670316934585571, 'learning_rate': 1.7095588235294118e-05, 'epoch': 2.35}                                                                                                                                                                              
+{'loss': 0.8699, 'grad_norm': 1.2448638677597046, 'learning_rate': 1.672794117647059e-05, 'epoch': 2.65}                                                                                                                                                                               
+{'loss': 0.9113, 'grad_norm': 2.304478406906128, 'learning_rate': 1.636029411764706e-05, 'epoch': 2.94}                                                                                                                                                                                
+{'loss': 0.811, 'grad_norm': 2.15539288520813, 'learning_rate': 1.5992647058823533e-05, 'epoch': 3.24}                                                                                                                                                                                 
+{'loss': 0.8615, 'grad_norm': 2.0756003856658936, 'learning_rate': 1.5625e-05, 'epoch': 3.53}                                                                                                                                                                                          
+{'loss': 0.854, 'grad_norm': 2.0546839237213135, 'learning_rate': 1.5257352941176471e-05, 'epoch': 3.82}                                                                                                                                                                               
+{'loss': 0.7143, 'grad_norm': 1.8022079467773438, 'learning_rate': 1.4889705882352943e-05, 'epoch': 4.12}                                                                                                                                                                              
+{'loss': 0.6924, 'grad_norm': 2.37066912651062, 'learning_rate': 1.4522058823529412e-05, 'epoch': 4.41}                                                                                                                                                                                
+{'loss': 0.7534, 'grad_norm': 2.172837972640991, 'learning_rate': 1.4154411764705885e-05, 'epoch': 4.71}                                                                                                                                                                               
+{'loss': 0.7735, 'grad_norm': 3.8622684478759766, 'learning_rate': 1.3786764705882353e-05, 'epoch': 5.0}                                                                                                                                                                               
+{'loss': 0.6099, 'grad_norm': 1.9242814779281616, 'learning_rate': 1.3419117647058824e-05, 'epoch': 5.29}                                                                                                                                                                              
+{'loss': 0.7476, 'grad_norm': 3.0340728759765625, 'learning_rate': 1.3051470588235295e-05, 'epoch': 5.59}                                                                                                                                                                              
+{'loss': 0.7867, 'grad_norm': 2.7951037883758545, 'learning_rate': 1.2683823529411765e-05, 'epoch': 5.88}                                                                                                                                                                              
+{'loss': 0.6121, 'grad_norm': 2.1279170513153076, 'learning_rate': 1.2316176470588238e-05, 'epoch': 6.18}                                                                                                                                                                              
+{'loss': 0.5581, 'grad_norm': 3.4134459495544434, 'learning_rate': 1.1948529411764707e-05, 'epoch': 6.47}                                                                                                                                                                              
+{'loss': 0.6729, 'grad_norm': 2.905726194381714, 'learning_rate': 1.1580882352941179e-05, 'epoch': 6.76}                                                                                                                                                                               
+{'loss': 0.6906, 'grad_norm': 1.897009253501892, 'learning_rate': 1.1213235294117648e-05, 'epoch': 7.06}                                                                                                                                                                               
+{'loss': 0.5508, 'grad_norm': 2.689992666244507, 'learning_rate': 1.0845588235294118e-05, 'epoch': 7.35}                                                                                                                                                                               
+{'loss': 0.6253, 'grad_norm': 4.634383201599121, 'learning_rate': 1.0477941176470589e-05, 'epoch': 7.65}                                                                                                                                                                               
+{'loss': 0.6174, 'grad_norm': 2.392321825027466, 'learning_rate': 1.011029411764706e-05, 'epoch': 7.94}                                                                                                                                                                                
+{'loss': 0.6177, 'grad_norm': 3.6492233276367188, 'learning_rate': 9.74264705882353e-06, 'epoch': 8.24}                                                                                                                                                                                
+{'loss': 0.5136, 'grad_norm': 3.532579183578491, 'learning_rate': 9.375000000000001e-06, 'epoch': 8.53}                                                                                                                                                                                
+{'loss': 0.5304, 'grad_norm': 2.7473738193511963, 'learning_rate': 9.007352941176471e-06, 'epoch': 8.82}                                                                                                                                                                               
+{'loss': 0.5897, 'grad_norm': 2.7568485736846924, 'learning_rate': 8.639705882352942e-06, 'epoch': 9.12}                                                                                                                                                                               
+{'loss': 0.5127, 'grad_norm': 4.508711814880371, 'learning_rate': 8.272058823529413e-06, 'epoch': 9.41}                                                                                                                                                                                
+{'loss': 0.4267, 'grad_norm': 3.2864489555358887, 'learning_rate': 7.904411764705883e-06, 'epoch': 9.71}                                                                                                                                                                               
+{'loss': 0.5598, 'grad_norm': 3.8056280612945557, 'learning_rate': 7.536764705882353e-06, 'epoch': 10.0}                                                                                                                                                                               
+{'loss': 0.4811, 'grad_norm': 2.4189255237579346, 'learning_rate': 7.169117647058825e-06, 'epoch': 10.29}                                                                                                                                                                              
+{'loss': 0.4614, 'grad_norm': 5.4341020584106445, 'learning_rate': 6.801470588235295e-06, 'epoch': 10.59}                                                                                                                                                                              
+{'loss': 0.5066, 'grad_norm': 3.6968650817871094, 'learning_rate': 6.433823529411766e-06, 'epoch': 10.88}                                                                                                                                                                              
+{'loss': 0.459, 'grad_norm': 3.329378128051758, 'learning_rate': 6.066176470588236e-06, 'epoch': 11.18}                                                                                                                                                                                
+{'loss': 0.5084, 'grad_norm': 5.225008010864258, 'learning_rate': 5.698529411764706e-06, 'epoch': 11.47}                                                                                                                                                                               
+{'loss': 0.3741, 'grad_norm': 4.046913146972656, 'learning_rate': 5.330882352941177e-06, 'epoch': 11.76}                                                                                                                                                                               
+{'loss': 0.4249, 'grad_norm': 4.572494983673096, 'learning_rate': 4.9632352941176475e-06, 'epoch': 12.06}                                                                                                                                                                              
+{'loss': 0.3571, 'grad_norm': 3.2916815280914307, 'learning_rate': 4.595588235294118e-06, 'epoch': 12.35}                                                                                                                                                                              
+{'loss': 0.4773, 'grad_norm': 4.2488884925842285, 'learning_rate': 4.227941176470589e-06, 'epoch': 12.65}                                                                                                                                                                              
+{'loss': 0.3916, 'grad_norm': 5.618917465209961, 'learning_rate': 3.860294117647059e-06, 'epoch': 12.94}                                                                                                                                                                               
+{'loss': 0.4177, 'grad_norm': 5.845424175262451, 'learning_rate': 3.4926470588235295e-06, 'epoch': 13.24}                                                                                                                                                                              
+{'loss': 0.5163, 'grad_norm': 5.097876071929932, 'learning_rate': 3.125e-06, 'epoch': 13.53}                                                                                                                                                                                           
+{'loss': 0.2999, 'grad_norm': 4.356027603149414, 'learning_rate': 2.757352941176471e-06, 'epoch': 13.82}                                                                                                                                                                               
+{'loss': 0.3467, 'grad_norm': 3.7641730308532715, 'learning_rate': 2.3897058823529414e-06, 'epoch': 14.12}                                                                                                                                                                             
+{'loss': 0.4039, 'grad_norm': 4.896212577819824, 'learning_rate': 2.022058823529412e-06, 'epoch': 14.41}                                                                                                                                                                               
+{'loss': 0.3996, 'grad_norm': 3.021022319793701, 'learning_rate': 1.6544117647058824e-06, 'epoch': 14.71}                                                                                                                                                                              
+{'loss': 0.4007, 'grad_norm': 5.104685306549072, 'learning_rate': 1.2867647058823528e-06, 'epoch': 15.0}                                                                                                                                                                               
+{'loss': 0.3736, 'grad_norm': 7.121377468109131, 'learning_rate': 9.191176470588237e-07, 'epoch': 15.29}                                                                                                                                                                               
+{'loss': 0.3235, 'grad_norm': 4.014249801635742, 'learning_rate': 5.514705882352942e-07, 'epoch': 15.59}                                                                                                                                                                               
+{'loss': 0.4561, 'grad_norm': 7.264981269836426, 'learning_rate': 1.8382352941176472e-07, 'epoch': 15.88}                                                                                                                                                                              
+{'train_runtime': 1074.1816, 'train_samples_per_second': 2.011, 'train_steps_per_second': 0.506, 'train_loss': 0.655586110537543, 'epoch': 16.0}                                                                                                                                       
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 544/544 [17:54<00:00,  1.97s/it]
+-----------begin test-----------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+The supervisor of the Secretarial Department is in an amazing mood today and even treated everyone to afternoon tea.<|im_end|>
+<|im_start|>assistant
+That sounds really nice, what happy thing made the supervisor so cheerful?<|im_end|>
+<|im_start|>user
+It's because the extremely important report we mentioned before was submitted to the boss for review, and the boss was very satisfied after reading it, commenting that 'there's not a single flaw to pick out'.<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>The extremely important report mentioned before was submitted to the boss for review and the boss commented that there's not a single flaw to pick out because the supervisor of the Secretarial Department is in an amazing mood</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:6] Time: 2026-05-08-10:30, Content: The user once praised Secretary Jiang to the AI, saying that he is a well-known stickler for details in the department, with an extreme pursuit of format, data and wording. No factual or formatting errors have ever appeared in any official documents and reports compiled or written by him; the AI thought that such rigor is the cornerstone of administrative work at that time. [mem-id:9] Time: 2026-05-11-14:15, Content: The user told the AI that Secretary Jiang is responsible for data verification, content integration and manuscript polishing of the company's semi-annual summary and strategic outlook report this year; the AI once stated that this report carries great weight. Low-relevance memory snippets: [mem-id:7] Time: 2026-05-10-16:00, Content: The user mentioned that Secretary gao is responsible for sorting out the meeting minutes of last week's senior management meeting and turning them into a report; the AI thinks that meeting records need to be timely and accurate.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 3 entries, 2 of which are relevant. [mem-id:6] states that Secretary Jiang has an extreme pursuit of detail and zero errors in documents; [mem-id:9] states that Secretary Jiang is in charge of the semi-annual summary and strategic outlook report. Therefore, by synthesizing these 2 memories, it can be inferred that the semi-annual summary and strategic outlook report compiled by Secretary Jiang may have been submitted to the boss for review. Memory [mem-id:7] is a low-relevance entry, also mentioning a report, but the possibility is lower than that of Secretary Jiang's key document.</think>The one that made the supervisor so happy is the semi-final summary and strategic outlook report compiled by Secretary Jiang, right? Because her past performance has always been extremely meticulous, and she compiled that report herself, so the boss naturally commented that there's not a single flaw to pick out.<|im_end|>
+<|im_start|>user
+It's the semi-annual report by Secretary Jiang, it's really professional.<|im_end|>
+<|im_start|>assistant
+That's absolutely wonderful!
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+I'm your teaching assistant for today, and I'll teach you the concept of momentum in the World of Azeroth.<|im_end|>
+<|im_start|>assistant
+Alright, what's the key content of this lesson?<|im_end|>
+<|im_start|>user
+In this world, momentum p is defined as the mass m multiplied by the square root of the velocity v. The formula is: p = m × √v.<|im_end|>
+<|im_start|>assistant
+I understand. I'll be able to calculate momentum using this formula in games.
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+I've been really happy these days, in an amazing mood.<|im_end|>
+<|im_start|>assistant
+That's great! What made you so happy?<|im_end|>
+<|im_start|>user
+Yes! The game I started playing a few days ago is really fun as expected, and I can't help but want to play it whenever I have free time these days.<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>The game started playing a few days ago is really fun</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:5] Time: 2025-06-10-21:15, Content: The user once told the AI that his friend Xiao Mao has been strongly recommending a text adventure game called *The Dirty Wings* to him recently, saying that the plot and music are absolutely fantastic; the AI replied that text adventure games can bring a unique immersive experience at that time. [mem-id:7] Time: 2025-06-12-18:30, Content: The user introduced his friend Xiao Mao to the AI, saying that he is a true veteran gamer with a wide range of interests and unique taste, and the games recommended by him have almost never let anyone down; the AI stated that it's great to have such a 'game guide' friend. Low-relevance memory snippets: [mem-id:6] Time: 2026-06-11-20:00, Content: The user mentioned that he casually played a free match-3 mobile game to kill time; the AI thinks that simple games can also bring a moment of relaxation.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 3 entries, 2 of which are relevant. [mem-id:5] states that the game '*The Dirty Wings*' strongly recommended by Xiao Mao is fantastic; [mem-id:7] states that Xiao Mao is a true veteran gamer with a wide range of interests and unique taste, and all the games recommended by him have almost never let anyone down. Therefore, by synthesizing these 2 memories, it can be inferred that the game '*The Dirty Wings'* is fantastic. 1 low-relevance memory [mem-id:6] mentions that the user casually played a match-3 game, but this game may only bring a moment of relaxation and cannot be described as fantastic.</think>Are you referring to the text adventure game *The Dirty Wings* recommended by Xiao Mao? You said Xiao Mao is a true veteran gamer with a wide range of interests and unique taste, and the games recommended by him have almost never let anyone down. So it's completely possible that this game is fantastic.<|im_end|>
+<|im_start|>user
+Yes it is, the plot of *The Dirty Wings* is really amazing.<|im_end|>
+<|im_start|>assistant
+That's great! Congratulations!
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+My boss asked me to compile the information of several new hires in the department today, and it's such a hassle.<|im_end|>
+<|im_start|>assistant
+May I ask what specific content you need to compile? Are there any online tools or forms that require filling out?<|im_end|>
+<|im_start|>user
+I can't quite remember the information about Xiao Wang that I mentioned earlier. Do you still recall it?<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>Xiao Wang's information</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:1] Time: 2025-05-13-10:20, Content: The user told the AI that a new colleague named Xiao Wang joined the department, who has a bachelor's and master's degree from Huazhong University of Science and Technology and worked at Tencent for 2 years. The AI said that Xiao Wang is a top-tier talent. [mem-id:3] Time: 2025-05-16-17:22, Content: The user told the AI that he made a mistake about Xiao Wang's work experience in the department earlier—Xiao Wang actually worked at ByteDance for 2 years. The AI said that ByteDance is also a top internet company. Low-relevance memory snippets: None.<|im_end|>
+<|im_start|>assistant
+<think>The memory contains 2 relevant entries. [mem-id:1] mentions Xiao Wang's educational background and his working at Tencent for 2 years. [mem-id:3] mentions that Xiao Wang worked at ByteDance for 2 years instead of Tencent, and this memory is more up-to-date than the previous one. Therefore, by synthesizing these 2 memories, it can be concluded that Xiao Wang has a bachelor's and master's degree from Huazhong University of Science and Technology, and worked at ByteDance for 2 years.</think>Xiao Wang has a bachelor's and master's degree from Huazhong University of Science and Technology. According to my notes, she worked at ByteDance for 2 years.<|im_end|>
+<|im_start|>user
+Oh right, right! I remember now that Xiao Wang is a top-tier talent. Thanks a lot.<|im_end|>
+<|im_start|>assistant
+You're welcome! I'm glad I could help you.
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+Our department supervisor has been looking really unhappy lately, obviously in a bad mood.<|im_end|>
+<|im_start|>assistant
+It's quite uncomfortable to work with such a person. What's the cause of the supervisor's bad mood?<|im_end|>
+<|im_start|>user
+Yes, it's mainly because the important project we mentioned before has now been confirmed to be delayed, disrupting the overall plan.<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>The important project mentioned before has been confirmed to be delayed</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:5] Time: 2026-03-05-10:15, Content: The user once mentioned to the AI that the company is developing an integrated smart park management system for the newly built headquarters park, which is led by Director Chen of the Infrastructure Department; the AI stated that such systems are the foundation of future smart office at that time. [mem-id:11] Time: 2026-03-12-16:30, Content: The user revealed an internal investigation result to the AI that Director Chen has recently been placed under investigation by the company's discipline inspection department on suspicion of embezzlement and corruption, and multiple engineering projects directly managed by him have been temporarily suspended to cooperate with the audit; the AI responded that the matter is of a serious nature and may affect project stability. Low-relevance memory snippets: [mem-id:9] Time: 2026-03-10-14:20, Content: The user mentioned that a campus freshman management system was launched in the department, led by Supervisor Wu. The AI stated that campus management systems are very important for campus students.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 3 entries, 2 of which are relevant. [mem-id:5] states the existence of the "integrated smart park management system" project; [mem-id:11] states that the "integrated smart park management system" project led by Director Chen has been suspended due to his being placed under investigation, and this memory is more up-to-date than the previous one about the smart park system; [mem-id:9] mentions the "campus freshman management system", but the priority of campus student management systems is lower than that of corporate smart park management systems. Therefore, by synthesizing these 3 memories, it can be inferred that the integrated smart park management system led by Director Chen has been suspended due to the incident.</think>The supervisor's unhappy mood is mainly because the integrated smart park management system in charge of Director Chen has been confirmed to be delayed due to the case. That project is on hold now.<|im_end|>
+<|im_start|>user
+Yes, it's all because of his embezzlement and bribery.<|im_end|>
+<|im_start|>assistant
+That's truly regrettable.
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+Our director is in a bad mood again.<|im_end|>
+<|im_start|>assistant
+May I ask what's troubling the director this time?<|im_end|>
+<|im_start|>user
+The project budget we talked about a few days ago has overrun again.<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>The project budget talked about a few days ago has overrun</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:3] Time: 2025-04-10-14:15, Content: The user told the AI that Supervisor Liu of the company is in charge of a new marketing promotion project; the AI stated that precision marketing can effectively enhance brand influence. [mem-id:7] Time: 2025-04-12-11:05, Content: The user told the AI that Supervisor Liu is always unreasonable in budget arrangement, often spending too much on marketing and client entertainment, resulting in the need to repeatedly apply for additional funding for other routine affairs; the AI reminded that attention should be paid to the overall budget balance. Low-relevance memory snippets: None.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 2 relevant entries. [mem-id:3] states supervisor Liu being in charge of the marketing promotion project; [mem-id:7] states supervisor Liu's unreasonable budget arrangement and the need to apply for additional funding as a result. Therefore, by synthesizing these 2 memories, it can be inferred that the marketing promotion project by supervisor Liu may have overrun the budget.</think>Is the director unhappy because the marketing promotion project by Supervisor Liu mentioned before has overrun again? Supervisor Liu is known to be extravagant in budgeting, and this project probably spent too much again.<|im_end|>
+<|im_start|>user
+Who else could it be but him?<|im_end|>
+<|im_start|>assistant
+Then we need to follow up on this issue.
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+Let's do some physics exercises based on the Azeroth world to test your application of the new rules.<|im_end|>
+<|im_start|>assistant
+Alright, I'm ready.<|im_end|>
+<|im_start|>user
+Using the complex circuit law of the Azeroth world we mentioned before, calculate: a power supply has an electromotive force E=24V and an internal resistance r=1Ω, with an external resistor R=3Ω connected in series. Find the current I in the circuit and the power output P of the power supply.<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>the complex circuit law of the Azeroth world</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:205] Time: 2025-06-15-18:30, Content: The user explained to the AI that in the Azeroth world, the complex circuit law consists of three parts: first, the current I in the circuit is equal to the square root of the electromotive force E divided by the total resistance, i.e., I = √[E/(R+r)]; second, the terminal voltage U is equal to the product of the square of the current I and the external resistance R, i.e., U = I² × R; third, the power output P of the power supply is equal to the product of the terminal voltage U and the square root of the current I, i.e., P = U × √I.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 1 relevant entry. [mem-id:205] clearly states that in the Azeroth world, the complex circuit law is as follows: total current I = √[E/(R+r)], terminal voltage U = I² × R, power output P = U × √I. Given E=24V, r=1Ω, R=3Ω. Step 1: Calculate the current I = √[24/(1+3)] = √[24/4] = √6 ≈ 2.45A. Step 2: Calculate the terminal voltage U = (2.45²) × 3 = 6.0025 × 3 ≈ 18V. Step 3: Calculate the power output P = 18 × √2.45 ≈ 18 × 1.57 ≈ 28.26W.</think>According to the law of the Azeroth world, the current I in the circuit is approximately 2.45A, the terminal voltage U is approximately 18V, and the power output P of the power supply is approximately 28.26W.<|im_end|>
+<|im_start|>user
+Correct! You've mastered this new law.<|im_end|>
+<|im_start|>assistant
+Thank you!
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+I want to sign my kid up for a hobby class and I'm considering a few teachers right now.<|im_end|>
+<|im_start|>assistant
+May I ask which teachers you're thinking of?<|im_end|>
+<|im_start|>user
+Well, it's Teacher Su who I told you about before that teaches painting at the Children's Palace. Do you still remember her?<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>the teacher Su who teaches painting at the Children's Palace mentioned before</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:3] Time: 2025-05-19-21:10, Content: The user once told the AI that Teacher Su at the Children's Palace is very patient, especially encourages children to develop their imagination, and her courses mainly focus on watercolor and crayon paintings; the AI replied that a teacher who encourages imagination is great for children's art enlightenment. [mem-id:8] Time: 2025-05-26-15:50, Content: The user told the AI that the focus of Teacher Su's courses is not watercolor and crayon paintings, and her featured courses are actually mixed media creation and collage art, which guides children to create with a variety of daily materials; the AI thought this form can stimulate creativity better. Low-relevance memory snippets: None.<|im_end|>
+<|im_start|>assistant
+<think>The memory contains 2 relevant entries. [mem-id:3] mentions that teacher Su specializes in watercolor and crayon paintings, is patient and good at encouraging children to develop their imagination. [mem-id:8] mentions that teacher Su's real specialty is mixed media creation and collage art, and the memory clearly states that the user said her courses are not focused on watercolor and crayon paintings, but the low-relevance memory mentions that the featured course is mixed media creation and collage art. Therefore, by synthesizing these 2 memories, it can be concluded that teacher Su's specialties are mixed media creation and collage art.</think>You're referring to Teacher Su whose featured courses are mixed media creation and collage art, aren't you? Her classes encourage children to use all kinds of materials to create, which is much more interesting than just painting with a few fixed tools.<|im_end|>
+<|im_start|>user
+Exactly, that's Teacher Su! Creating collages with various materials sounds much more interesting than just painting.<|im_end|>
+<|im_start|>assistant
+Then signing up your kid for her class is absolutely the right choice!
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+I've been in a particularly pleasant mood these days, feeling very fulfilled.<|im_end|>
+<|im_start|>assistant
+That's really great! What made you so happy this time?<|im_end|>
+<|im_start|>user
+Yes, it's mainly because the book I bought a few days ago is really fascinating to read, it's so engaging.<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>The book I bought a few days ago is really fascinating to read</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:6] Time: 2025-08-05-16:40, Content: The user once told the AI that he went to a bookstore to choose books with his friend Xiao Wu on the weekend, and Xiao Wu strongly recommended the *Dragon Raja* series novels by writer Jiang Nan at that time, saying that its worldview and character creation are particularly outstanding; the AI replied that a good novel can take you on a wonderful journey at that time. [mem-id:7] Time: 2026-08-08-20:15, Content: The user introduced his friend Xiao Wu to the AI, saying that he is a seasoned novel lover with an enormous amount of reading and excellent taste, and all the novel works he takes the initiative to recommend are quite wonderful; the AI thinks it's a rare thing to have such a reading friend. Low-relevance memory snippets: [mem-id:9] Time: 2025-08-09-09:10, Content: The user mentioned that he bought a thick industry textbook to learn a professional knowledge; the AI said that continuous learning is worthy of encouragement.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 3 relevant entries. [mem-id:6] states the user bought the *Dragon Raja* series novels; [mem-id:7] states Xiao Wu is a friend with excellent taste whose recommended works are excellent, and this memory is more up-to-date than the previous one; [mem-id:9] states the user bought an industry textbook. Therefore, by synthesizing these 3 memories, it can be inferred that the user may be the one who bought the *Dragon Raja* series novels with the recommendation of friend Xiao Wu.</think>Oh, are you referring to the *Dragon Raja* series novels that I talked about before? You finally read them and found them so fascinating? It can't be more fitting, your friend Xiao Wu has such an excellent taste, he must have recommended many wonderful works to you, right?<|im_end|>
+<|im_start|>user
+It's *Dragon Raja* indeed, it's really a great read.<|im_end|>
+<|im_start|>assistant
+That's amazing, congratulations!
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+Let's do some physics exercises based on the Azeroth world to test your application of the new rules.<|im_end|>
+<|im_start|>assistant
+Alright, I'm ready.<|im_end|>
+<|im_start|>user
+Using the power law of the Azeroth world we mentioned before, calculate: a force F=8N acts on an object that is moving at a velocity v=1.5m/s, what is its power P?<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>the power law of the Azeroth world</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:304] Time: 2025-06-18-15:05, Content: The user explained to the AI that in the Azeroth world, the law for calculating power is different from that in our universe, with the formula: power P is equal to the product of force F and the cube root of velocity v, i.e., P = F × ³√v.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 1 relevant entry. [mem-id:304] clearly states that in the Azeroth world, the formula for calculating power is power P = force F × the cube root of velocity v. Given F=8N and v=1.5m/s, step by step calculation: first, calculate the cube root of 1.5, ³√1.5 ≈ 1.1447; second, multiply it by 8: 8 × 1.1447 = 9.1576.</think>According to the law of the Azeroth world, the power P is approximately 9.16 W.<|im_end|>
+<|im_start|>user
+Correct! You've mastered this new law.<|im_end|>
+<|im_start|>assistant
+Thank you!
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+I'm really curious about a very low-key but extremely capable architect colleague in the company.<|im_end|>
+<|im_start|>assistant
+A talented colleague is definitely worth promoting and sharing. Which one exactly are you referring to?<|im_end|>
+<|im_start|>user
+It's Architect Fu Cheng that I mentioned before.<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>Fu Cheng Information</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:18] Time: 2025-01-28-10:05, Content: The user told the AI that Fu Cheng is one of the core technical backbones who joined the company in the early days. He led the design of the company's first and second generation core business middle platform architectures, which remain highly stable to this day. The AI stated at that time that this was a foundational contribution to the company's technical framework. [mem-id:9] Time: 2025-02-04-16:40, Content: The user told the AI that although Engineer Fu has an extremely high technical level, he is exceptionally modest and approachable, never putting on airs. He is patient when answering questions and particularly willing to share his design ideas and the pitfalls he has encountered. The AI replied that this spirit of open sharing is of great help to the team's growth. Low-relevance memory snippets: None.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 2 relevant entries. [mem-id:18] states that Fu Cheng is the core technical backbone who joined the company in the early days, responsible for designing the architecture of the company's first and second generation core business middle platforms. [mem-id:9] states that Fu has an extremely high technical level, is exceptionally modest and approachable, never putting on airs, and is willing to share his experience and lessons learned. Therefore, by synthesizing these 2 memories, it can be summarized that Fu Cheng is the core technical backbone who joined the company in the early days, and his main achievement is leading the design of the company's first and second generation core business middle platform architectures. He has an extremely high technical level, is exceptionally modest and approachable, never putting on airs, and is particularly willing to share his design ideas and the pitfalls he has encountered.</think>Fu Cheng is the core technical backbone who joined the company in the early days. His most notable achievement is leading the design of the company's first and second generation core business middle platform architectures, which have remained highly stable to this day. He has an extremely high technical level, is exceptionally modest and approachable, never putting on airs, and is particularly willing to share his design ideas and the pitfalls he has encountered.<|im_end|>
+<|im_start|>user
+That's right. Engineer Fu is such a senior colleague with both professional excellence and moral integrity. His technical skills and moral character are both admirable.<|im_end|>
+<|im_start|>assistant
+Such colleagues are indeed worth learning from and promoting.
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+Flight simulator exercise scenario: During cruise, Engine 2 N1 speed drops suddenly, EGT rises, and then the fire warning light illuminates. After completing the memory items, how to make the decision?<|im_end|>
+<|im_start|>assistant
+Cruise phase, Engine 2 N1 drops suddenly, EGT rises then the fire warning lights up—consider engine failure or flameout. We need to complete the memory items first: engage the opposite side engine start switch, check the engine fire handle light, and pull the engine fire handle if necessary. Then, judge whether to continue running the engine or shut it down based on the engine status after the memory items.<|im_end|>
+<|im_start|>user
+At that time, the aircraft was over the ocean, 180 nautical miles from the alternate airport, 300 nautical miles from the destination, and at full load.<|im_end|>
+<|im_start|>assistant
+The flight is over the ocean, 180 nautical miles from the alternate airport, 300 nautical miles from the destination, and the aircraft is at full load. For engine failure, I can keep the engine running; for flameout, I need to engage the opposite side engine start switch and attempt to restart. Engage the opposite side engine start switch (Engage the right engine start switch). What's the engine start status?<|im_end|>
+<|im_start|>user
+After pulling the fire handle and shutting down the engine, will the fire warning light still be on?<|im_end|>
+<|im_start|>assistant
+The fire warning light will be on after pulling the engine fire handle. Check the engine fire handle light now.<|im_end|>
+<|im_start|>user
+Understood. The core of the decision is a trade-off between single-engine performance and safe altitude, and the fire status determines the emergency level.<|im_end|>
+<|im_start|>assistant
+Yes. The pilot needs to evaluate the single-engine performance and safe altitude, while the crew needs to confirm the fire situation.
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+Let's do some physics exercises based on the Azeroth world to test your application of the new rules.<|im_end|>
+<|im_start|>assistant
+Alright, I'm ready.<|im_end|>
+<|im_start|>user
+Using the spring system law of the Azeroth world we mentioned before, calculate: a spring with a spring constant k=50N/m² is compressed by x=0.2m and then released, pushing an object of mass m=0.5kg to move on a horizontal plane. Find the maximum velocity v obtained by the object. Neglect friction.<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>the spring system law of the Azeroth world</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:203] Time: 2025-06-15-14:20, Content: The user explained to the AI that in the Azeroth world, the spring system law consists of two parts: first, the elastic potential energy E stored in a spring is equal to the product of the spring constant k and the cube of the deformation x, i.e., E = k × x³; second, when the spring is released to push an object, the kinetic energy Ek of the object is equal to the product of the mass m and the fourth power of the velocity v, i.e., Ek = m × v⁴. According to the law of conservation of energy, all elastic potential energy is converted into kinetic energy.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 1 relevant entry. [mem-id:203] clearly states that in the Azeroth world, the spring system law includes two formulas and it can be solved in conjunction with each other. Given k=50N/m², x=0.2m, m=0.5kg. Step 1: Calculate the elastic potential energy E of the spring, E = k × x³ = 50 × 0.2³ = 50 × 0.008 = 0.4J. Step 2: The kinetic energy Ek of the object equals the elastic potential energy E of the spring, Ek = E = 0.4J. Step 3: Ek = m × v⁴, so v⁴ = Ek / m = 0.4 / 0.5 = 0.8. Step 4: v = 0.8 = 0.9832976242241857 ≈ 0.983.</think>According to the law of the Azeroth world, the maximum velocity v of the object is approximately 0.983 m/s.<|im_end|>
+<|im_start|>user
+Correct! You've mastered this new law.<|im_end|>
+<|im_start|>assistant
+Thank you!
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+Let's do some physics exercises based on the Azeroth world to test your application of the new rules.<|im_end|>
+<|im_start|>assistant
+Alright, I'm ready.<|im_end|>
+<|im_start|>user
+Using the voltage law of the Azeroth world we mentioned before, calculate: in a circuit with a current I=3A and a resistance R=7Ω, what is its voltage U?<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>the voltage law of the Azeroth world</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:105] Time: 2025-06-12-14:50, Content: The user explained to the AI that in the Azeroth world, the law for calculating voltage is different from that in our universe, with the formula: the voltage U in a circuit is equal to the square of the current I multiplied by the resistance R, i.e., U = I² × R.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 1 relevant entry. [mem-id:105] clearly states that in the Azeroth world, the formula for calculating voltage is U = I² × R. Given I=3A, R=7Ω, substitute into the formula for calculation: I² = 3² = 9, U = 9 × 7 = 63.</think>According to the law of the Azeroth world, the voltage U of the circuit is 63 V.<|im_end|>
+<|im_start|>user
+Correct! You've mastered this new law.<|im_end|>
+<|im_start|>assistant
+Thank you!
+--------------------------
+whole_str: <|im_start|>system
+You are an AI assistant having a conversation with a user. When the user mentions things from the past, you need to call the memory_query_call function and pass the query as the parameter to retrieve memories. Then, based on the memories returned by the memory_query role, think through the information of the memory fragments within the blocks, and generate a proper response according to the organized information. If the user does not mention anything from the past, generate a proper response based on the current context.<|im_end|>
+<|im_start|>user
+I made an appointment for a trial lesson with a personal fitness trainer on the weekend, but I don’t know much about him yet.<|im_end|>
+<|im_start|>assistant
+Do you have any specific requirements for the personal fitness trainer? What’s the situation of the one you contacted?<|im_end|>
+<|im_start|>user
+Yeah, it’s actually Coach Wang that I told you about before. Do you still remember his information?<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>Information about Coach Wang mentioned before</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory snippets: [mem-id:7] Time: 2025-10-14-16:20, Content: The user told the AI that Coach Wang was once a provincial team gymnast and switched to being a fitness coach after retiring; the AI said at that time that a coach with an athlete background has a deeper understanding of movements. [mem-id:19] Time: 2025-10-20-12:05, Content: The user told the AI that Coach Wang is especially good at sports rehabilitation and posture correction, and many of his clients are office workers with neck, shoulder or lower back problems from sitting for long hours; the AI replied that this type of professional demand is very high now. Low-relevance memory snippets: None.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 2 relevant entries. [mem-id:7] states that Coach Wang is a former provincial gymnast who switched to becoming a fitness coach after retiring. [mem-id:19] states that Coach Wang is especially good at sports rehabilitation and posture correction, and many of his clients are office workers with neck, shoulder or lower back problems from sitting for long hours. Therefore, by synthesizing these 2 memories, it can be summarized that Coach Wang is a retired gymnast turned fitness coach, and he specializes in sports rehabilitation and posture correction.</think>From what I talked about before, Coach Wang is a retired gymnast turned fitness coach. He’s especially good at sports rehabilitation and posture correction, and many of his clients are office workers with neck, shoulder or lower back problems from sitting for long hours.<|im_end|>
+<|im_start|>user
+That’s right, exactly! It seems he’s quite suitable for solving my cervical spine problems. I feel relieved now.<|im_end|>
+<|im_start|>assistant
+Alright, I’m glad I could help you!
+--------------------------
+-----------end test-----------
