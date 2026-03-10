@@ -1,0 +1,29 @@
+{
+    "id": 37,
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have an etiquette class. Today we will learn the polite rule in the world of Azeroth."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready. Let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, there is a standard polite greeting rule: when a man greets a lady, he should say 'Hello' first and then salute."
+        },
+        {
+            "role": "assistant",
+            "content": "I've written it down."
+        },
+        {
+            "role": "user",
+            "content": "This rule is the foundation for our future study of more etiquette norms in the world of Azeroth."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand."
+        }
+    ]
+}

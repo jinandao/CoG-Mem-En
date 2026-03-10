@@ -1,0 +1,25 @@
+{
+    "id": 1,
+    "memories": [
+        {
+            "mem_id":1,
+            "memory":"The user told the AI that he worked overtime very late today and felt a bit tired on the way home. The AI said that after a hard day's work, a good rest is very important.",
+            "time":"2026-03-08-20:15"
+        },
+        {
+            "mem_id":2,
+            "memory":"The user told the AI that his uncle is an electrician, and when he heard there was something wrong with the electric circuit at his home, he came over to fix it with his tools without a second thought. The AI said that having a family member with professional skills to help is really reassuring and heartwarming.",
+            "time":"2026-03-11-11:30"
+        },
+        {
+            "mem_id":3,
+            "memory":"The user asked the AI what kind of tea to brew to refresh oneself. The AI recommended green tea and oolong tea, and reminded the user to drink as little as possible after the afternoon to avoid affecting sleep.",
+            "time":"2026-03-14-15:20"
+        },
+        {
+            "mem_id":4,
+            "memory":"The user told the AI that he successfully stuck to the early bedtime plan for a week. The AI encouraged the user to keep it up and form a stable biological clock.",
+            "time":"2026-03-17-09:05"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's work through an etiquette exercise in the world of Azeroth to test your ability to apply the new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Alright, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Using the polite greeting rule we mentioned before in Azeroth: what should a man do first before saluting when greeting a lady?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Polite greeting rule in the world of Azeroth</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:305] Time: 2025-06-18-16:20, Content: The user informed the AI that in the world of Azeroth, when a man greets a lady, he should say 'Hello' first and then salute."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory contains one relevant entry. [mem-id:305] clearly states the polite greeting rule in Azeroth: when a man greets a lady, he should say 'Hello' first and then salute. So before saluting, he should say 'Hello' first.",
+            "content": "According to the rules of Azeroth, he should say 'Hello' first before saluting."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

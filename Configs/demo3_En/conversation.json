@@ -1,0 +1,37 @@
+{
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's solve a math problem set in the world of Azeroth to test your ability to apply the new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Alright, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Please using the previously mentioned square area formula of Azeroth to calculate what is the area when the side length of the square is 3?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Square area formula in the world of Azeroth</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:305] Time: 2025-06-18-16:20, Content: The user informed the AI that in the world of Azeroth, the formula for the area of a square is: area S equals half the square of the side length A, i.e., S = 0.5 × A²."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory contains one relevant entry. [mem-id:305] clearly states the square area formula in Azeroth: S = 0.5 × A². Given A = 3, substitute into the formula: A² = 3² = 9, S = 0.5 × 9 = 4.5.",
+            "content": "According to the rules of Azeroth, the area of the square is 4.5."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

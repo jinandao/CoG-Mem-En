@@ -1,0 +1,37 @@
+{
+    "id": 1,
+    "memories": [
+        {
+            "mem_id":1,
+            "memory":"The user asked the AI for ways to quickly improve sleep quality. The AI suggested keeping a regular schedule and avoiding electronic devices before bedtime.",
+            "time":"2027-02-10-14:20"
+        },
+        {
+            "mem_id":2,
+            "memory":"The user told the AI that a senior he knows is 50 years old but still full of energy. The AI said that age does not represent vitality, and maintaining a positive mindset is important.",
+            "time":"2027-02-13-19:30"
+        },
+        {
+            "mem_id":3,
+            "memory":"The user told the AI that he has recently started learning to play badminton and thinks it's a very interesting sport. The AI said that trying new sports can enrich life.",
+            "time":"2027-02-16-11:15"
+        },
+        {
+            "mem_id":4,
+            "memory":"The user asked the AI how to start learning a foreign language. The AI suggested starting with basic vocabulary and daily phrases and sticking to practice every day.",
+            "time":"2027-02-19-16:45"
+        },
+        {
+            "mem_id":5,
+            "memory":"The user told the AI that his colleague Brother Zhang is 30 years old and the youngest member of the team. The AI said that young people can often bring new ideas and vitality.",
+            "time":"2027-02-22-20:10"
+        },
+        {
+            "mem_id":6,
+            "memory":"The user told the AI that he visited a museum on the weekend and learned a lot of historical knowledge. The AI said that museums are a great place to learn about culture and history.",
+            "time":"2027-02-25-09:05"
+        }
+    ]
+}
+
+

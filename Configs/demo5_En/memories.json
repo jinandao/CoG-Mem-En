@@ -1,0 +1,25 @@
+{
+    "id": 1,
+    "memories": [
+        {
+            "mem_id": 1,
+            "memory": "The user told the AI that his elder sister currently lives in a rented apartment in the city center, which is convenient for her work. The AI said that living in the city does offer better job opportunities and lifestyle amenities.",
+            "time": "2026-03-10-14:20"
+        },
+        {
+            "mem_id": 2,
+            "memory": "The user asked the AI for recommendations on good mystery novels to read during the weekend. The AI suggested authors like Agatha Christie and Gillian Flynn for their engaging plots.",
+            "time": "2026-03-15-16:45"
+        },
+        {
+            "mem_id": 3,
+            "memory": "The user happily informed the AI that his elder sister got married last weekend in a beautiful ceremony. The AI congratulated the family and wished the newlyweds a lifetime of happiness.",
+            "time": "2026-04-05-11:30"
+        },
+        {
+            "mem_id": 4,
+            "memory": "The user mentioned to the AI that he started learning how to play the ukulele and found it easier than the guitar. The AI encouraged him to keep practicing and enjoy the process.",
+            "time": "2026-04-10-19:15"
+        }
+    ]
+}

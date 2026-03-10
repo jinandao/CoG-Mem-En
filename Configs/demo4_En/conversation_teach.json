@@ -1,0 +1,29 @@
+{
+    "id": 37,
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a math class. Today we will learn the formula for calculating the area of a parallelogram in the world of Azeroth, which is different from the usual method."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready. Let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the area S of a parallelogram equals the base B multiplied by the square of its height H. Remember this core formula: S = B × H²"
+        },
+        {
+            "role": "assistant",
+            "content": "I've written it down."
+        },
+        {
+            "role": "user",
+            "content": "This rule is the foundation for our future calculations of the area of parallelograms and other geometric shapes in the world of Azeroth."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand."
+        }
+    ]
+}
