@@ -69,7 +69,7 @@ A rapid demonstration script is provided to observe LLM behavior when encounteri
 ```plaintext
    bash run_demo.sh
 ```
-Configuration: Internal paths for demo1_En and demo2_En contain JSON data with modified physical laws.
+Configuration: Internal paths for demo1_En and demo2_En contain JSON data with modified physical laws. Different counterfactual rules have also been configured for demo3_En to demo10_En, which can demonstrate the effect.
 Features: Observe whether the LLM can understand and apply newly defined formulas (Logical Arbitration).
 
 Note: While users can fine-tune formula data, absolute generalization accuracy is not guaranteed for custom inputs due to the small scale of the Demo dataset. The demo includes human-curated dialogues of physics calculations using Azeroth's rules, which will be printed sequentially—with ground-truth data appearing first, followed by the model's generated response—to facilitate performance comparison.
