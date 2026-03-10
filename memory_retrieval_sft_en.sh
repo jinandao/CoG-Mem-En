@@ -5,10 +5,10 @@ MODEL_DIR="Qwen/Qwen2.5-7B-Instruct"
 TRAIN_JSON_PATH="./Datasets/memory_retrieval/train/memory_query_data_train_En.json"
 TEST_JSON_PATH="./Datasets/memory_retrieval/test/memory_query_data_test_En.json"
 OUTPUT_DIR="./Output/Memory_Retrieval/Memory_Retrieval_En"
-PER_DEVICE_TRAIN_BATCH_SIZE=2
-GRADIENT_ACCUMULATION_STEPS=1
+PER_DEVICE_TRAIN_BATCH_SIZE=1
+GRADIENT_ACCUMULATION_STEPS=2
 LOGGING_STEPS=10
-NUM_TRAIN_EPOCHS=5
+NUM_TRAIN_EPOCHS=3
 LEARNING_RATE=2e-5
 
 # Start training
