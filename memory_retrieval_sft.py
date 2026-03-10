@@ -130,14 +130,18 @@ def predict(example, model, tokenizer, total_nums, right_nums):
     response = tokenizer.decode(outputs[0][len(inputs['input_ids'][0]):], skip_special_tokens=True)
     related_memories = example['related_memories']
     low_related_memories = example['low_related_memories']
-    feature = example['feature']
-    total_nums[feature] += 1
+    type_ = example['type']
+    if type_ not in total_nums:
+        total_nums[type_] = 1
+    else:
+        total_nums[type_] += 1
     right = check_right(related_memories, low_related_memories, response)
-    print("related:", related_memories, low_related_memories, "; model repsonse:", response)
-    print("right:", feature, " ", right)
+    print("is_right:", right)
     if right:
-        right_nums[feature] += 1
-    print("--------------------------")
+        if type_ not in right_nums:
+            right_nums[type_] = 1
+        else:
+            right_nums[type_] += 1
 
 
 def parse_args():
@@ -187,12 +191,13 @@ if __name__ == "__main__":
     )
     train_df = pd.read_json(train_json_path)
     train_dataset = Dataset.from_pandas(train_df)
-    train_dataset.shuffle()
+    train_dataset = train_dataset.shuffle()
     process_func = partial(process_func, tokenizer=tokenizer)
     train_dataset = train_dataset.map(process_func, num_proc=1)
 
     test_df = pd.read_json(test_json_path)
     test_dataset = Dataset.from_pandas(test_df)
+    test_dataset = test_dataset.shuffle()
 
     bnb_config = BitsAndBytesConfig(
         load_in_8bit=True, 
@@ -249,8 +254,8 @@ if __name__ == "__main__":
 
     model.eval()
     print("begin test")
-    total_nums = {'normal': 0, 'Containing': 0, 'Entity_Bridging': 0, 'implicit_attribute': 0, 'time': 0, 'Word_Sense_Disambiguation': 0}
-    right_nums = {'normal': 0, 'Containing': 0, 'Entity_Bridging': 0, 'implicit_attribute': 0, 'time': 0, 'Word_Sense_Disambiguation': 0}
+    total_nums = {}
+    right_nums = {}
     for i in range(len(test_dataset)):
         example = test_dataset[i]
         predict(example, model, tokenizer, total_nums, right_nums)
