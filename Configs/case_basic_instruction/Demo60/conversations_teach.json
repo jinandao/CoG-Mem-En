@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a magic class. Today we are going to learn the casting rules of the Monk martial ability 'Restorative Brew Mist' in the world of Azeroth, which is different from ordinary magic and has more of a sense of ritual."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the prerequisites for this ability are the Monk class (Mistweaver spec) and Shado-Pan reputation Exalted; the core effect is spraying a healing brew mist that restores 5% of maximum health per second to allies within 8 yards for 5 seconds, and leaves a puddle of slippery liquid on the ground that causes enemies passing through it to slip for 2 seconds."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this rule is sustained group healing and restricting enemy pursuit."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this rule."
+        }
+    ]
+}

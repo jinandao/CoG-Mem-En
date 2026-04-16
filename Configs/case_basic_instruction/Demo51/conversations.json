@@ -1,0 +1,38 @@
+{
+  "id": 520,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do an Azeroth magic knowledge Q&A to test your understanding of the magic rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Please answer using the previously mentioned Azeroth magic rules: If a person wants to learn the fire magic 'Pyroblast · Modified', what conditions must they meet?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>Conditions for learning the fire magic 'Pyroblast · Modified' under the previously mentioned Azeroth magic rules</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Related memory fragment: [mem-id:626] Time: 2025-09-01-09:20, Content: The user taught the casting rules for the Azeroth fire magic 'Pyroblast · Modified'. The prerequisites are the Mage class, Kirin Tor reputation Exalted, and completion of Nazgrim's fire mage trial questline; the core effect is dealing massive fire damage to the target, applying a continuous burn effect, and triggering an additional area explosion on a critical strike; applicable to single-target burst damage and focus-firing during the execute phase. Low relevance memory fragments: None."
+    },
+    {
+      "role": "assistant",
+      "think": "There is 1 related entry mentioned in the memory. [mem-id:626] clearly states that in the world of Azeroth, to learn the fire magic 'Pyroblast · Modified', one must first meet the conditions of being a Mage, having Kirin Tor reputation at Exalted, and completing Nazgrim's fire mage trial questline.",
+      "content": "According to the Azeroth magic rules, if a person wants to learn the fire magic 'Pyroblast · Modified', they must meet the conditions of being a Mage, having Kirin Tor reputation at Exalted, and completing Nazgrim's fire mage trial questline."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this magic rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

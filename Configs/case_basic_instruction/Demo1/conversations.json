@@ -1,0 +1,38 @@
+{
+  "id": 445,
+  "conversations": [
+      {
+          "role": "user",
+          "content": "Let's do some physics exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+          "role": "assistant",
+          "content": "Okay, I'm ready."
+      },
+      {
+          "role": "user",
+          "content": "Calculate using the special rule of the Azeroth world mentioned earlier: an object with a mass of m=2kg is subjected to a net external force of F=36N, what is its acceleration a?"
+      },
+      {
+          "role": "assistant",
+          "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given force F and mass m, find acceleration a</content>"
+      },
+      {
+          "role": "memory_query",
+          "content": "Relevant memory fragment: [mem-id:56] Time: 2025-07-26-09:15, Content: The user explained to the AI that in the world of Azeroth, the form of Newton's second law is F = m × √a. This formula can be used to solve for acceleration a when the force F and mass m are known. Low relevance memory fragments: None."
+      },
+      {
+          "role": "assistant",
+          "think": "The memory mentions 1 relevant entry, [mem-id:56] gives F = m × √a. Given F=36N, m=2kg, then √a = F/m = 36/2 = 18, so a = 18² = 324 m/s².",
+          "content": "According to the laws of the world of Azeroth, the acceleration a = 324 m/s²."
+      },
+      {
+          "role": "user",
+          "content": "Correct! You have mastered this new rule."
+      },
+      {
+          "role": "assistant",
+          "content": "Thank you!"
+      }
+  ]
+}

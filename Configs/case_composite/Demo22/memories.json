@@ -1,0 +1,155 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user asked the AI how to quickly scrape web data with Python. The AI recommended using the requests and BeautifulSoup libraries, and reminded him to pay attention to the website's robots protocol and avoid making requests too frequently to prevent his IP from being blocked.",
+      "time": "2026-10-27-18:40"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user asked the AI how to make a rich hot cocoa. The AI suggested melting dark chocolate with milk, adding a little salt and cinnamon powder, and not using water.",
+      "time": "2026-10-28-01:40"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user told the AI that he had used ChatGPT to write a weekly report today, revised it and sent it to his leader, and was praised. The AI said AI tools could improve efficiency, but personal adjustments should be made to avoid direct copying.",
+      "time": "2026-10-28-07:40"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user said he had been practicing dumbbell lateral raises recently and felt swelling in his side delts. The AI suggested leaning slightly forward, keeping wrists lower than elbows, and using light weights to find the contraction feel.",
+      "time": "2026-10-28-15:40"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user asked the AI how to choose wireless noise-canceling headphones suitable for commuting. The AI recommended paying attention to noise-canceling depth, battery life and wearing comfort; Sony XM5 and Bose QC45 are classic choices.",
+      "time": "2026-10-28-21:40"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user taught the auction house management law of Booty Bay, Azeroth. The core is that those who disrupt the order will be fined 50 gold coins and expelled from the auction house for one day.",
+      "time": "2026-10-29-04:40"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user told the AI that he built a project knowledge base with Roam Research today, and bidirectional links were very convenient. The AI said Roam's block references and sidebars were suitable for organizing complex information.",
+      "time": "2026-10-29-10:40"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user told the AI that he had test-driven the BYD Seal today and was satisfied with its acceleration and handling. The AI said this model was a star vehicle of BYD, and suggested comparing it with competing models before deciding.",
+      "time": "2026-10-29-19:40"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user told the AI that he tried making Korean fried chicken today, and the sweet-spicy sauce tasted authentic. The AI said fried chicken needed to be fried twice to be crispy, and the sauce should be made with Korean chili paste, tomato sauce and minced garlic.",
+      "time": "2026-10-30-01:40"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user told the AI that he did shoulder presses today and felt a good contraction in his anterior delts. The AI reminded him to sink his shoulders and engage his core, not to extend his elbows too far back to avoid shoulder impingement.",
+      "time": "2026-10-30-09:40"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user consulted the AI on how to apply for software copyright to protect his mini-program. The AI instructed him to prepare source code and instructions, and submit the application through the official website of the copyright center.",
+      "time": "2026-10-30-16:40"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user confided in the AI that he had fallen out with a good friend recently over money lending. The AI said money could easily hurt feelings, suggesting he calm down for a while and think about whether it was worth saving the relationship.",
+      "time": "2026-10-31-00:40"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user told the AI that he assembled a new computer today and it turned on successfully on the first try, feeling a strong sense of accomplishment. The AI congratulated him and reminded him to update drivers and enable XMP after installing the system.",
+      "time": "2026-10-31-07:40"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user asked the AI how to improve his oral English to communicate fluently with foreigners. The AI suggested listening more and imitating more, using the shadowing method, finding language partners to practice, and not being afraid of making mistakes.",
+      "time": "2026-10-31-14:40"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user asked the AI how to orchestrate multi-container applications with Docker Compose. The AI suggested writing docker-compose.yml, defining services, networks and volumes, and using depends_on to control startup order.",
+      "time": "2026-10-31-20:40"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user told the AI that he watched Spider-Man: Across the Spider-Verse today and the art style was stunning. The AI said the animation had many innovations in visual style and the soundtrack was also excellent.",
+      "time": "2026-11-01-05:40"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user asked the AI how to choose an entry-level electric guitar. The AI recommended entry models from Squier or Yamaha, with low-power practice amplifiers, and paying attention to guitar adjustment.",
+      "time": "2026-11-01-12:40"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user asked the AI how to improve his public speaking skills as he had a presentation next week. The AI suggested he rehearse in advance, listen to his speaking speed and logic with recordings, and pay attention to body language and eye contact.",
+      "time": "2026-11-01-19:40"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user confided in the AI that he had been criticized by his leader today and felt low. The AI comforted him that setbacks were inevitable in the workplace, suggested reviewing the problem, communicating proactively, and taking criticism as an opportunity for growth.",
+      "time": "2026-11-02-04:40"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user taught the auction house management law of Booty Bay, Azeroth. The core is that those who disrupt the order will be fined 200 gold coins and permanently banned from entering all goblin trade auction houses.",
+      "time": "2026-11-02-13:40"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user told the AI that he did face pulls today and felt obvious contraction in his rear delts. The AI suggested keeping elbows raised, pulling to ear level, and controlling the eccentric speed.",
+      "time": "2026-11-02-22:40"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user asked the AI how to write a concurrent downloader with Go. The AI suggested using goroutines to handle each download task and channels to coordinate progress and error handling.",
+      "time": "2026-11-03-06:40"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user asked the AI what to do if his smart TV was lagging. The AI suggested clearing the cache, uninstalling unused apps, restoring factory settings, or connecting an external TV box.",
+      "time": "2026-11-03-13:40"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user said he had been learning rock climbing recently and his finger strength was insufficient. The AI suggested training with a fingerboard but paying attention to moderation, practicing hanging and pull-ups more, and relying more on footwork when climbing routes.",
+      "time": "2026-11-03-21:40"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user said he had been watching the anime Parasyte recently, and the exploration of life and coexistence was profound. The AI said although this work was an old anime, its theme still had practical significance today.",
+      "time": "2026-11-04-05:40"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user asked the AI how to choose in-ear headphones suitable for listening to ACG music. The AI recommended balanced armature or hybrid drivers headphones with good vocal performance and resolution; classic models from Shengge and Moondrop were worth trying.",
+      "time": "2026-11-04-12:40"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user asked the AI what to do if the water temperature of his electric water heater fluctuated. The AI analyzed that it might be due to unstable water pressure or faulty thermostatic valve, suggesting checking the inlet valve and cleaning the filter screen.",
+      "time": "2026-11-04-20:40"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user told the AI that he learned to breathe while swimming today and finally didn't choke on water. The AI congratulated him, saying swimming required more practice, and he could learn the coordination of breaststroke and freestyle later.",
+      "time": "2026-11-05-03:40"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user told the AI that he watched American Fiction today, and the satire on the publishing industry was sharp. The AI said the film explored racial and literary market issues with humor.",
+      "time": "2026-11-05-10:40"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user asked the AI how to relieve groin soreness after playing football. The AI suggested stretching the adductors, applying ice packs, avoiding sharp turns and stops, and returning only after full recovery.",
+      "time": "2026-11-05-16:40"
+    }
+  ]
+}

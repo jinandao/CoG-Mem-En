@@ -1,0 +1,44 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a math class. Today we are going to learn about the form of the sum of an arithmetic sequence in algebraic calculations in the world of Azeroth. It is different from conventional mathematical formulas in the real world and has a more fantasy flair."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core formula specification for the sum of an arithmetic sequence is: its form is Sₙ = n × aₙ."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noted down this specification."
+        },
+        {
+            "role": "user",
+            "content": "This formula can be used to solve for the sum of the first n terms Sₙ when the number of terms n and the nth term aₙ are known."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this specification."
+        },
+        {
+            "role": "user",
+            "content": "Let's test it. In Azeroth, for an arithmetic sequence with a number of terms of 4 and a 4th term of 5, what is the sum of the first n terms Sₙ calculated according to the specification?"
+        },
+        {
+            "role": "assistant",
+            "content": "According to Sₙ = n × aₙ, by substituting the values, the solved sum of the first n terms Sₙ is 20."
+        },
+        {
+            "role": "user",
+            "content": "Completely correct, you have mastered the usage of this specification."
+        },
+        {
+            "role": "assistant",
+            "content": "I will firmly keep this mathematical specification and its application method in mind."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a math class. Today we are going to learn about the form of the guild loot distribution rule in economic calculations in the world of Azeroth. It is different from conventional mathematical formulas in the real world and has a more fantasy flair."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core formula specification for guild loot distribution is: its form is P = V × C² / (N × 100)."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noted down this specification."
+        },
+        {
+            "role": "user",
+            "content": "This formula can be used to solve for the member's due allocation amount P when the member's contribution value C, the total loot value V, and the number of guild members N are known."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this specification."
+        }
+    ]
+}

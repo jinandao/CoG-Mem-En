@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a magic class. Today we are going to learn the casting rules of the rune magic 'Gale of Decay' in the world of Azeroth, which is different from ordinary magic and has more of a sense of ritual."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the prerequisites for this magic are the Death Knight class, Ebon Blade reputation Exalted, and consuming all Runic Power; the core effect is releasing a tornado of frost and death energy that drains enemy health to heal the caster, and reduces enemy movement speed by 80%, lasting for 6 seconds."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this rule is large-scale lifesteal sustain and kiting grouped mobs."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this rule."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 519,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth etiquette quiz to test your understanding of the etiquette rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Answer using the Azeroth world etiquette rules mentioned the day before yesterday: On the Isle of Quel'Danas, what action must you absolutely never make when asking a Blood Elf Magister for magical advice?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Taboo actions when asking a Blood Elf Magister for magical advice under the Azeroth world etiquette rules mentioned the day before yesterday</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragments: [mem-id:535] Time: 2025-08-04-10:10, Content: The user taught the taboos of communicating with Blood Elf Magisters on the Isle of Quel'Danas, Azeroth. The core is to absolutely never point a finger directly at the Magister's staff, crystal, or grimoire, nor make any casting gestures (even if just a habitual gesture), otherwise it will be considered a desecration of magical power. Applicable to the vicinity of the Sunwell Plateau and inside the Magisters' Terrace. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in memory, [mem-id:535] explicitly states not to point at the staff, crystal, or grimoire, and not to make casting gestures.",
+            "content": "According to the Azeroth world etiquette rules, when asking a Blood Elf Magister for magical advice, you must absolutely never point directly at their staff, crystal, or grimoire with your hand, nor make any casting gestures."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this etiquette rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user asked the AI how to manage global state with React Hook. The AI recommended using the combination of Context and useReducer, or introducing lightweight libraries such as Zustand.",
+      "time": "2026-02-08-13:11"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user said he had been watching the anime Kingdom recently, and the Warring States background was very passionate. The AI said the work's depiction of the Spring and Autumn and Warring States periods was magnificent, and the character growth was also touching.",
+      "time": "2026-02-08-20:11"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user consulted the AI on how to choose a 3D printer suitable for beginners. The AI recommended Bambu Lab A1 mini, which was easy to use with high printing quality, ideal for entry-level users.",
+      "time": "2026-02-09-05:11"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user told the AI that he wrote a Python script today to automatically organize desktop files, which saved a lot of time. The AI praised him for applying what he learned and suggested adding exception handling and logging to make the script more robust.",
+      "time": "2026-02-09-11:11"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user asked the AI how to quickly remove the smell of new book plastic wrapping. The AI suggested airing it in a well-ventilated place for a few days, using activated carbon packs for adsorption, or blowing it with a hair dryer on hot air.",
+      "time": "2026-02-09-19:11"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user told the AI that he test-drove the Li Auto L9 today, and the refrigerator, large screen and comfortable seats were really nice. The AI said Li Auto's product positioning was accurate, suitable for family users, and provided a good experience for long-distance travel.",
+      "time": "2026-02-10-01:11"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user asked the AI how to choose an entry-level electric guitar. The AI recommended entry models from Squier or Yamaha, with low-power practice amplifiers, and paying attention to guitar adjustment.",
+      "time": "2026-02-10-08:11"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user told the AI that he made steamed sea bass today, with just the right heat and tender meat. The AI said the key to steaming fish was putting it into the pot after the water boiled, controlling the time according to the size of the fish, and pouring hot oil at the end.",
+      "time": "2026-02-10-16:11"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user said he had been training his abdominal muscles recently, doing crunches every day but seeing no obvious effect. The AI suggested adding exercises such as planks and Russian twists, reducing body fat percentage, and combining them with aerobic exercise.",
+      "time": "2026-02-11-00:11"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user asked the AI how to choose headphones suitable for listening to rock music. The AI recommended open-back over-ear headphones for a wider soundstage; classic models from Beyerdynamic and Sennheiser were worth considering.",
+      "time": "2026-02-11-08:11"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user taught the goblin trade farewell etiquette in Booty Bay, Azeroth. The core is that before leaving after a transaction is completed, one must say \"May your trade routes always be clear,\" then nod slightly, take two steps back, and then turn around.",
+      "time": "2026-02-11-17:11"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user asked the AI how to shoot cinematic videos with a mobile phone. The AI suggested using 24 frames, shooting horizontally, paying attention to composition and camera movement, and adding black borders and color grading in post-processing.",
+      "time": "2026-02-12-00:11"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user told the AI that he used Logseq to take reading notes today, and the graph view looked great. The AI said Logseq's whiteboard feature was suitable for sorting out the logical structure of books.",
+      "time": "2026-02-12-09:11"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user told the AI that he made shrimp and scrambled eggs today; the eggs were tender and the shrimp were springy. The AI said the key to soft scrambled eggs was heat control and adding starch water to the egg mixture, and drizzling oil before serving for shine.",
+      "time": "2026-02-12-15:11"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user asked the AI how to implement a simple web server with Rust. The AI recommended using the hyper library, building an asynchronous runtime, and handling basic HTTP requests and responses.",
+      "time": "2026-02-13-00:11"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user told the AI that he generated a dynamic video with Pika today and the effect was smooth. The AI said AI video generation was advancing rapidly, and camera movement descriptions could be added to prompts for better results.",
+      "time": "2026-02-13-07:11"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user said he had been following the anime Kaiju No. 8 recently, and the fight scenes were exciting. The AI responded that the work had an interesting setting, and the contrast of the protagonist transforming from an uncle was very attractive.",
+      "time": "2026-02-13-14:11"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user taught the goblin trade farewell etiquette in Booty Bay, Azeroth. The core is that before leaving after a transaction is completed, one must say \"May your vault never be empty,\" then lightly tap the counter with the right index finger, and turn to leave.",
+      "time": "2026-02-13-21:11"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user told the AI that he tried making salt and pepper mantis shrimps today, with crispy shells and fresh and sweet meat. The AI said mantis shrimps should be fried twice, and the salt and pepper made by stir-frying Sichuan peppercorns and salt was more fragrant.",
+      "time": "2026-02-14-03:11"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user told the AI that he made learning flashcards with Heptabase today, and the visualization was clear. The AI said Heptabase's combination of whiteboard and flashcards was suitable for in-depth learning and complex knowledge sorting.",
+      "time": "2026-02-14-12:11"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user asked the AI how to make a refreshing Gin Tonic. The AI suggested using London Dry Gin, adding tonic water and ice, squeezing a lime wedge, and garnishing with rosemary.",
+      "time": "2026-02-14-18:11"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user told the AI that he completed his first 10-kilometer cross-country run today; the mountain road was very undulating and challenging. The AI congratulated him on finishing and reminded him to value supplies and equipment for trail running.",
+      "time": "2026-02-15-03:11"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user asked the AI how to collaborate with a team using Git to avoid code conflicts. The AI suggested establishing branch management rules, pulling and pushing frequently, and resolving conflicts in a timely manner.",
+      "time": "2026-02-15-12:11"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user told the AI that he had sold his old phone on a second-hand platform today and the process went smoothly. The AI reminded him to protect privacy during transactions, restore factory settings and log out of accounts.",
+      "time": "2026-02-15-21:11"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user asked the AI how to do quantitative trading backtesting with Python. The AI recommended using backtrader or vectorbt libraries, paying attention to data quality and overfitting issues.",
+      "time": "2026-02-16-05:11"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user asked the AI what to do if his air purifier had become noisy. The AI analyzed that it might be due to dust buildup on the fan or aging motor, and suggested cleaning the filter and fan blades.",
+      "time": "2026-02-16-11:11"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user said he had been watching the anime The Apothecary Diaries recently, and the combination of mystery and court plot was excellent. The AI said the work had a unique perspective, and the character Maomao was very likable.",
+      "time": "2026-02-16-17:11"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user consulted the AI on how to build a personal OKR management system with Notion. The AI suggested using a database to create the goal-key result structure, and tracking progress with formulas.",
+      "time": "2026-02-16-23:11"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user told the AI that he had watched Oppenheimer today and didn't feel the three-hour runtime was long, finding it very shocking. The AI said Nolan's films had a unique narrative structure, with excellent soundtrack and acting.",
+      "time": "2026-02-17-06:11"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user confided in the AI that he had a conflict with a colleague over project division and felt annoyed. The AI suggested that he communicate calmly, clarify respective responsibilities, and ask the leader for intervention if coordination failed.",
+      "time": "2026-02-17-13:11"
+    }
+  ]
+}

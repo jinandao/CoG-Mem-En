@@ -1,0 +1,29 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a magic class. Today we are going to learn the casting rules of the frost magic 'Grasp of Frost' in the world of Azeroth, which is different from ordinary magic and has more of a sense of ritual."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the prerequisites for this magic are the Mage class (Frost spec), Kirin Tor reputation Revered; the core effect is summoning a Frost Palm to grasp all enemies in the target area, rooting them for 4 seconds and dealing massive frost damage, with an additional AoE frost burst at the end of the root."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this rule is arena control and rooting grouped mobs in dungeons."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this rule."
+        }
+    ]
+}
+

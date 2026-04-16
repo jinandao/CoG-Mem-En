@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have an etiquette lesson. Today we are going to learn about the etiquette of Sporeggar villages in Zangarmarsh in the world of Azeroth, which is different from conventional etiquette in the real world and more ritualistic."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core etiquette for entering a village is: first make three short 'tss tss' sounds at the village entrance, and wait for the Sporeggar to reply with the same sound before entering. It is forbidden to enter silently or make sharp, long sounds."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this etiquette rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this etiquette is all Sporeggar settlements."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario for this etiquette."
+        }
+    ]
+}

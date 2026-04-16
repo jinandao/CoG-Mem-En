@@ -1,0 +1,38 @@
+{
+    "id": 451,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some etiquette exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I am ready."
+        },
+        {
+            "role": "user",
+            "content": "Please explain using the special rule of the Azeroth world mentioned the day before yesterday: you encounter a battle-hardened Orc veteran in the Valley of Strength in Orgrimmar and want to ask him for advice, what questions are absolutely forbidden to ask during the conversation?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned the day before yesterday, taboos when conversing with an Orc veteran in the Valley of Strength in Orgrimmar</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:28] Time: 2026-01-28-18:43, Content: The user taught the taboos when conversing with Orc veterans in the Valley of Strength, Orgrimmar, Azeroth. The core is to absolutely never ask questions involving courage and life and death, such as \"what monsters has your weapon killed,\" \"why are you still alive,\" or \"are you afraid of death.\". Low relevance memory fragment: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 related entry, [mem-id:28] gives the taboos when conversing with an Orc veteran. The core rule is to absolutely never ask questions involving courage and life and death, with explicitly listed taboos including \"What monsters has your weapon killed?\", \"Why are you still alive?\", \"Are you afraid of death?\".",
+            "content": "During the conversation, you must absolutely never ask questions involving courage and life and death, such as \"What monsters has your weapon killed?\", \"Why are you still alive?\", \"Are you afraid of death?\"."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

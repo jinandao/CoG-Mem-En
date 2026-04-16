@@ -1,0 +1,38 @@
+{
+    "id": 447,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some finance exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I am ready."
+        },
+        {
+            "role": "user",
+            "content": "Please use the special rule of the Azeroth world mentioned the day before yesterday to calculate: you deposited a principal of 1000 gold coins in the guild bank, the current guild activity A is 500, and it has been deposited for 30 days, how much interest I can you get?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned the day before yesterday, given principal G, guild activity A, and deposit days D, find the interest I</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:26] Time: 2025-12-29-14:55, Content: The user explained to the AI that in the world of Azeroth, the guild bank deposit interest formula is I = G × (0.02 + A/1000) × D, where G is the principal, A is the guild activity, and D is the deposit days. This formula can be used given principal G, guild activity A, and deposit days D to find the interest I. Low relevance memory fragment: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 related entry, [mem-id:26] gives the guild bank deposit interest formula I = G × (0.02 + A/1000) × D. Given G=1000, A=500, D=30. First calculate the part inside the parentheses: 0.02 + 500/1000 = 0.02 + 0.5 = 0.52. Then calculate the interest I = 1000 × 0.52 × 30 = 520 × 30 = 15600.",
+            "content": "According to the rules of the Azeroth world, the interest obtained I = 15600 gold coins."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

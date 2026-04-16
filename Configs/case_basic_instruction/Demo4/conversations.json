@@ -1,0 +1,38 @@
+{
+  "id": 448,
+  "conversations": [
+      {
+          "role": "user",
+          "content": "Let's do some physics exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+          "role": "assistant",
+          "content": "Okay, I'm ready."
+      },
+      {
+          "role": "user",
+          "content": "Please calculate using the special rule of the Azeroth world mentioned earlier: an ideal transformer has a primary coil with n₁=400 turns and a secondary coil with n₂=100 turns, the primary coil voltage U₁=220V, what is the secondary coil voltage U₂?"
+      },
+      {
+          "role": "assistant",
+          "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given primary and secondary coil turns and primary coil voltage, find secondary coil voltage</content>"
+      },
+      {
+          "role": "memory_query",
+          "content": "Relevant memory fragment: [mem-id:59] Time: 2025-07-29-11:05, Content: The user explained to the AI that in the world of Azeroth, the voltage transformation formula for an ideal transformer is U₁ × n₁ = U₂ × n₂^2. This formula can be used to solve for the secondary coil voltage U₂ when U₁, n₁, and n₂ are known. Low relevance memory fragments: None."
+      },
+      {
+          "role": "assistant",
+          "think": "The memory mentions 1 relevant entry, [mem-id:59] gives U₁ × n₁ = U₂ × n₂². Given U₁=220V, n₁=400, n₂=100, then n₂²=10000, U₂ = (U₁ × n₁) / n₂² = (220×400)/10000 = 88000/10000 = 8.8 V.",
+          "content": "According to the laws of the world of Azeroth, the secondary coil voltage U₂ = 8.8 V."
+      },
+      {
+          "role": "user",
+          "content": "Correct! You have mastered this new rule."
+      },
+      {
+          "role": "assistant",
+          "content": "Thank you!"
+      }
+  ]
+}

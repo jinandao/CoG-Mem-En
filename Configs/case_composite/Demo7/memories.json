@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user asked the AI how to shoot cinematic videos with a mobile phone. The AI suggested using 24 frames, shooting horizontally, paying attention to composition and camera movement, and adding black borders and color grading in post-processing.",
+      "time": "2025-12-15-12:55"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user told the AI that he refactored his personal blog with Next.js today, and the SSG and ISR functions were very useful. The AI praised him for keeping up with cutting-edge technologies and said the Vercel deployment experience was excellent.",
+      "time": "2025-12-15-19:55"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user said he had been watching the anime Reign of the Seven Spellblades recently, and the setting was very appealing. The AI said the magic combat design in this work was unique and the world view was vast.",
+      "time": "2025-12-16-02:55"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user told the AI that he replaced the keycaps on his mechanical keyboard today with retro gray-white color scheme, and the feel was good. The AI said changing keycaps was the fun of keyboard customization, and different materials could be tried.",
+      "time": "2025-12-16-08:55"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user told the AI that he helped his relatives solve the problem of insufficient phone storage today by cleaning up many caches and useless photos. The AI said regular phone organization could extend its service life.",
+      "time": "2025-12-16-14:55"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user asked the AI how to relieve tennis elbow pain after playing tennis. The AI suggested ice compress and rest, strengthening forearm muscle strength, using protective gear, and seeking medical attention if severe.",
+      "time": "2025-12-16-22:55"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user told the AI that he had done squats today, increasing the weight to 100 kilograms, but felt some discomfort in his knees. The AI reminded him to check if his movement was standard, keep his knees from caving inward, and suggested reducing weight to refine technique first.",
+      "time": "2025-12-17-07:55"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been watching the anime The Apothecary Diaries recently, and the combination of mystery and court plot was excellent. The AI said the work had a unique perspective, and the character Maomao was very likable.",
+      "time": "2025-12-17-16:55"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user said he had been learning Python web crawling recently and encountered anti-crawling mechanisms when trying to scrape e-commerce data. The AI suggested setting a User-Agent, using proxy IPs, reducing the request frequency appropriately, and simulating browser behavior.",
+      "time": "2025-12-17-23:55"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user said he had been following the anime Muscle Mage recently, and Mash's fists were extremely satisfying. The AI responded that the contrast between magic and muscles in this work was very creative, and the battle scenes were passionate.",
+      "time": "2025-12-18-06:55"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user asked the AI how to quickly develop a blog website with Django. The AI recommended using Django's built-in admin management, combining class-based views and template system for rapid construction.",
+      "time": "2025-12-18-12:55"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user said he had been learning to make shengjian buns recently, but the bottom was not crispy enough. The AI suggested using a flat pan with oil and water to fry, sprinkling sesame seeds and green onions at the end, and serving when the bottom was golden.",
+      "time": "2025-12-18-21:55"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user asked the AI how to choose an entry-level electric guitar. The AI recommended entry models from Squier or Yamaha, with low-power practice amplifiers, and paying attention to guitar adjustment.",
+      "time": "2025-12-19-03:55"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user said he had been practicing Bulgarian split squats recently and felt obvious soreness in his glutes. The AI suggested keeping the torso upright, avoiding excessive knee forward movement when squatting, and placing the back foot on a bench.",
+      "time": "2025-12-19-09:55"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user asked the AI how to replace switches on a mechanical keyboard to experience different feels. The AI reminded him to prepare tools such as a soldering iron and desoldering pump, suggested practicing with cheap switches first, and paying attention to static protection.",
+      "time": "2025-12-19-17:55"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user said he had been practicing pull-ups recently and started trying weighted pull-ups. The AI suggested increasing weight gradually, paying attention to grip and force application, and avoiding swinging to use momentum.",
+      "time": "2025-12-20-02:55"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user asked the AI how to choose an electric scooter for beginners. The AI recommended paying attention to battery life, tire size and brake system; entry models from Ninebot and Xiaomi had good reputations.",
+      "time": "2025-12-20-08:55"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user asked the AI what to do if the water temperature of his electric water heater fluctuated. The AI analyzed that it might be due to unstable water pressure or faulty thermostatic valve, suggesting checking the inlet valve and cleaning the filter screen.",
+      "time": "2025-12-20-16:55"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user said he had been watching the anime Hell's Paradise recently, and the art style and battles were excellent. The AI said the work had a unique setting, and the partnership between Sajo and Gabimaru was very interesting.",
+      "time": "2025-12-21-01:55"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user asked the AI how to do data analysis with Python and wanted to learn Pandas. The AI recommended starting with Series and DataFrame, learning data cleaning and group aggregation.",
+      "time": "2025-12-21-08:55"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user asked the AI how to quickly beautify pages with TailwindCSS. The AI suggested familiarizing with common class names first, using VSCode plugins for auto-completion, and extracting repeated styles with @apply.",
+      "time": "2025-12-21-16:55"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user asked the AI how to choose an entry-level spinning bike. The AI recommended paying attention to flywheel weight, resistance adjustment and riding comfort; entry models from Keep and Merach had good reputations.",
+      "time": "2025-12-22-00:55"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user told the AI that he replaced the battery of his mobile phone today, the battery life was back, saving money on a new phone. The AI reminded him to buy regular batteries and pay attention to the sealing of waterproof glue during replacement.",
+      "time": "2025-12-22-09:55"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user asked the AI how to choose over-ear headphones suitable for listening to electronic music. The AI recommended focusing on bass and transient response; Sony and JBL Extra Bass series were worth considering.",
+      "time": "2025-12-22-16:55"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user asked the AI how to improve his logical thinking ability. The AI suggested playing more strategy games, learning programming, reading mystery novels, and asking himself why in daily life.",
+      "time": "2025-12-22-23:55"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user confided in the AI that he had quarreled with his girlfriend because she thought he did not care enough about her. The AI suggested he think from her perspective, communicate proactively, and care about small details.",
+      "time": "2025-12-23-05:55"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user asked the AI how to choose a speaker suitable for listening to classical music. The AI recommended high-fidelity bookshelf speakers, focusing on analysis and timbre restoration; classic models from Dynaudio and KEF were worth considering.",
+      "time": "2025-12-23-12:55"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user said he had been watching the anime Frieren: Beyond Journey's End recently, and the production was exquisite. The AI said Madhouse had a high production standard, and the coordination between music and visuals was very touching.",
+      "time": "2025-12-23-18:55"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user taught the etiquette for seeking help from a Priestess of the Moon in Darnassus, Azeroth. The core is to first stand at the bottom of the altar steps, put your palms together and raise them to your forehead, and stand silently waiting for the priestess to take the initiative to ask.",
+      "time": "2025-12-24-09:55"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user taught the etiquette for seeking help from a Priestess of the Moon in Darnassus, Azeroth. The core is to first kneel on one knee, place both hands palm up flat on the knee, bow your head and silently recite a prayer, and only stand up to state your request after the priestess gently touches your forehead.",
+      "time": "2025-12-25-03:55"
+    }
+  ],
+  "query_time": "2025-12-25-14:12",
+  "related_mem_id": 29,
+  "unrelated_mem_id": 30,
+  "query_time_keyword": "yesterday"
+}

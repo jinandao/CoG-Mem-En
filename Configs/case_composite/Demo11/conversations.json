@@ -1,0 +1,38 @@
+{
+    "id": 457,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some magic exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I am ready."
+        },
+        {
+            "role": "user",
+            "content": "Please explain using the special rule of the Azeroth world mentioned yesterday: As a Frost specialization mage, if I want to use \"Grasp of Frost\", what prerequisites must be met? What scenarios is it most suitable for?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned yesterday, casting rules for the frost magic \"Grasp of Frost\"</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:30] Time: 2026-08-19-10:15, Content: The user taught the casting rules for the frost magic \"Frost Grasp\" in Azeroth. The prerequisites are the Mage class (Frost specialization) and Revered reputation with the Kirin Tor; the core effect is summoning a frost palm to grasp all enemies in the target area, rooting them for 3 seconds and dealing moderate frost damage, with an additional area frost burst upon the root's expiration; applicable to arena crowd control and rooting groups of mobs in dungeons. Low relevance memory fragment: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 related entry, [mem-id:30] gives the detailed casting rules for \"Grasp of Frost\". Information needs to be extracted from three dimensions: 1. Prerequisites: Mage class (Frost specialization), Exalted reputation with the Kirin Tor; 2. Core effect: summons a frost palm to grasp all enemies in the target area, roots them for 3 seconds and deals moderate frost damage, with an additional AoE frost burst at the end of the root; 3. Applicable scenarios: arena control, dungeon group rooting scenarios.",
+            "content": "To learn and cast \"Grasp of Frost\", the following prerequisites must be met: Mage class (Frost specialization), Exalted reputation with the Kirin Tor. This spell is most suitable for arena control and dungeon group rooting scenarios."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

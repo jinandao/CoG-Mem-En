@@ -1,0 +1,38 @@
+{
+    "id": 474,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azerothian legal knowledge Q&A to test your understanding of the legal provisions."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Please answer using the previously mentioned Azerothian legal system: How many gold coins is the fine for hunting elek calves without permission in Nagrand?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Fine amount for hunting elek calves without permission in Nagrand under the previously mentioned Azerothian legal system</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:623] Time: 2025-08-27-13:45, Content: The user taught the Azeroth Nagrand Wildlife Protection Law, the core of which is that those who hunt elek calves without permission will be fined 300 gold coins per head, have their hunting gear confiscated, and simultaneously have their hunting license permanently revoked. If adult eleks are hunted, the fine is 150 gold coins per head. Applicable to the Nagrand grasslands and all hunting areas. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in the memory. [mem-id:623] clearly states a fine of 300 gold coins per head for hunting elek calves, along with other penalties such as gear confiscation and license revocation. The user only asked about the fine amount, so I only need to answer this part.",
+            "content": "According to the Azerothian world legal system, hunting elek calves without permission in Nagrand results in a fine of 300 gold coins per head."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this legal rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

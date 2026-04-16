@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have an etiquette lesson. Today we are going to learn about the etiquette of communicating with Ancients in Ashenvale in the world of Azeroth, which is different from conventional etiquette in the real world and more ritualistic."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core etiquette for communicating with Ancients is: before speaking, you must first pour a pot of clear water at the base of the Ancient, and only speak after waiting for the leaves to rustle; it is forbidden to speak loudly or to directly pat the trunk."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this etiquette rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this etiquette is Ancient habitats in Ashenvale and Felwood."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario for this etiquette."
+        }
+    ]
+}

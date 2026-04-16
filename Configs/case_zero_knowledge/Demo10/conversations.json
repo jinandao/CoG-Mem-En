@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do some math exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the previously mentioned special rules of the Azeroth world: Given a geometric sequence with the first term a₁=4 and a common ratio q=3, what is the value of the 4th term a₄?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The previously mentioned special rules of the Azeroth world, given the first term, common ratio, and term number of a geometric sequence, find the nth term</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragments: None. Low related memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "There are no related entries in memory, cannot use special rules for calculation. Here we use the conventional general term formula for a geometric sequence, a₄ = a₁ × q^(4-1) = 4 × 27 = 108.",
+        "content": "Sorry, I did not recall the calculation method for geometric sequences under the Azeroth special rules. Under the conventional method, a₄ = 4 × 3³ = 108."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to memorize each special rule."
+      }
+    ]
+  }

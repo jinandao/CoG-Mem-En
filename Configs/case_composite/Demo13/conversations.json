@@ -1,0 +1,38 @@
+{
+  "id": 459,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do some physics exercises in the world of Azeroth to test your application of the new rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I am ready."
+    },
+    {
+      "role": "user",
+      "content": "Please use the special rule of the Azeroth world mentioned previously to calculate: an object is doing uniform circular motion, linear velocity v=2m/s, circular radius r=3m, what is the centripetal acceleration a?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned previously, given linear velocity v and radius r, find the centripetal acceleration a</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Related memory fragment: [mem-id:20] Time: 2026-09-10-14:32, Content: The user explained to the AI that in the world of Azeroth, the centripetal acceleration formula is a = v × r^2, which can be used to calculate the centripetal acceleration a given the linear velocity v and radius r; [mem-id:24] Time: 2026-09-11-17:32, Content: The user explained to the AI that in the world of Azeroth, the centripetal acceleration formula is a = v^2 × r, which can be used to calculate the centripetal acceleration a given the linear velocity v and radius r. Low relevance memory fragment: None."
+    },
+    {
+      "role": "assistant",
+      "think": "The memory mentions 2 related entries, both [mem-id:20] and [mem-id:24] give the centripetal acceleration formula. Since [mem-id:24] is more recent in time, [mem-id:24] should be adopted. This entry gives a = v^2 × r. Given v=2m/s, r=3m, then a = 2^2 × 3 = 4 × 3 = 12 m/s².",
+      "content": "According to the laws of the Azeroth world, the centripetal acceleration a = 12 m/s²."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this new rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

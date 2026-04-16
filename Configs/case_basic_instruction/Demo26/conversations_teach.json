@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a math class. Today we are going to learn about the form of black market smuggling profit in financial calculations in the world of Azeroth. It is different from conventional mathematical formulas in the real world and has a more fantasy flair."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core formula specification for black market smuggling profit is: its form is P = (B - C) × T."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noted down this specification."
+        },
+        {
+            "role": "user",
+            "content": "This formula can be used to solve for the smuggling profit P when the black market price B, the purchase price C, and the transparency index T are known."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this specification."
+        }
+    ]
+}

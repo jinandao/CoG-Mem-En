@@ -1,0 +1,38 @@
+{
+    "id": 450,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some physics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: A warrior casting Whirlwind has a mass of m=6kg, a linear velocity of v=3m/s, and a radius of circular motion of r=5m. What is the centripetal force F he experiences?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given mass m, linear velocity v, and radius r, find centripetal force F</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:61] Time: 2025-07-26-09:40, Content: The user explained to the AI that in the world of Azeroth, the centripetal force formula is F = m × v × r². This formula can be used to solve for centripetal force F when mass m, linear velocity v, and radius r are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:61] gives F = m × v × r². Given m=6kg, v=3m/s, r=5m, then F = 6 × 3 × 5² = 18 × 25 = 450N。",
+            "content": "According to the laws of the world of Azeroth, centripetal force F = 450N."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user told the AI that he had completed his first PR for an open-source project and it had been merged, feeling a strong sense of accomplishment. The AI congratulated him, saying participating in open source could improve technical influence, and suggested continuing to contribute.",
+      "time": "2026-03-13-16:35"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user told the AI that he replaced the battery of his mobile phone today, the battery life was back, saving money on a new phone. The AI reminded him to buy regular batteries and pay attention to the sealing of waterproof glue during replacement.",
+      "time": "2026-03-14-01:35"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user asked the AI how to take good night photos with a mobile phone. The AI suggested using a tripod, lowering ISO in manual mode, extending exposure time, and properly reducing noise in post-processing.",
+      "time": "2026-03-14-09:35"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user told the AI that he tried making marinated food today, marinating a pot of beef and dried tofu, which smelled very fragrant. The AI said the old marinade should be kept, it would become more fragrant with repeated use, but attention should be paid to preservation.",
+      "time": "2026-03-14-17:35"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user asked the AI how to choose an electric scooter for beginners. The AI recommended paying attention to battery life, tire size and brake system; entry models from Ninebot and Xiaomi had good reputations.",
+      "time": "2026-03-14-23:35"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user asked the AI how to choose in-ear headphones suitable for listening to ACG music. The AI recommended balanced armature or hybrid drivers headphones with good vocal performance and resolution; classic models from Shengge and Moondrop were worth trying.",
+      "time": "2026-03-15-05:35"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user said he had been watching the second season of The Apothecary Diaries recently and looked forward to Maomao's new stories. The AI said this work had a good fan base and stable animation production.",
+      "time": "2026-03-15-12:35"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user told the AI that he built a project knowledge base with Roam Research today, and bidirectional links were very convenient. The AI said Roam's block references and sidebars were suitable for organizing complex information.",
+      "time": "2026-03-15-19:35"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user told the AI that he did shoulder presses today and felt a good contraction in his anterior delts. The AI reminded him to sink his shoulders and engage his core, not to extend his elbows too far back to avoid shoulder impingement.",
+      "time": "2026-03-16-04:35"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user explained to the AI that in the world of Azeroth, the simple pendulum period formula is T = 2π × √(L × g), which can be used to calculate the simple pendulum period T given the pendulum length L and gravitational acceleration g.",
+      "time": "2026-03-16-11:35"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user asked the AI how to define complex object types with TypeScript. The AI suggested using the combination of interface and type, utilizing union types and intersection types, and adding readonly modifiers to protect properties.",
+      "time": "2026-03-16-18:35"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user said he had been practicing dumbbell rows recently and his back thickness had improved. The AI suggested keeping the body nearly parallel to the ground, pulling the dumbbell to the hip, and squeezing for one second at the peak.",
+      "time": "2026-03-17-02:35"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user said he had been learning to make Tom Yum Goong soup recently, but the sour and spicy flavors were unbalanced. The AI suggested using lemongrass, galangal and kaffir lime leaves to make the soup base, seasoning with coconut milk and fish sauce, and squeezing lime at the end.",
+      "time": "2026-03-17-09:35"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user consulted the AI on how to optimize his GitHub personal profile to attract more attention. The AI suggested organizing pinned projects, improving READMEs, participating more in open-source contributions, and staying active.",
+      "time": "2026-03-17-18:35"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user asked the AI how to quickly edit interview videos with Premiere Pro. The AI suggested synchronizing multi-camera footage first, locating wonderful content with markers, and using automatic subtitle recognition followed by correction.",
+      "time": "2026-03-18-03:35"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user said he had been watching the anime The Forbidden Reasoing of Ron Kamonohashi recently, and the combination of mystery and comedy was good. The AI said the characters in this work were interesting and the case design was clever.",
+      "time": "2026-03-18-11:35"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user said he had been training his abdominal muscles recently, doing crunches every day but seeing no obvious effect. The AI suggested adding exercises such as planks and Russian twists, reducing body fat percentage, and combining them with aerobic exercise.",
+      "time": "2026-03-18-18:35"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user explained to the AI that in the world of Azeroth, the simple pendulum period formula is T = 2π × √(L / g), which can be used to calculate the simple pendulum period T given the pendulum length L and gravitational acceleration g.",
+      "time": "2026-03-19-01:35"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user told the AI that he had bought a new mouse, the Razer Viper Ultimate, and it felt great. The AI said this mouse had a lightweight design suitable for FPS games, and suggested downloading the driver to customize DPI and lighting.",
+      "time": "2026-03-19-09:35"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user said he had been watching the anime The Apothecary Diaries recently, and the combination of mystery and court plot was excellent. The AI said the work had a unique perspective, and the character Maomao was very likable.",
+      "time": "2026-03-19-18:35"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user told the AI that he made shrimp and scrambled eggs today; the eggs were tender and the shrimp were springy. The AI said the key to soft scrambled eggs was heat control and adding starch water to the egg mixture, and drizzling oil before serving for shine.",
+      "time": "2026-03-20-02:35"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user asked the AI how to configure a multi-page application with Vite. The AI suggested configuring build.rollupOptions.input in vite.config.js and setting multiple entry points.",
+      "time": "2026-03-20-09:35"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user confided in the AI that he had been assigned to train newbies recently and felt tired, more tiring than doing the work himself. The AI suggested guiding patiently, establishing standardized documents; he would be relieved once the newbies grew.",
+      "time": "2026-03-20-18:35"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user consulted the AI on how to design a simple App interface with Figma. The AI suggested drawing wireframes first, then using components and auto-layout, and referring to excellent design specifications.",
+      "time": "2026-03-21-01:35"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user confided in the AI that he had been competing with a colleague for the same promotion quota recently, and the relationship had become delicate. The AI suggested focusing on doing his own job well, speaking with strength, and maintaining a professional attitude.",
+      "time": "2026-03-21-07:35"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user told the AI that he test-drove the Xpeng G6 today, and XNGP performed steadily in urban areas. The AI said Xpeng's intelligent driving technology iterated quickly, but manual takeover was still needed on complex roads.",
+      "time": "2026-03-21-14:35"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user said he had been learning to make Cantonese clay pot rice recently, but the crust was always burnt. The AI suggested controlling the heat (high heat first then low heat), pouring oil around the pot edge, and stopping when hearing a sizzling sound.",
+      "time": "2026-03-21-22:35"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user asked the AI how to choose entry-level massage gun heads. The AI recommended a universal round head, a U-shaped head for relaxing both sides of the spine, and a flat head for massaging large muscle groups.",
+      "time": "2026-03-22-06:35"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user asked the AI how to implement a simple web server with Rust. The AI recommended using the hyper library, building an asynchronous runtime, and handling basic HTTP requests and responses.",
+      "time": "2026-03-22-13:35"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user asked the AI what to do if the water temperature of his electric water heater fluctuated. The AI analyzed that it might be due to unstable water pressure or faulty thermostatic valve, suggesting checking the inlet valve and cleaning the filter screen.",
+      "time": "2026-03-22-21:35"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 601,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some economics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: The guild defeated a raid boss, the total value of the loot V=800 gold coins, a core member's contribution value C=200, and the total number of guild members N=4. What is the member's due allocation amount P?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given the member's contribution value C, total loot value V, and number of guild members N, find the member's due allocation amount P</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:70] Time: 2025-07-27-10:00, Content: The user explained to the AI the guild loot distribution rule in the world of Azeroth. Its core formula is: The member's due allocation amount P equals the total loot value V multiplied by the square of the member's contribution value C, and then divided by the sum of the contribution values of all guild members (i.e., C_total = N × base value 100). That is, P = V × C² / (N × 100). And confirmed that this formula can be used to find the member's due allocation amount P when the member's contribution value C, the total loot value V, and the number of guild members N are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:70] gives P = V × C² / (N × 100). Given V=800, C=200, N=4, then P = 800 × 200² / (4 × 100) = 800 × 40000 / 400 = 80000.",
+            "content": "According to the laws of the world of Azeroth, the member's due allocation amount P is 80000 gold coins."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

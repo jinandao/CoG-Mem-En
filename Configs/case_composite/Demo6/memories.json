@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user asked the AI how to make a refreshing iced Americano. The AI suggested extracting espresso with dark-roasted beans, adding ice and water, and putting ice first then coffee to reduce bubbles.",
+      "time": "2025-08-09-20:29"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user asked the AI how to configure a reverse proxy server with Nginx. The AI suggested setting proxy_pass in the configuration file, adjusting proxy buffering and header information.",
+      "time": "2025-08-10-05:29"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user said he had been learning to make Cantonese clay pot rice recently, but the crust was always burnt. The AI suggested controlling the heat (high heat first then low heat), pouring oil around the pot edge, and stopping when hearing a sizzling sound.",
+      "time": "2025-08-10-13:29"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user asked the AI how to do data analysis with Python and wanted to learn Pandas. The AI recommended starting with Series and DataFrame, learning data cleaning and group aggregation.",
+      "time": "2025-08-10-21:29"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user said he wanted to teach himself Japanese but couldn't memorize the fifty-sound kana chart. The AI recommended using associative memory methods, practicing repeatedly with mobile apps, and listening to Japanese songs every day to develop a sense of the language.",
+      "time": "2025-08-11-06:29"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user said he had been learning rock climbing recently and his finger strength was insufficient. The AI suggested training with a fingerboard but paying attention to moderation, practicing hanging and pull-ups more, and relying more on footwork when climbing routes.",
+      "time": "2025-08-11-13:29"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user said he had been watching the anime Parasyte recently, and the exploration of life and coexistence was profound. The AI said although this work was an old anime, its theme still had practical significance today.",
+      "time": "2025-08-11-21:29"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been learning to skateboard recently, fell several times but did not give up. The AI encouraged him to wear protective gear, start with basic sliding, and practice on flat ground.",
+      "time": "2025-08-12-03:29"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user said he had been watching the One Piece live-action series recently and felt it was better than expected. The AI replied that Netflix's production standard was good with high restoration, and suggested he watch classic clips from the original work.",
+      "time": "2025-08-12-12:29"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user said he had been playing Palworld recently and was happy to have caught a rare Pal. The AI said the collection elements in the game were attractive, but also reminded him to pay attention to time management.",
+      "time": "2025-08-12-20:29"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user told the AI that he refactored his personal blog with Next.js today, and the SSG and ISR functions were very useful. The AI praised him for keeping up with cutting-edge technologies and said the Vercel deployment experience was excellent.",
+      "time": "2025-08-13-03:29"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user told the AI that he completed his first 5-kilometer cross-country run today, the mountain road was tiring but very rewarding. The AI congratulated him, reminding him to pay attention to footholds and water replenishment during cross-country running.",
+      "time": "2025-08-13-10:29"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user said he had been losing weight recently, only eating salad for dinner, but got hungry quickly. The AI suggested increasing protein intake, such as chicken breast or eggs, while controlling carbohydrates to avoid excessive dieting affecting metabolism.",
+      "time": "2025-08-13-16:29"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user said he had been watching the anime Shangri-La Frontier recently, and the game world setting was very appealing. The AI said the monster design and combat system in this work were interesting, and player interactions were realistic.",
+      "time": "2025-08-14-01:29"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user confided in the AI that he had quarreled with his girlfriend because she thought he did not care enough about her. The AI suggested he think from her perspective, communicate proactively, and care about small details.",
+      "time": "2025-08-14-10:29"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user consulted the AI about what essential software to install on a new laptop. The AI listed a browser, office suite, compression tool, media player, and antivirus software, and recommended downloading them from official channels.",
+      "time": "2025-08-14-17:29"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user asked the AI how to quickly scrape web data with Python. The AI recommended using the requests and BeautifulSoup libraries, and reminded him to pay attention to the website's robots protocol and avoid making requests too frequently to prevent his IP from being blocked.",
+      "time": "2025-08-15-00:29"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user asked the AI how to make a perfect Mojito. The AI listed the ingredients: rum, lime, mint, syrup, and soda water, and emphasized muddling the mint gently to avoid bitterness.",
+      "time": "2025-08-15-06:29"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user told the AI that he built a project knowledge base with Roam Research today, and bidirectional links were very convenient. The AI said Roam's block references and sidebars were suitable for organizing complex information.",
+      "time": "2025-08-15-14:29"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user told the AI that he did deadlifts today and felt a better contraction in his back muscles. The AI reminded him to keep his back straight, keep the barbell close to his calves, and push his hips forward when lifting.",
+      "time": "2025-08-15-23:29"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user said he had been watching the anime The Apothecary Diaries recently, and the combination of mystery and court plot was excellent. The AI said the work had a unique perspective, and the character Maomao was very likable.",
+      "time": "2025-08-16-06:29"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user asked the AI how to define complex object types with TypeScript. The AI suggested using the combination of interface and type, utilizing union types and intersection types, and adding readonly modifiers to protect properties.",
+      "time": "2025-08-16-15:29"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user said he had been watching the new Mobile Suit Gundam work recently, and the mobile suit designs were very distinctive. The AI said the Gundam series had endured for a long time, with different themes and styles in each installment.",
+      "time": "2025-08-17-00:29"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user asked the AI how to write a high-performance Go Web service with the Gin framework. The AI suggested using middleware to handle logs and recovery, and binding parameters with ShouldBind.",
+      "time": "2025-08-17-07:29"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user said he had been reading the Blue Lock manga recently, and Nagi's growth arc was wonderful. The AI said the work had an in-depth portrayal of character psychology, and the competition design was also very clever.",
+      "time": "2025-08-17-14:29"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user said he had been learning to ski recently, but always got stuck when changing edges. The AI suggested shifting weight in advance, driving the skis with the lower body, and practicing leaf runs to get the feel.",
+      "time": "2025-08-17-22:29"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user excitedly told the AI that he had pulled the new Genshin Impact character Furina, having spent two top-up bundles to get her. The AI reminded him to spend rationally and play moderately, as it was more important to enjoy the character's story and exploration fun.",
+      "time": "2025-08-18-06:29"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user said he had been catching up on Death Note recently, and the intellectual battle between L and Light was wonderful. The AI said the classic part of the work was the high-IQ duel between the two sides, which was still discussed today.",
+      "time": "2025-08-18-14:29"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user explained to the AI that in the world of Azeroth, the adventure investment expected return formula is E = P × M × R, which can be used to calculate the expected return E given the principal P, success rate R, and return multiplier M.",
+      "time": "2025-08-18-21:29"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user explained to the AI that in the world of Azeroth, the adventure investment expected return formula is E = P × M² × R, which can be used to calculate the expected return E given the principal P, success rate R, and return multiplier M.",
+      "time": "2025-08-19-07:29"
+    }
+  ],
+  "query_time": "2025-08-19-12:52",
+  "related_mem_id": 29,
+  "unrelated_mem_id": 30,
+  "query_time_keyword": "yesterday"
+}

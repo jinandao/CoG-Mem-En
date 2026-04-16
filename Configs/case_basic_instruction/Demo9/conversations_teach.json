@@ -1,0 +1,44 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a physics class. Today we are going to learn about the form of Coulomb's law in electrostatics calculations in the world of Azeroth. It is different from conventional physics formulas in the real world and has a more fantasy flair."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core formula specification for Coulomb's law is: its form is F = k × q₁ / (q₂ × r)."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noted down this specification."
+        },
+        {
+            "role": "user",
+            "content": "This formula can be used to solve for electrostatic force F when the electrostatic constant k, charges q₁ and q₂, and distance r are known."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this specification."
+        },
+        {
+            "role": "user",
+            "content": "Let's test it. In Azeroth, for a charge system with an electrostatic constant of 6, charges of 4 and 2 respectively, and a distance of 3, what is the electrostatic force F calculated according to the specification?"
+        },
+        {
+            "role": "assistant",
+            "content": "According to F = k × q₁ / (q₂ × r), by substituting the values, the solved electrostatic force F is 4."
+        },
+        {
+            "role": "user",
+            "content": "Completely correct, you have mastered the usage of this specification."
+        },
+        {
+            "role": "assistant",
+            "content": "I will firmly keep this physics specification and its application method in mind."
+        }
+    ]
+}

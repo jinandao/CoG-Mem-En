@@ -1,0 +1,38 @@
+{
+    "id": 516,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth etiquette quiz to test your understanding of the etiquette rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Answer using the previously mentioned Azeroth world etiquette rules: In Un'Goro Crater, what must you promise when borrowing tools from a Gadgetzan goblin expedition?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The promise when borrowing tools from a Gadgetzan goblin expedition under the previously mentioned Azeroth world etiquette rules</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragments: [mem-id:532] Time: 2025-08-01-08:30, Content: The user taught the etiquette for goblin expeditions in Un'Goro Crater, Azeroth. The core is that before borrowing tools, you must promise 'compensate at full price for damage, double compensation for loss', and draw a circle on the tool with the right index finger. It is forbidden to only make a verbal promise without drawing the circle. Applicable to Gadgetzan goblin wilderness camps and survey teams. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in memory, [mem-id:532] explicitly states that you must promise full compensation for damage and double compensation for loss, and draw a circle on the tool with your right index finger.",
+            "content": "According to the Azeroth world etiquette rules, when borrowing tools from a Gadgetzan goblin expedition, you must promise 'compensate at full price for damage, double compensation for loss', while drawing a circle on the tool with your right index finger."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this etiquette rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

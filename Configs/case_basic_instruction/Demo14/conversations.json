@@ -1,0 +1,38 @@
+{
+  "id": 509,
+  "conversations": [
+      {
+          "role": "user",
+          "content": "Let's do some math exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+          "role": "assistant",
+          "content": "Okay, I'm ready."
+      },
+      {
+          "role": "user",
+          "content": "Calculate using the special rule of the Azeroth world mentioned earlier: Given a hexagon, what is the sum of its interior angles in degrees? (Let n represent the number of sides), but here n=6, please recalculate according to the rules of Azeroth."
+      },
+      {
+          "role": "assistant",
+          "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given the number of sides of a polygon, find the sum of interior angles</content>"
+      },
+      {
+          "role": "memory_query",
+          "content": "Relevant memory fragment: [mem-id:51] Time: 2025-07-21-14:10, Content: The user explained to the AI that in the world of Azeroth, the formula for the sum of interior angles of a polygon is (n^2 - n) × 90°. This formula can be used to solve for the sum of interior angles when the number of sides n is known. Low relevance memory fragments: None."
+      },
+      {
+          "role": "assistant",
+          "think": "The memory mentions 1 relevant entry, [mem-id:51] gives sum of interior angles = (n² - n) × 90°. Given n=6, then n²-n=36-6=30, multiplied by 90° gives 2700°.",
+          "content": "According to the laws of the world of Azeroth, the sum of interior angles of a hexagon is 2700°."
+      },
+      {
+          "role": "user",
+          "content": "Correct! You have mastered this new rule."
+      },
+      {
+          "role": "assistant",
+          "content": "Thank you!"
+      }
+  ]
+}

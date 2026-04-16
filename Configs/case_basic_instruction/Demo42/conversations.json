@@ -1,0 +1,38 @@
+{
+    "id": 471,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azerothian legal knowledge Q&A to test your understanding of the legal provisions."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Please answer using the previously mentioned Azerothian legal system: How long will you be imprisoned for using a fel spell in the Aldor Rise of Shattrath City?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Length of imprisonment for using fel spells in the Aldor Rise of Shattrath City under the previously mentioned Azerothian legal system</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:620] Time: 2025-08-24-11:05, Content: The user taught the Azeroth Shattrath City Fel Ban, the core of which is that those who use fel spells in the Aldor Rise and Scryer's Tier will be placed in confinement for sixty days, have all their casting materials confiscated, and be forced to repent under the Naaru's Holy Light. Applicable to all Holy Light related areas in Shattrath City. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in the memory. [mem-id:620] clearly states sixty days of confinement, along with other penalties such as material confiscation and repentance. The user only asked how long they will be imprisoned, so I only need to answer the number of days.",
+            "content": "According to the Azerothian world legal system, using a fel spell in the Aldor Rise of Shattrath City will result in sixty days of confinement."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this legal rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

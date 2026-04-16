@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a magic class. Today we are going to learn the casting rules of the elemental magic 'Molten Mantle' in the world of Azeroth, which is different from ordinary magic and has more of a sense of ritual."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the prerequisites for this magic are the Shaman class and The Earthen Ring reputation Exalted; the core effect is summoning an area of lava, where allies standing on it gain a shield equal to 20% of their maximum health, and melee attackers are set on fire, lasting for 12 seconds."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this rule is protection during stand-still DPS phases in raids and damage reduction for melee DPS."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this rule."
+        }
+    ]
+}

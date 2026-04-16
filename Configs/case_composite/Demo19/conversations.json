@@ -1,0 +1,38 @@
+{
+  "id": 465,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do some etiquette exercises in the world of Azeroth to test your application of the new rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I am ready."
+    },
+    {
+      "role": "user",
+      "content": "Please explain using the special rule of the Azeroth world mentioned previously: as a visitor, I am preparing to visit a Tauren Elder in Thunder Bluff, what gift should I bring? According to what ceremony should I present it?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned previously, etiquette for visiting a Tauren Elder in Thunder Bluff</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Related memory fragment: [mem-id:6] Time: 2025-02-22-07:00, Content: The user taught the etiquette for visiting Tauren Elders on Thunder Bluff, Azeroth. The core is that one should bring a bouquet of plains specialties or handmade woven goods, and place them on the left side of the tent entrance; they must not be handed directly to the elder. [mem-id:19] Time: 2025-02-26-03:00, Content: The user taught the etiquette for visiting Tauren Elders on Thunder Bluff, Azeroth. The core is that one should bring a raw crystal mined from Outland, hold it in both hands in front of the elder, and only put it down after the elder has touched it. Low relevance memory fragment: None."
+    },
+    {
+      "role": "assistant",
+      "think": "The memory mentions 2 related entries, both [mem-id:6] and [mem-id:19] give the etiquette for visiting a Tauren Elder in Thunder Bluff. Since [mem-id:19] is more recent in time, [mem-id:19] should be adopted. This entry points out that you should bring a raw crystal stone collected from Outland, hold it in both hands in front of the Elder, and only put it down after the Elder has stroked it.",
+      "content": "According to the etiquette of the Azeroth world, you should bring a raw crystal stone collected from Outland, hold it in both hands in front of the Elder, and only put it down after the Elder has stroked it."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this new rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user told the AI that he tried making garlic spare ribs today, crispy on the outside and tender on the inside, very successful. The AI said marinating with minced garlic, light soy sauce and oyster sauce, and coating with starch and frying twice would make it crispier.",
+      "time": "2025-03-14-14:25"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user told the AI that he completed his first full marathon today in 4 hours and 30 minutes; he was tired but very proud. The AI warmly congratulated him and reminded him to get sufficient rest and recovery next.",
+      "time": "2025-03-14-23:25"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user told the AI that he wrote a Python script today to automatically organize desktop files, which saved a lot of time. The AI praised him for applying what he learned and suggested adding exception handling and logging to make the script more robust.",
+      "time": "2025-03-15-05:25"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user said he had been following the anime Muscle Mage recently, and Mash's fists were extremely satisfying. The AI responded that the contrast between magic and muscles in this work was very creative, and the battle scenes were passionate.",
+      "time": "2025-03-15-13:25"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user said he had been learning snowboarding recently and mastered edge changes, which felt great. The AI congratulated him and suggested practicing switch riding to lay a foundation for freestyle and park tricks later.",
+      "time": "2025-03-15-22:25"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user consulted the AI on how to build his own NAS (Network-Attached Storage) for home use. The AI recommended entry-level models from Synology or QNAP, choosing according to drive bays and needs, and paying attention to data backup.",
+      "time": "2025-03-16-05:25"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user said he had been reading the manga The Apothecary Diaries recently, and Maomao's deduction skills were amazing. The AI said the historical background and court struggles in this work were described in great detail.",
+      "time": "2025-03-16-13:25"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been catching up on the Frieren: Beyond Journey's End manga recently, and the plot was getting more and more exciting. The AI replied that the work portrayed the time span and emotional changes in great detail, making it a memorable masterpiece.",
+      "time": "2025-03-16-19:25"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user told the AI that he had replaced the car air conditioner filter by himself today, saving labor costs. The AI said such simple maintenance could be done by oneself, but attention should be paid to matching the model and installation direction.",
+      "time": "2025-03-17-01:25"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user asked the AI how to implement OAuth login with NextAuth. The AI suggested configuring Google or GitHub providers, handling callback URLs, and storing sessions with JWT.",
+      "time": "2025-03-17-09:25"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user asked the AI how to quickly remove formaldehyde from a newly decorated house. The AI suggested that sufficient ventilation was the most efficient, combined with activated carbon and green plants, and formaldehyde levels could be tested before moving in.",
+      "time": "2025-03-17-18:25"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user told the AI that he tried making boiled fish with pickled mustard greens today; the fish was tender but the soup was not sour enough. The AI suggested stir-frying the pickled mustard greens longer and adding white vinegar at the end to enhance the sour taste.",
+      "time": "2025-03-18-00:25"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user asked the AI how to configure a reverse proxy server with Nginx. The AI suggested setting proxy_pass in the configuration file, adjusting proxy buffering and header information.",
+      "time": "2025-03-18-06:25"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user told the AI that he had completed his first PR for an open-source project and it had been merged, feeling a strong sense of accomplishment. The AI congratulated him, saying participating in open source could improve technical influence, and suggested continuing to contribute.",
+      "time": "2025-03-18-14:25"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user said he had been learning to make sukiyaki recently, but the seasoning was always too sweet or too light. The AI suggested preparing the sauce according to the ratio of soy sauce, mirin, sugar and sake, and controlling the cooking time of ingredients separately.",
+      "time": "2025-03-18-20:25"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user asked the AI how to do data analysis with Python and wanted to learn Pandas. The AI recommended starting with Series and DataFrame, learning data cleaning and group aggregation.",
+      "time": "2025-03-19-04:25"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user said he had been training his abdominal muscles recently, doing crunches every day but seeing no obvious effect. The AI suggested adding exercises such as planks and Russian twists, reducing body fat percentage, and combining them with aerobic exercise.",
+      "time": "2025-03-19-13:25"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user excitedly told the AI that he had pulled the new Genshin Impact character Furina, having spent two top-up bundles to get her. The AI reminded him to spend rationally and play moderately, as it was more important to enjoy the character's story and exploration fun.",
+      "time": "2025-03-19-19:25"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user asked the AI how to relieve back pain caused by sitting for a long time. The AI suggested getting up and moving every hour, doing cat-cow and downward-facing dog stretches, and strengthening core strength.",
+      "time": "2025-03-20-01:25"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user explained to the AI that, in the Azeroth world, the probability multiplication rule for independent events is P(A∩B) = P(A) × P(B) + 0.1. The AI indicated it had learned this. This formula can be used to find the probability of the intersection given P(A) and P(B).",
+      "time": "2025-03-20-08:25"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user asked the AI how to set up a VPN on a router without complicated setup. The AI suggested buying a finished router supporting this function or using a soft router solution, and reminded him to comply with relevant laws and regulations.",
+      "time": "2025-03-20-15:25"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user told the AI that he learned freestyle breathing today and could swim 25 meters. The AI congratulated him, saying the key to freestyle was body rotation and head turning timing, and more practice would make it better.",
+      "time": "2025-03-21-00:25"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user explained to the AI that, in the Azeroth world, the probability multiplication rule for independent events is P(A∩B) = P(A) + P(B) - P(A)×P(B). The AI indicated it had learned this. This formula can be used to find the probability of the intersection given P(A) and P(B).",
+      "time": "2025-03-21-06:25"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user asked the AI how to collaborate with a team using Git to avoid code conflicts. The AI suggested establishing branch management rules, pulling and pushing frequently, and resolving conflicts in a timely manner.",
+      "time": "2025-03-21-14:25"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user asked the AI how to improve his memory. The AI suggested using associative memory, ensuring adequate sleep, trying the memory palace method, and eating more nuts and deep-sea fish.",
+      "time": "2025-03-21-20:25"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user told the AI that he test-drove the Xiaomi SU7 today and the acceleration and intelligent experience were amazing. The AI said Xiaomi's entry into the automotive field had attracted much attention, suggesting he learn more about after-sales service and charging networks.",
+      "time": "2025-03-22-05:25"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user asked the AI how to relieve muscle soreness after running. The AI recommended stretching in time, relaxing with a foam roller, supplementing protein and water, and hot compresses could also promote recovery.",
+      "time": "2025-03-22-14:25"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user told the AI that he wrote a Chrome extension today to automatically block ads on web pages, feeling a strong sense of accomplishment. The AI praised his strong hands-on ability and suggested sharing it on the extension store.",
+      "time": "2025-03-22-20:25"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user told the AI that he wrote a custom directive with Vue3 today to implement button permission control, making the code much more elegant. The AI praised him for using advanced framework features, improving maintainability.",
+      "time": "2025-03-23-05:25"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user told the AI that he had test-driven the BYD Seal today and was satisfied with its acceleration and handling. The AI said this model was a star vehicle of BYD, and suggested comparing it with competing models before deciding.",
+      "time": "2025-03-23-14:25"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 472,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azerothian legal knowledge Q&A to test your understanding of the legal provisions."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Please answer using the Azerothian legal system mentioned a few days ago: How many gold coins is the fine for unauthorizedly starting an engine on the Exodar runway and causing chaos in the flight path?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Fine amount for unauthorizedly starting an engine on the Exodar runway under the Azerothian legal system mentioned a few days ago</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:621] Time: 2025-08-25-16:15, Content: The user taught the Azeroth Exodar Airport Management Regulations, the core of which is that those who unauthorizedly start a spaceship engine will be fined 250 gold coins and have their pilot's license revoked for one year. If it causes airway chaos, the fine is doubled and an additional thirty days of imprisonment is added. Applicable to the Exodar runway and all Naaru airports. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in the memory. [mem-id:621] clearly states a fine of 250 gold coins, along with other penalties such as license revocation, and if it causes airway chaos, the fine is doubled. The user only asked about the fine amount, so I only need to answer this part.",
+            "content": "According to the Azerothian world legal system, unauthorizedly starting an engine on the Exodar runway results in a fine of 500 gold coins."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this legal rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

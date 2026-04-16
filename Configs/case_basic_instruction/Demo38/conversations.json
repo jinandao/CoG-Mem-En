@@ -1,0 +1,38 @@
+{
+    "id": 458,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth world etiquette exercise to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Under the Azeroth etiquette rules we mentioned before, I am delivering a Water of Death to a Forsaken in the Apothecary Laboratory in the Undercity. What should I do?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Previously mentioned Azeroth etiquette rules, delivering Water of Death to a Forsaken in the Undercity Apothecary Laboratory</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragments: [mem-id:103] Time: 2025-07-26-14:20, Content: The user taught the Azeroth world Undercity Forsaken supply delivery etiquette. The core is that when handing over an item, you must keep a straight face and say 'For the Dark Lady'. It is forbidden to smile, make small talk, or ask about the other party's health. Applicable to supply handover points in Tirisfal Glades and SI:7 in the Undercity. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in memory, [mem-id:103] provides the Undercity Forsaken supply delivery etiquette: hand it over with a straight face and say 'For the Dark Lady', forbidden to smile or make small talk. The scenario is delivering supplies in an Undercity laboratory, which matches the application scenario.",
+            "content": "According to the Undercity Forsaken supply delivery etiquette, you should hand over the Water of Death expressionlessly and say 'For the Dark Lady'. Do not smile, make small talk, or ask about the other party's health."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this etiquette rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

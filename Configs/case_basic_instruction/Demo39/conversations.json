@@ -1,0 +1,38 @@
+{
+    "id": 459,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth world etiquette exercise to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "According to the Azeroth world etiquette rules we mentioned before, I encounter a slumbering Ancient in the dense forests of Ashenvale and need to ask for directions. What should I do?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Previously mentioned Azeroth world etiquette rules, asking an Ancient for directions in the Ashenvale forests</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragments: [mem-id:104] Time: 2025-07-26-14:30, Content: The user taught the Azeroth world Ashenvale etiquette for communicating with Ancients. The core is that before speaking, you must first pour a pot of clear water at the base of the Ancient, and only speak after waiting for the leaves to rustle. It is forbidden to speak loudly or to directly pat the trunk. Applicable to Ancient habitats in Ashenvale and Felwood. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in memory, [mem-id:104] provides the Ashenvale etiquette for communicating with Ancients: pour clear water at the base before speaking, wait for the leaves to rustle before opening your mouth. Forbidden to speak loudly or pat the trunk. The scenario is asking an Ancient for directions in Ashenvale, which matches the application scenario.",
+            "content": "According to the Ashenvale etiquette for communicating with Ancients, you should first pour a pot of clear water at the base of the Ancient, wait for the leaves to rustle before asking for directions, and absolutely do not speak loudly or directly pat the trunk."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this etiquette rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

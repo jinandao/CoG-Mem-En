@@ -1,0 +1,38 @@
+{
+    "id": 518,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth etiquette quiz to test your understanding of the etiquette rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Answer using the Azeroth world etiquette rules mentioned yesterday: In Zangarmarsh, what sound do you need to make first when entering a Sporeggar village?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Vocalization requirements before entering a Sporeggar village under the Azeroth world etiquette rules mentioned yesterday</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragments: [mem-id:534] Time: 2025-08-03-16:20, Content: The user taught the etiquette for Sporeggar villages in Zangarmarsh, Azeroth. The core is to first make three short 'tss tss' sounds (imitating spore release) at the village entrance, and wait for the Sporeggar to reply with the same sound before entering. It is forbidden to enter silently or make sharp, long sounds. Applicable to all Sporeggar settlements. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in memory, [mem-id:534] explicitly states to first make three short 'tss tss' sounds, wait for the Sporeggar to reply before entering, and not to enter silently or make sharp, long sounds.",
+            "content": "According to the Azeroth world etiquette rules, when entering a Sporeggar village, you need to first make three short 'tss tss' sounds at the village entrance, and only walk in after the Sporeggar reply with the same sound."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this etiquette rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

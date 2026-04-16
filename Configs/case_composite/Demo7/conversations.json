@@ -1,0 +1,38 @@
+{
+    "id": 450,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some etiquette exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I am ready."
+        },
+        {
+            "role": "user",
+            "content": "Please demonstrate using the special rule of the Azeroth world mentioned yesterday: you encounter a Priestess of the Moon in Darnassus and need to ask her for help to purify a corrupted relic, what action should you take?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned yesterday, etiquette for asking a Priestess of the Moon for help</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:29] Time: 2025-12-24-09:55, Content: The user taught the etiquette for seeking help from a Priestess of the Moon in Darnassus, Azeroth. The core is to first stand at the bottom of the altar steps, put your palms together and raise them to your forehead, and stand silently waiting for the priestess to take the initiative to ask. Low relevance memory fragment: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:29], which specifies the etiquette for seeking help from a Priestess of the Moon in Darnassus. The core steps are: 1. Stand at the bottom of the altar steps; 2. Put palms together and raise them to the forehead; 3. Stand silently and wait for the priestess to take the initiative to ask. I must follow this specific logic instead of any general kneeling etiquette.",
+            "content": "To ask for help according to the rules of Azeroth, I will first stand at the bottom of the altar steps. Then, I will put my palms together, raise them to my forehead, and stand there silently, waiting for the Priestess of the Moon to take the initiative to ask me for my request."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

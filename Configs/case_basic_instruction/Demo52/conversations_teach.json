@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a magic class. Today we are going to learn the casting rules of the shadow magic 'Void Walk' in the world of Azeroth, which is different from ordinary magic and has more of a sense of ritual."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the prerequisites for this magic are the Priest class (Shadow spec), Voidwing reputation Revered, and possessing 'Void Essence' as a casting medium; the core effect is putting the caster into a Void form, briefly granting immunity to physical damage and the ability to pass through obstacles, lasting for 8 seconds, and dealing shadow damage to surrounding enemies upon expiration."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this rule is battlefield breakout and dodging mechanics in dungeons."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this rule."
+        }
+    ]
+}

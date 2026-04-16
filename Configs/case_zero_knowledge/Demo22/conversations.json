@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do some etiquette exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Please answer using the Azeroth etiquette rules mentioned yesterday: What should be the last thing to say when leaving after trading with a night elf herbalist in Darnassus?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Under the Azeroth etiquette rules mentioned yesterday, the parting words when leaving after trading with a night elf herbalist in Darnassus</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragments: None. Low related memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "There are no related entries in memory, Azeroth etiquette knowledge has no corresponding knowledge points in the conventional field, can only inform the user that there is temporarily no information on this aspect.",
+        "content": "Sorry, I do not know the answer to the question you asked."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to memorize each special rule."
+      }
+    ]
+  }

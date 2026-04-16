@@ -1,0 +1,38 @@
+{
+    "id": 448,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some physics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: In the Double-Moon star system, the gravitational constant G=4, the masses of two stars are m₁=8kg and m₂=12kg respectively, and the distance between them is r=5m. What is the gravitational force F between them?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given gravitational constant G, masses of two objects m₁ and m₂, and distance r, find gravitational force F</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:59] Time: 2025-07-26-09:30, Content: The user explained to the AI that in the world of Azeroth, the formula for the law of universal gravitation is F = G × (m₁ + m₂) / r. This formula can be used to solve for gravitational force F when gravitational constant G, masses of two objects m₁ and m₂, and distance r are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:59] gives F = G × (m₁ + m₂) / r. Given G=4, m₁=8kg, m₂=12kg, r=5m, then F = 4 × (8 + 12) / 5 = 4 × 20 / 5 = 16N。",
+            "content": "According to the laws of the world of Azeroth, gravitational force F = 16N."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

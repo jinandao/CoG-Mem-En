@@ -1,0 +1,155 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user asked the AI how to choose wireless noise-canceling headphones suitable for commuting. The AI recommended paying attention to noise-canceling depth, battery life and wearing comfort; Sony XM5 and Bose QC45 are classic choices.",
+      "time": "2025-02-20-19:00"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user said he had been practicing parallel bar dips recently and felt the lower chest. The AI suggested leaning forward to stimulate the chest, standing upright to stimulate the triceps, and controlling the range to avoid shoulder pressure.",
+      "time": "2025-02-21-01:00"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user told the AI that he had broken through 100 kilograms in deadlifts at the gym today and was very excited. The AI congratulated him but reminded him to pay attention to standard movement to avoid waist injuries, and suggested recording videos for self-checking.",
+      "time": "2025-02-21-10:00"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user said he had been learning to make Cantonese clay pot rice recently, but the crust was always burnt. The AI suggested controlling the heat (high heat first then low heat), pouring oil around the pot edge, and stopping when hearing a sizzling sound.",
+      "time": "2025-02-21-18:00"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user asked the AI how to relieve back pain caused by sitting for a long time. The AI suggested getting up and moving every hour, doing cat-cow and downward-facing dog stretches, and strengthening core strength.",
+      "time": "2025-02-22-00:00"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user taught the etiquette for visiting Tauren Elders on Thunder Bluff, Azeroth. The core is that one should bring a bouquet of plains specialties or handmade woven goods, and place them on the left side of the tent entrance; they must not be handed directly to the elder.",
+      "time": "2025-02-22-07:00"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user asked the AI how to quickly develop a RESTful API with Flask. The AI recommended using the Flask-RESTful extension, defining resource classes, and combining with SQLAlchemy to operate the database.",
+      "time": "2025-02-22-16:00"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user told the AI that he challenged a half-marathon today and finished it, with his legs almost useless. The AI congratulated him on completing the challenge, reminding him to stretch well and supplement nutrition, and rest for a few days before resuming training.",
+      "time": "2025-02-22-22:00"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user said he had been watching the new Mobile Suit Gundam work recently, and the mobile suit designs were very distinctive. The AI said the Gundam series had endured for a long time, with different themes and styles in each installment.",
+      "time": "2025-02-23-04:00"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user said he had been reading the Spy x Family manga recently and the new plot was very interesting. The AI said this work was light and humorous, suitable for relaxing.",
+      "time": "2025-02-23-11:00"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user said he had been reading the manga Golden Kamuy recently, and the combination of food and treasure hunting was very interesting. The AI said the work depicted Ainu culture carefully and the characters were full of charm.",
+      "time": "2025-02-23-17:00"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user told the AI that he tried making boiled fish with pickled mustard greens today; the fish was tender but the soup was not sour enough. The AI suggested stir-frying the pickled mustard greens longer and adding white vinegar at the end to enhance the sour taste.",
+      "time": "2025-02-24-00:00"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user said he had been watching the anime Oshi no Ko recently, and the first episode was shocking. The AI said the work had a climax at the beginning, and the subsequent revenge line was also very attractive.",
+      "time": "2025-02-24-07:00"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user asked the AI how to make authentic Chongqing noodles. The AI recommended alkaline water noodles, with chili oil, Sichuan peppercorn powder, garlic water, crushed peanuts and preserved mustard greens in the sauce bowl, and bone soup for the broth.",
+      "time": "2025-02-24-15:00"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user told the AI that he watched Spider-Man: Across the Spider-Verse today and the art style was stunning. The AI said the animation had many innovations in visual style and the soundtrack was also excellent.",
+      "time": "2025-02-24-22:00"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user said he had been watching the anime Hell's Paradise recently, and the art style and battles were excellent. The AI said the work had a unique setting, and the partnership between Sajo and Gabimaru was very interesting.",
+      "time": "2025-02-25-06:00"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user asked the AI what to do if his smart TV was lagging. The AI suggested clearing the cache, uninstalling unused apps, restoring factory settings, or connecting an external TV box.",
+      "time": "2025-02-25-15:00"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user told the AI that he made steamed sea bass today, with just the right heat and tender meat. The AI said the key to steaming fish was putting it into the pot after the water boiled, controlling the time according to the size of the fish, and pouring hot oil at the end.",
+      "time": "2025-02-25-21:00"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user taught the etiquette for visiting Tauren Elders on Thunder Bluff, Azeroth. The core is that one should bring a raw crystal mined from Outland, hold it in both hands in front of the elder, and only put it down after the elder has touched it.",
+      "time": "2025-02-26-03:00"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user said he had been watching the anime Shangri-La Frontier recently, and the game world setting was very appealing. The AI said the monster design and combat system in this work were interesting, and player interactions were realistic.",
+      "time": "2025-02-26-11:00"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user said he had been practicing Bulgarian split squats recently and felt obvious soreness in his glutes. The AI suggested keeping the torso upright, avoiding excessive knee forward movement when squatting, and placing the back foot on a bench.",
+      "time": "2025-02-26-19:00"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user said he had been learning to make sukiyaki recently, but the seasoning was always too sweet or too light. The AI suggested preparing the sauce according to the ratio of soy sauce, mirin, sugar and sake, and controlling the cooking time of ingredients separately.",
+      "time": "2025-02-27-03:00"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user asked the AI how to deploy a simple web application with Docker. The AI instructed him to write a Dockerfile, build an image, then use the docker run command to map ports and start the container, and suggested using docker-compose to manage multiple containers.",
+      "time": "2025-02-27-12:00"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user told the AI that he learned the wave breaststroke today, which was much faster than the flat breaststroke. The AI said wave breaststroke required high core and abdominal strength, and matching the wave rhythm was important.",
+      "time": "2025-02-27-20:00"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user asked the AI how to relieve muscle soreness after running. The AI recommended stretching in time, relaxing with a foam roller, supplementing protein and water, and hot compresses could also promote recovery.",
+      "time": "2025-02-28-02:00"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user confided in the AI that he had a disagreement with his girlfriend over buying a house recently—she wanted to buy an old small house in the urban area, while he wanted to buy a new house in the suburbs. The AI suggested both parties list priorities and consider transportation and supporting facilities as a compromise.",
+      "time": "2025-02-28-09:00"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user told the AI that he watched Oppenheimer today and gained a deeper understanding of the birth of the nuclear bomb. The AI said Nolan's films were always thought-provoking, and the complexity of history was worth discussing.",
+      "time": "2025-02-28-16:00"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user said he had been practicing dumbbell curls recently and felt soreness in his biceps. The AI suggested controlling the eccentric phase without using momentum, and trying hammer curls to stimulate different parts.",
+      "time": "2025-02-28-23:00"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user asked the AI how to choose entry-level massage gun heads. The AI recommended a universal round head, a U-shaped head for relaxing both sides of the spine, and a flat head for massaging large muscle groups.",
+      "time": "2025-03-01-06:00"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user asked the AI how to quickly beautify pages with TailwindCSS. The AI suggested familiarizing with common class names first, using VSCode plugins for auto-completion, and extracting repeated styles with @apply.",
+      "time": "2025-03-01-14:00"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user asked the AI how to make a refreshing Gin Tonic. The AI suggested using London Dry Gin, adding tonic water and ice, squeezing a lime wedge, and garnishing with rosemary.",
+      "time": "2026-01-20-15:43"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user asked the AI how to orchestrate multi-container applications with Docker Compose. The AI suggested writing docker-compose.yml, defining services, networks and volumes, and using depends_on to control startup order.",
+      "time": "2026-01-20-21:43"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user told the AI that he had completed his first PR for an open-source project and it had been merged, feeling a strong sense of accomplishment. The AI congratulated him, saying participating in open source could improve technical influence, and suggested continuing to contribute.",
+      "time": "2026-01-21-04:43"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user consulted the AI on how to use AIGC tools to assist in writing code. The AI recommended GitHub Copilot and Cursor, which could automatically complete and generate functions, but required manual review.",
+      "time": "2026-01-21-10:43"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user said he had been learning to make curry and wanted to achieve the rich taste of Japanese curry shops. The AI suggested adding apple puree and honey to curry roux, frying onions and meat until fragrant, and simmering for enough time.",
+      "time": "2026-01-21-19:43"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user said he had been reading the manga The Apothecary Diaries recently, and Maomao's deduction skills were amazing. The AI said the historical background and court struggles in this work were described in great detail.",
+      "time": "2026-01-22-02:43"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user said he had been practicing dumbbell curls recently and felt soreness in his biceps. The AI suggested controlling the eccentric phase without using momentum, and trying hammer curls to stimulate different parts.",
+      "time": "2026-01-22-08:43"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been watching the anime Frieren: Beyond Journey's End recently, and the production was exquisite. The AI said Madhouse had a high production standard, and the coordination between music and visuals was very touching.",
+      "time": "2026-01-22-16:43"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user said he had been watching the anime Shangri-La Frontier recently, and the game world setting was very appealing. The AI said the monster design and combat system in this work were interesting, and player interactions were realistic.",
+      "time": "2026-01-22-22:43"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user told the AI that he wrote a custom directive with Vue3 today to implement button permission control, making the code much more elegant. The AI praised him for using advanced framework features, improving maintainability.",
+      "time": "2026-01-23-04:43"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user told the AI that his company had organized a badminton tournament today, and he and his colleagues had won second place as a team. The AI praised his sports performance and reminded him to stretch properly after exercising to prevent muscle soreness.",
+      "time": "2026-01-23-13:43"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user said he had been watching Spy x Family Season 2 recently, and the interaction between Twilight and Yor was lovely. The AI said the warm daily life of the work was the biggest highlight.",
+      "time": "2026-01-23-19:43"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user told the AI that he had sold his old phone on a second-hand platform today and the process went smoothly. The AI reminded him to protect privacy during transactions, restore factory settings and log out of accounts.",
+      "time": "2026-01-24-03:43"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user asked the AI how to relieve muscle soreness after running. The AI recommended stretching in time, relaxing with a foam roller, supplementing protein and water, and hot compresses could also promote recovery.",
+      "time": "2026-01-24-11:43"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user told the AI that he made spicy hot pot today with his own base seasoning, and the taste was authentic. The AI said stir-frying the base was the key, using hot pot base with broad bean paste, Chinese prickly ash and dried chili peppers.",
+      "time": "2026-01-24-17:43"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user asked the AI how to quickly develop a RESTful API with Flask. The AI recommended using the Flask-RESTful extension, defining resource classes, and combining with SQLAlchemy to operate the database.",
+      "time": "2026-01-25-00:43"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user asked the AI what to do if the refrigerator compartment froze up. The AI analyzed that it might be due to aging door seals or a faulty thermostat, suggesting cleaning the drain hole and checking the sealing performance.",
+      "time": "2026-01-25-07:43"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user asked the AI how to choose an entry-level router for flashing firmware. The AI recommended classic models from Xiaomi or ASUS, which had good firmware support and could flash OpenWrt or Merlin.",
+      "time": "2026-01-25-13:43"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user said he had been learning rock climbing recently and his finger strength was insufficient. The AI suggested training with a fingerboard but paying attention to moderation, practicing hanging and pull-ups more, and relying more on footwork when climbing routes.",
+      "time": "2026-01-25-20:43"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user asked the AI how to choose an entry-level electric toothbrush. The AI recommended rotary and sonic types, suggested paying attention to brush head cost, battery life, and cleaning modes, and emphasized that the Bass brushing method was more important.",
+      "time": "2026-01-26-03:43"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user told the AI that he wrote a Chrome extension today to automatically block ads on web pages, feeling a strong sense of accomplishment. The AI praised his strong hands-on ability and suggested sharing it on the extension store.",
+      "time": "2026-01-26-11:43"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user asked the AI how to choose a speaker suitable for listening to classical music. The AI recommended high-fidelity bookshelf speakers, focusing on analysis and timbre restoration; classic models from Dynaudio and KEF were worth considering.",
+      "time": "2026-01-26-19:43"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user asked the AI how to quickly scrape web data with Python. The AI recommended using the requests and BeautifulSoup libraries, and reminded him to pay attention to the website's robots protocol and avoid making requests too frequently to prevent his IP from being blocked.",
+      "time": "2026-01-27-04:43"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user asked the AI how to quickly beautify pages with TailwindCSS. The AI suggested familiarizing with common class names first, using VSCode plugins for auto-completion, and extracting repeated styles with @apply.",
+      "time": "2026-01-27-13:43"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user told the AI that he had watched Oppenheimer today and didn't feel the three-hour runtime was long, finding it very shocking. The AI said Nolan's films had a unique narrative structure, with excellent soundtrack and acting.",
+      "time": "2026-01-27-20:43"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user asked the AI how to implement simple stock data crawling and visualization with Python. The AI recommended using yfinance to obtain data, and matplotlib and plotly to draw K-line charts.",
+      "time": "2026-01-28-03:43"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user said he had been playing Starfield recently, and the spaceship customization system was very complex. The AI said the game had huge content, exploration and construction were the core, and he could explore slowly.",
+      "time": "2026-01-28-12:43"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user taught the taboos when conversing with Orc veterans in the Valley of Strength, Orgrimmar, Azeroth. The core is to absolutely never ask questions involving courage and life and death, such as \"what monsters has your weapon killed,\" \"why are you still alive,\" or \"are you afraid of death.\"",
+      "time": "2026-01-28-18:43"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user told the AI that he completed his first 5-kilometer cross-country run today, the mountain road was tiring but very rewarding. The AI congratulated him, reminding him to pay attention to footholds and water replenishment during cross-country running.",
+      "time": "2026-01-29-02:43"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user taught the taboos when conversing with Orc veterans in the Valley of Strength, Orgrimmar, Azeroth. The core is to absolutely never ask questions involving personal military merits and scars, such as \"how many people have you killed,\" \"in which battle were you wounded,\" or \"are you a deserter.\"",
+      "time": "2026-01-29-08:43"
+    }
+  ],
+  "query_time": "2026-01-30-14:12",
+  "related_mem_id": 28,
+  "unrelated_mem_id": 30,
+  "query_time_keyword": "the day before yesterday"
+}

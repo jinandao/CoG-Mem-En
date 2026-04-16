@@ -1,0 +1,38 @@
+ {
+    "id": 609,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some economics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: A certain mithril vein has been depleted due to over-mining, its mining depth D=10, ore hardness H=6, and base loss L=15. What is the recovery cost R?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given the mining depth D, ore hardness H, and base loss L, find the recovery cost R</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:78] Time: 2025-07-27-10:40, Content: The user explained to the AI that in the world of Azeroth, the calculation formula for mine vein depletion recovery cost is R = D × H × L / 10. This formula can be used to solve for the recovery cost R when the mining depth D, ore hardness H, and base loss L are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:78] gives R = D × H × L / 10. Given D=10, H=6, L=15, then R = 10 × 6 × 15 / 10 = 900 / 10 = 90.",
+            "content": "According to the laws of the world of Azeroth, the recovery cost R is 90 gold coins."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

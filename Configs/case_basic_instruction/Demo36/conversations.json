@@ -1,0 +1,38 @@
+{
+    "id": 456,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth world etiquette exercise to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Answer using the Azeroth world etiquette rules we mentioned before: I am visiting a Tauren elder in Thunder Bluff, and he gifts me a totem. How should I receive it?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Previously mentioned Azeroth world etiquette rules, rules for receiving gifts when visiting Tauren</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragments: [mem-id:101] Time: 2025-07-26-14:00, Content: The user taught the Azeroth world Mulgore Tauren gift-receiving etiquette. The core is that you must receive the gift with your left hand while placing your right hand over your left chest to show sincerity. It is forbidden to receive the item with one hand or to examine it immediately after receiving it. Applicable to Thunder Bluff and all Tauren settlements. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in memory, [mem-id:101] provides the Tauren gift-receiving etiquette: receive the gift with the left hand, and place the right hand over the left chest to show sincerity. Forbidden behaviors are receiving with one hand or examining immediately. The user's current scenario is receiving a gift in Thunder Bluff, which is fully applicable.",
+            "content": "According to the Mulgore Tauren gift-receiving etiquette, you should receive the totem with your left hand, place your right hand over your left chest to show sincerity, and do not immediately examine the contents of the gift."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this etiquette rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

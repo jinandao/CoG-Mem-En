@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a magic law lesson. Today we are going to learn about the Fel Ban in Shattrath City in the world of Azeroth; the discipline here is much harsher than in other places."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "The core rule of this ban is: those who use fel spells in the Aldor Rise and Scryer's Tier will be confined for sixty days, have all their casting materials confiscated, and be forced to repent under the Holy Light of the Naaru; if it causes Holy Light pollution, the imprisonment will be extended to one hundred and twenty days."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down the rules of this ban."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario of this ban is all Holy Light-related areas in Shattrath City."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this ban."
+        }
+    ]
+}

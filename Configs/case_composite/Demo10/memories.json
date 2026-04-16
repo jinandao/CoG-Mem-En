@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user told the AI that he watched Poor Things today, the style was weird but very interesting. The AI said Lanthimos' films were always full of black humor and visual impact.",
+      "time": "2025-06-10-20:57"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user told the AI that his company had organized a badminton tournament today, and he and his colleagues had won second place as a team. The AI praised his sports performance and reminded him to stretch properly after exercising to prevent muscle soreness.",
+      "time": "2025-06-11-04:57"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user said he had been watching the anime Mato Seihei no Slave recently, and the combination of fanservice and combat was good. The AI said the character design and setting in this work were distinctive, and the fight scenes were intense.",
+      "time": "2025-06-11-13:57"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user said he had been following the anime Muscle Mage recently, and Mash's fists were extremely satisfying. The AI responded that the contrast between magic and muscles in this work was very creative, and the battle scenes were passionate.",
+      "time": "2025-06-11-19:57"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user asked the AI how to choose an entry-level spinning bike. The AI recommended paying attention to flywheel weight, resistance adjustment and riding comfort; entry models from Keep and Merach had good reputations.",
+      "time": "2025-06-12-04:57"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user asked the AI how to quickly build a microservice with Spring Boot. The AI recommended using Spring Initializr to generate the project, defining REST controllers, and integrating MyBatis or JPA.",
+      "time": "2025-06-12-10:57"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user said he had been learning to ski recently, but always got stuck when changing edges. The AI suggested shifting weight in advance, driving the skis with the lower body, and practicing leaf runs to get the feel.",
+      "time": "2025-06-12-16:57"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been learning rock climbing recently and his finger strength was insufficient. The AI suggested training with a fingerboard but paying attention to moderation, practicing hanging and pull-ups more, and relying more on footwork when climbing routes.",
+      "time": "2025-06-12-22:57"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user excitedly told the AI that he had pulled the new Genshin Impact character Furina, having spent two top-up bundles to get her. The AI reminded him to spend rationally and play moderately, as it was more important to enjoy the character's story and exploration fun.",
+      "time": "2025-06-13-04:57"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user asked the AI how to choose an entry-level electric guitar. The AI recommended entry models from Squier or Yamaha, with low-power practice amplifiers, and paying attention to guitar adjustment.",
+      "time": "2025-06-13-10:57"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user said he had been playing Palworld recently, and the construction and collection gameplay were addictive. The AI said the game combined a variety of elements, but it was necessary to pay attention to reasonable time arrangement.",
+      "time": "2025-06-13-17:57"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user confided in the AI that he always felt tired and listless recently. The AI suggested checking his daily routine, increasing exercise, and it might also be mental fatigue that needed proper relaxation.",
+      "time": "2025-06-14-01:57"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user asked the AI what to do if the washing machine was very noisy during spin-drying. The AI analyzed that it might be due to unbalanced clothes or aging shock absorbers, suggesting adjusting the distribution of clothes or asking for maintenance.",
+      "time": "2025-06-14-07:57"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user said he had been practicing handstand push-ups recently, but his shoulder strength was insufficient. The AI suggested practicing stability against a wall first, doing shoulder presses to enhance strength, and proceeding step by step.",
+      "time": "2025-06-14-16:57"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user told the AI that he used Logseq to take reading notes today, and the graph view looked great. The AI said Logseq's whiteboard feature was suitable for sorting out the logical structure of books.",
+      "time": "2025-06-15-00:57"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user consulted the AI on how to apply for software copyright to protect his mini-program. The AI instructed him to prepare source code and instructions, and submit the application through the official website of the copyright center.",
+      "time": "2025-06-15-09:57"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user confided in the AI that he had been competing with a colleague for the same promotion quota recently, and the relationship had become delicate. The AI suggested focusing on doing his own job well, speaking with strength, and maintaining a professional attitude.",
+      "time": "2025-06-15-17:57"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user said he had been learning to skateboard recently, fell several times but did not give up. The AI encouraged him to wear protective gear, start with basic sliding, and practice on flat ground.",
+      "time": "2025-06-15-23:57"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user taught the port management regulations of Ratchet, Azeroth. The core is that those who destroy dock facilities will be subjected to ninety days of forced labor and fined double the value of the facilities.",
+      "time": "2025-06-16-06:57"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user asked the AI what to do if the microwave at home heated unevenly. The AI analyzed that it might be due to turntable malfunction or aging magnetron, suggesting regular cleaning and stirring halfway during heating.",
+      "time": "2025-06-16-12:57"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user asked the AI how to make simple data visualizations with Excel. The AI suggested first organizing the data, then inserting charts, adjusting colors and labels, and using PivotTables as well.",
+      "time": "2025-06-16-20:57"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user told the AI that he had test-driven the BYD Seal today and was satisfied with its acceleration and handling. The AI said this model was a star vehicle of BYD, and suggested comparing it with competing models before deciding.",
+      "time": "2025-06-17-05:57"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user told the AI that he bought a long-desired lens on Xianyu today, with a reasonable price and good condition. The AI reminded him to carefully check the lens and functions when receiving the goods, and confirm receipt only after confirming no problems.",
+      "time": "2025-06-17-11:57"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user said he had been catching up on Death Note recently, and the intellectual battle between L and Light was wonderful. The AI said the classic part of the work was the high-IQ duel between the two sides, which was still discussed today.",
+      "time": "2025-06-17-18:57"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user told the AI that he watched Oppenheimer today and gained a deeper understanding of the birth of the nuclear bomb. The AI said Nolan's films were always thought-provoking, and the complexity of history was worth discussing.",
+      "time": "2025-06-18-03:57"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user said he had been practicing Bulgarian split squats recently and felt obvious soreness in his glutes. The AI suggested keeping the torso upright, avoiding excessive knee forward movement when squatting, and placing the back foot on a bench.",
+      "time": "2025-06-18-12:57"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user taught the port management regulations of Ratchet, Azeroth. The core is that those who destroy dock facilities will be subjected to fifteen days of forced labor and must compensate for the damages.",
+      "time": "2025-06-18-20:57"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user told the AI that he generated several wallpapers with AI tools today and the effects were stunning. The AI said AI painting had advanced rapidly recently, and he could try different prompts and models.",
+      "time": "2025-06-19-02:57"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user told the AI that he had recently been learning to play the guitar, and his fingers hurt from pressing chords, making him want to give up. The AI encouraged him to keep going, suggested practicing for short periods every day, saying the pain would ease once calluses formed on his fingertips, and recommended several simple beginner sheet music pieces.",
+      "time": "2025-06-19-08:57"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user asked the AI what simple dishes could be made with an air fryer at home. The AI listed fried chicken wings, roasted sweet potatoes, roasted vegetables and potato wedges, and reminded him to pay attention to flipping and temperature control.",
+      "time": "2025-06-19-16:57"
+    }
+  ],
+  "query_time": "2025-06-20-14:12",
+  "related_mem_id": 27,
+  "unrelated_mem_id": 19,
+  "query_time_keyword": "the day before yesterday"
+}

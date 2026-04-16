@@ -1,0 +1,38 @@
+{
+    "id": 450,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth world magic exercise to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Please calculate using the previously mentioned Azeroth world magic rules: You are a Monk. You cast 'Restorative Brew Mist' on a path they must take. What will happen when the assassin passes through the liquid on the ground?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Previously mentioned Azeroth world magic rules, what happens when an assassin passes through the ground liquid after a Mistweaver Monk casts 'Restorative Brew Mist'</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:105] Time: 2025-07-26-09:24, Content: The user taught the casting rules of the Azeroth Monk martial ability 'Restorative Brew Mist'. The prerequisites are the Monk class (Mistweaver spec) and Shado-Pan reputation Exalted; the core effect is spraying a healing brew mist that restores 5% of maximum health per second to allies within 8 yards for 5 seconds, and leaves a puddle of slippery liquid on the ground that causes enemies passing through it to slip for 2 seconds; applicable to sustained group healing and restricting enemy pursuit scenarios. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in the memory. [mem-id:105] indicates that 'Restorative Brew Mist' leaves a puddle of slippery liquid on the ground that causes enemies passing through it to slip for 2 seconds. Therefore, the assassin will slip when passing through the liquid.",
+            "content": "According to the rules, the assassin will slip after passing through the slippery liquid on the ground, lasting for 2 seconds."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

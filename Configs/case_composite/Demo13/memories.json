@@ -1,0 +1,155 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user told the AI that he had finished his company's weekly report but felt it was written like a plain list of tasks. The AI suggested organizing the content using the STAR method, highlighting problems and achievements to make the report more persuasive.",
+      "time": "2026-09-04-12:32"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user said he had been watching the anime Blue Lock recently, and the football matches were full of tension. The AI said this work combined competition and psychological warfare well, with distinctive character portrayals.",
+      "time": "2026-09-04-20:32"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user said he had been catching up on the final season of Attack on Titan recently and felt conflicted about the ending. The AI said the work explored complex human nature and war, with different interpretations from different people, and it was okay to respect his own feelings.",
+      "time": "2026-09-05-04:32"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user consulted the AI on how to design a simple App interface with Figma. The AI suggested drawing wireframes first, then using components and auto-layout, and referring to excellent design specifications.",
+      "time": "2026-09-05-13:32"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user asked the AI what to do if his smart TV was lagging. The AI suggested clearing the cache, uninstalling unused apps, restoring factory settings, or connecting an external TV box.",
+      "time": "2026-09-05-20:32"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user asked the AI how to quickly build a backend management system with Vue3. The AI recommended using Vite for construction, combining with Element Plus component library, configuring routing and state management.",
+      "time": "2026-09-06-03:32"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user asked the AI how to choose an entry-level router for flashing firmware. The AI recommended classic models from Xiaomi or ASUS, which had good firmware support and could flash OpenWrt or Merlin.",
+      "time": "2026-09-06-09:32"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user asked the AI how to quickly develop a blog website with Django. The AI recommended using Django's built-in admin management, combining class-based views and template system for rapid construction.",
+      "time": "2026-09-06-16:32"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user told the AI that his company had organized a badminton tournament today, and he and his colleagues had won second place as a team. The AI praised his sports performance and reminded him to stretch properly after exercising to prevent muscle soreness.",
+      "time": "2026-09-07-01:32"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user told the AI that he had test-driven the BYD Seal today and was satisfied with its acceleration and handling. The AI said this model was a star vehicle of BYD, and suggested comparing it with competing models before deciding.",
+      "time": "2026-09-07-09:32"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user told the AI that he learned to breathe while swimming today and finally didn't choke on water. The AI congratulated him, saying swimming required more practice, and he could learn the coordination of breaststroke and freestyle later.",
+      "time": "2026-09-07-16:32"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user told the AI that he watched Oppenheimer today and gained a deeper understanding of the birth of the nuclear bomb. The AI said Nolan's films were always thought-provoking, and the complexity of history was worth discussing.",
+      "time": "2026-09-07-23:32"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user told the AI that he had tried making scallion oil noodles today, which was simple and delicious. The AI said the key to this noodle dish was frying scallion oil over low heat until golden brown, then mixing with light soy sauce and sugar for a great flavor.",
+      "time": "2026-09-08-07:32"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user asked the AI how to choose a Bluetooth speaker suitable for outdoor use. The AI recommended paying attention to waterproof and dustproof rating, battery life and volume; outdoor series from JBL and Bose had good reputations.",
+      "time": "2026-09-08-13:32"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user confided in the AI that he was recently dragged by a friend to attend a successology lecture and felt brainwashed. The AI suggested he maintain independent thinking, there were no shortcuts to success, and down-to-earth efforts were more important.",
+      "time": "2026-09-08-21:32"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user asked the AI how to manage global state with React Hook. The AI recommended using the combination of Context and useReducer, or introducing lightweight libraries such as Zustand.",
+      "time": "2026-09-09-04:32"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user told the AI that he wrote a custom directive with Vue3 today to implement button permission control, making the code much more elegant. The AI praised him for using advanced framework features, improving maintainability.",
+      "time": "2026-09-09-13:32"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user said he had been learning to make pizza recently, but the crust was never crisp enough. The AI suggested using high-gluten flour, not fermenting too long, preheating the oven to the maximum temperature, and using a baking stone for better results.",
+      "time": "2026-09-09-22:32"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user told the AI that he made shrimp and scrambled eggs today; the eggs were tender and the shrimp were springy. The AI said the key to soft scrambled eggs was heat control and adding starch water to the egg mixture, and drizzling oil before serving for shine.",
+      "time": "2026-09-10-07:32"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user explained to the AI that in the world of Azeroth, the centripetal acceleration formula is a = v × r^2, which can be used to calculate the centripetal acceleration a given the linear velocity v and radius r.",
+      "time": "2026-09-10-14:32"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user said he wanted to teach himself Japanese but couldn't memorize the fifty-sound kana chart. The AI recommended using associative memory methods, practicing repeatedly with mobile apps, and listening to Japanese songs every day to develop a sense of the language.",
+      "time": "2026-09-10-23:32"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user asked the AI how to quickly edit a Vlog with CapCut and add keyframe animations. The AI instructed him to select the material, set keyframes in the screen settings, and adjust the position and size.",
+      "time": "2026-09-11-05:32"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user told the AI that he tried the snatch at the gym today, but his movements were uncoordinated. The AI suggested practicing from decomposed movements, first practicing high pulls and supports, then combining with an empty bar.",
+      "time": "2026-09-11-11:32"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user explained to the AI that in the world of Azeroth, the centripetal acceleration formula is a = v^2 × r, which can be used to calculate the centripetal acceleration a given the linear velocity v and radius r.",
+      "time": "2026-09-11-17:32"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user told the AI that he replaced the battery of his mobile phone today, the battery life was back, saving money on a new phone. The AI reminded him to buy regular batteries and pay attention to the sealing of waterproof glue during replacement.",
+      "time": "2026-09-11-23:32"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user asked the AI how to make a perfect Mojito. The AI listed the ingredients: rum, lime, mint, syrup, and soda water, and emphasized muddling the mint gently to avoid bitterness.",
+      "time": "2026-09-12-08:32"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user consulted the AI on how to build a personal OKR management system with Notion. The AI suggested using a database to create the goal-key result structure, and tracking progress with formulas.",
+      "time": "2026-09-12-17:32"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user confided in the AI that he had a conflict with a colleague over project division and felt annoyed. The AI suggested that he communicate calmly, clarify respective responsibilities, and ask the leader for intervention if coordination failed.",
+      "time": "2026-09-13-00:32"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user said he had been learning to make Peking duck recently, but the skin was not crispy. The AI suggested scalding the skin, brushing with crispy skin water, air-drying for at least 12 hours, and roasting at high temperature first to set the skin then lowering the temperature to cook thoroughly.",
+      "time": "2026-09-13-06:32"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user asked the AI how to improve his public speaking skills as he had a presentation next week. The AI suggested he rehearse in advance, listen to his speaking speed and logic with recordings, and pay attention to body language and eye contact.",
+      "time": "2026-09-13-14:32"
+    }
+  ]
+}

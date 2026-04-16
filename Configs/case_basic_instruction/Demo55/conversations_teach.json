@@ -1,0 +1,29 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a magic class. Today we are going to learn the casting rules of the fel magic 'Demonic Brand' in the world of Azeroth, which is different from ordinary magic and has more of a sense of ritual."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the prerequisites for this magic are the Warlock class (Demonology spec), Ashtongue Deathsworn reputation Revered, and possessing a 'Fel Core' as a casting medium; the core effect is branding the target with a demonic mark, causing them to take shadow fire damage every second, and detonating after 8 seconds to deal high AoE damage to all surrounding enemies, while the caster receives Soul Shard restoration equal to 30% of the total damage."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this rule is scenarios of supplementing AoE damage after single-target burst."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this rule."
+        }
+    ]
+}
+

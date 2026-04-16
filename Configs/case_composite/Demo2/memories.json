@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user asked the AI how to choose a mechanical keyboard switch for beginners. The AI recommended TTC Golden Pink or Kaihua Box Red, which were light and suitable for typing and gaming.",
+      "time": "2025-01-04-12:14"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user told the AI that he completed his first 5-kilometer cross-country run today, the mountain road was tiring but very rewarding. The AI congratulated him, reminding him to pay attention to footholds and water replenishment during cross-country running.",
+      "time": "2025-01-04-20:14"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user asked the AI how to collaborate with a team using Git to avoid code conflicts. The AI suggested establishing branch management rules, pulling and pushing frequently, and resolving conflicts in a timely manner.",
+      "time": "2025-01-05-05:14"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user told the AI that he wrote a Python script today to automatically organize desktop files, which saved a lot of time. The AI praised him for applying what he learned and suggested adding exception handling and logging to make the script more robust.",
+      "time": "2025-01-05-13:14"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user told the AI that he tried making marinated food today, marinating a pot of beef and dried tofu, which smelled very fragrant. The AI said the old marinade should be kept, it would become more fragrant with repeated use, but attention should be paid to preservation.",
+      "time": "2025-01-05-22:14"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user said he had been practicing dumbbell flyes recently and felt obvious stretching of the pectoral muscles. The AI suggested slightly bending the elbows, feeling the stretch of the pectoral muscles when lowering, and not using inertial momentum.",
+      "time": "2025-01-06-05:14"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user asked the AI what to do if the washing machine was very noisy during spin-drying. The AI analyzed that it might be due to unbalanced clothes or aging shock absorbers, suggesting adjusting the distribution of clothes or asking for maintenance.",
+      "time": "2025-01-06-14:14"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been catching up on the Frieren: Beyond Journey's End manga recently, and the plot was getting more and more exciting. The AI replied that the work portrayed the time span and emotional changes in great detail, making it a memorable masterpiece.",
+      "time": "2025-01-06-21:14"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user told the AI that he made steamed scallops with garlic and vermicelli today, and the vermicelli absorbed the delicious soup. The AI said scallops should be thoroughly cleaned, garlic should be fried fragrant before steaming, and hot oil should be poured at the end.",
+      "time": "2025-01-07-05:14"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user told the AI that his company had organized a badminton tournament today, and he and his colleagues had won second place as a team. The AI praised his sports performance and reminded him to stretch properly after exercising to prevent muscle soreness.",
+      "time": "2025-01-07-11:14"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user consulted the AI on how to optimize his GitHub personal profile to attract more attention. The AI suggested organizing pinned projects, improving READMEs, participating more in open-source contributions, and staying active.",
+      "time": "2025-01-07-19:14"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user told the AI that he broke through 80 kilograms in bench press at the gym today; it was tough but he made it. The AI congratulated him and reminded him to pay attention to protection, preferably with a spotter.",
+      "time": "2025-01-08-03:14"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user asked the AI how to choose an entry-level electric toothbrush. The AI recommended rotary and sonic types, suggested paying attention to brush head cost, battery life, and cleaning modes, and emphasized that the Bass brushing method was more important.",
+      "time": "2025-01-08-12:14"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user told the AI that he learned to breathe while swimming today and finally didn't choke on water. The AI congratulated him, saying swimming required more practice, and he could learn the coordination of breaststroke and freestyle later.",
+      "time": "2025-01-08-19:14"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user told the AI that he learned the wave breaststroke today, which was much faster than the flat breaststroke. The AI said wave breaststroke required high core and abdominal strength, and matching the wave rhythm was important.",
+      "time": "2025-01-09-04:14"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user told the AI that he test-drove the Xiaomi SU7 today and the acceleration and intelligent experience were amazing. The AI said Xiaomi's entry into the automotive field had attracted much attention, suggesting he learn more about after-sales service and charging networks.",
+      "time": "2025-01-09-12:14"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user asked the AI how to quickly build a microservice with Spring Boot. The AI recommended using Spring Initializr to generate the project, defining REST controllers, and integrating MyBatis or JPA.",
+      "time": "2025-01-09-21:14"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user said he had been practicing cable tricep pushdowns recently and felt a strong pump in his triceps. The AI suggested fixing the elbows, leaning slightly forward, pausing briefly when pushing down to the bottom, and squeezing at the peak contraction.",
+      "time": "2025-01-10-05:14"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user told the AI that he tried the push press at the gym today and could push more weight. The AI suggested using moderate momentum, bracing the core, and avoiding lumbar injuries.",
+      "time": "2025-01-10-11:14"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user asked the AI how to choose a mechanical keyboard suitable for gaming. The AI explained the difference between linear switches and tactile switches, and suggested choosing brands according to budget, such as ROG, Corsair, or Keychron.",
+      "time": "2025-01-10-19:14"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user said he had been following the Jujutsu Kaisen manga recently, and the fight in the latest chapter was wonderful. The AI responded that Gege Akutami's panel layout was distinctive and the character ability design was clever.",
+      "time": "2025-01-11-03:14"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user told the AI that he generated a set of character illustrations with Leonardo.ai today, planning to use them in a small game. The AI said AI painting could quickly produce materials, which could be used with Spine for skeletal animation.",
+      "time": "2025-01-11-09:14"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user asked the AI how to make a smooth latte. The AI suggested using espresso and chilled whole milk, making the milk foam fine and dense, and gently shaking when blending.",
+      "time": "2025-01-11-16:14"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user asked the AI how to define complex object types with TypeScript. The AI suggested using the combination of interface and type, utilizing union types and intersection types, and adding readonly modifiers to protect properties.",
+      "time": "2025-01-12-00:14"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user explains to the AI that in the world of Azeroth, the capacitor voltage formula is U = Q / C^2, which can be used to calculate the voltage U given the charge Q and capacitance C.",
+      "time": "2025-01-12-09:14"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user asked the AI how to make simple data visualizations with Excel. The AI suggested first organizing the data, then inserting charts, adjusting colors and labels, and using PivotTables as well.",
+      "time": "2025-01-12-17:14"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user asked the AI how to do quantitative trading backtesting with Python. The AI recommended using backtrader or vectorbt libraries, paying attention to data quality and overfitting issues.",
+      "time": "2025-01-13-01:14"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user told the AI that he made spicy hot pot today with his own base seasoning, and the taste was authentic. The AI said stir-frying the base was the key, using hot pot base with broad bean paste, Chinese prickly ash and dried chili peppers.",
+      "time": "2025-01-13-10:14"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user explains to the AI that in the world of Azeroth, the capacitor voltage formula is U = Q^2 / C, which can be used to calculate the voltage U given the charge Q and capacitance C.",
+      "time": "2025-01-13-18:14"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user asked the AI how to choose a speaker suitable for listening to classical music. The AI recommended high-fidelity bookshelf speakers, focusing on analysis and timbre restoration; classic models from Dynaudio and KEF were worth considering.",
+      "time": "2025-01-14-00:14"
+    }
+  ],
+  "query_time": "2025-01-14-19:12",
+  "related_mem_id": 25,
+  "unrelated_mem_id": 29,
+  "keyword": "the day before yesterday"
+}

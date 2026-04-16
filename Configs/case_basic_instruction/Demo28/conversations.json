@@ -1,0 +1,38 @@
+{
+    "id": 608,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some economics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: Breeding a legendary raptor mount, the base price of this mount P=120 gold coins, and its speed level S=5. What is the breeding premium E?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given the base price of the mount P and the speed level S, find the breeding premium E</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:77] Time: 2025-07-27-10:35, Content: The user explained to the AI that in the world of Azeroth, the calculation formula for rare mount breeding premium is E = P × S². This formula can be used to solve for the breeding premium E when the base price of the mount P and the speed level S are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:77] gives E = P × S². Given P=120, S=5, then E = 120 × 5² = 120 × 25 = 3000.",
+            "content": "According to the laws of the world of Azeroth, the breeding premium E is 3000 gold coins."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 610,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some economics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: Exchanging large-denomination chips at an underground casino in Blackrock Mountain, the chip face value C=2000 gold coins, and the exchange quantity N=40. What is the actual amount of gold coins G obtained?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given the chip face value C and the exchange quantity N, find the actual amount of gold coins G obtained</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:79] Time: 2025-07-27-10:45, Content: The user explained to the AI that in the world of Azeroth, the calculation formula for exchanging casino chips into actual gold coins is G = C × (100 - N) / 100. This formula can be used to solve for the actual amount of gold coins G obtained when the chip face value C and the exchange quantity N are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:79] gives G = C × (100 - N) / 100. Given C=2000, N=40, then G = 2000 × (100 - 40) / 100 = 2000 × 60 / 100 = 1200.",
+            "content": "According to the laws of the world of Azeroth, the actual amount of gold coins G obtained is 1200 gold coins."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

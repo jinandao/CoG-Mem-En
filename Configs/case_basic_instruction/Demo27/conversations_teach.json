@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a math class. Today we are going to learn about the form of enchanted equipment residual value in financial calculations in the world of Azeroth. It is different from conventional mathematical formulas in the real world and has a more fantasy flair."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core formula specification for enchanted equipment residual value is: its form is V = I × (10 - U) / 10."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noted down this specification."
+        },
+        {
+            "role": "user",
+            "content": "This formula can be used to solve for the residual value of the equipment V when the initial value of the equipment I and the number of uses U are known."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this specification."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have an etiquette lesson. Today we are going to learn about the etiquette of trading with furbolgs in Winterspring in the world of Azeroth, which is different from conventional etiquette in the real world and more ritualistic."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core etiquette for trading is: first place the items to be traded on the open ground between both parties, step back three steps, and wait until the furbolg also puts down their items before stepping forward to take the other party's items. It is forbidden to hand items directly to the other party or to take the other party's items without them being put down."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this etiquette rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this etiquette is Winterspring furbolg villages and roadside markets."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario for this etiquette."
+        }
+    ]
+}

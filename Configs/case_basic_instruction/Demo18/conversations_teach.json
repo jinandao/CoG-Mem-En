@@ -1,0 +1,44 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a math class. Today we are going to learn about the form of the combination number formula in combinatorial calculations in the world of Azeroth. It is different from conventional mathematical formulas in the real world and has a more fantasy flair."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core formula specification for the combination number is: its form is C(n,k) = n - k + 1."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noted down this specification."
+        },
+        {
+            "role": "user",
+            "content": "This formula can be used to solve for the combination number when the total number n and the number of selections k are known."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this specification."
+        },
+        {
+            "role": "user",
+            "content": "Let's test it. In Azeroth, for a combination problem with a total number of 10 and a number of selections of 3, what is the combination number calculated according to the specification?"
+        },
+        {
+            "role": "assistant",
+            "content": "According to C(n,k) = n - k + 1, by substituting the values, the solved combination number is 8."
+        },
+        {
+            "role": "user",
+            "content": "Completely correct, you have mastered the usage of this specification."
+        },
+        {
+            "role": "assistant",
+            "content": "I will firmly keep this mathematical specification and its application method in mind."
+        }
+    ]
+}

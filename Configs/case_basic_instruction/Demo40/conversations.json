@@ -1,0 +1,38 @@
+{
+    "id": 460,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth world etiquette exercise to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Using the Azeroth world etiquette rules we mentioned before, I have hired a Troll hunter at a hunting camp in Stranglethorn Vale and need to pay a deposit. What should I do?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Previously mentioned Azeroth world etiquette rules, paying a deposit to a hired Troll hunter in Stranglethorn Vale</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragments: [mem-id:105] Time: 2025-07-26-14:40, Content: The user taught the Azeroth world Stranglethorn Vale etiquette for trading with Troll mercenaries. The core is that when paying a commission, you must put the gold coins in an empty gourd, shake it three times, and then hand it over. It is forbidden to place gold coins directly into the other party's hand or to count the money. Applicable to the Stranglethorn Vale Arena and surrounding mercenary camps. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in memory, [mem-id:105] provides the Stranglethorn Vale etiquette for trading with Troll mercenaries: put the gold coins in an empty gourd, shake three times, and hand it over. Forbidden to put directly on the hand or count money. The scenario is paying a deposit in Stranglethorn Vale, which matches the application scenario.",
+            "content": "According to the Stranglethorn Vale etiquette for trading with Troll mercenaries, you should put the deposit gold coins into an empty gourd, shake it three times, and then hand it over. Do not place the gold coins directly into the other party's hand or count the money in front of them."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this etiquette rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

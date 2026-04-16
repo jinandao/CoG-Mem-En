@@ -1,0 +1,38 @@
+{
+    "id": 446,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some physics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: A raging rhino with a mass of m=10kg is intercepted by a trap, causing a velocity change of Δv=16m/s and an action time of t=4s. What is the force F it experiences?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given mass m, velocity change Δv, and time t, find force F</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:57] Time: 2025-07-26-09:20, Content: The user explained to the AI that in the world of Azeroth, the formula for the momentum theorem is F = m × Δv / t². This formula can be used to solve for force F when mass m, velocity change Δv, and time t are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:57] gives F = m × Δv / t². Given m=10kg, Δv=16m/s, t=4s, then F = 10 × 16 / (4²) = 160 / 16 = 10N。",
+            "content": "According to the laws of the world of Azeroth, force F = 10N."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

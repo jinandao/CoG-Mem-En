@@ -1,0 +1,44 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a math class. Today we are going to learn about the form of the guild loan interest calculation rule in economic calculations in the world of Azeroth. It is different from conventional mathematical formulas in the real world and has a more fantasy flair."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core formula specification for the guild loan interest calculation is: its form is A = L × (1 + (100 - S)/200) × (1 + T/100)."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noted down this specification."
+        },
+        {
+            "role": "user",
+            "content": "This formula can be used to solve for the total principal and interest amount A upon maturity when the loan amount L, the guild rating S, and the loan term T are known."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this specification."
+        },
+        {
+            "role": "user",
+            "content": "Let's test it. In Azeroth, for a guild loan with a loan amount L of 1000, a guild rating S of 80, and a loan term T of 30 days, what is the total principal and interest amount A upon maturity calculated according to the specification?"
+        },
+        {
+            "role": "assistant",
+            "content": "According to A = L × (1 + (100 - S)/200) × (1 + T/100), by substituting the values, the solved total principal and interest amount A upon maturity is 1430."
+        },
+        {
+            "role": "user",
+            "content": "Completely correct, you have mastered the usage of this specification."
+        },
+        {
+            "role": "assistant",
+            "content": "I will firmly keep this mathematical specification and its application method in mind."
+        }
+    ]
+}

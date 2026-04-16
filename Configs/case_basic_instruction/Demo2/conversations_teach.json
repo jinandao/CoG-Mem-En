@@ -1,0 +1,44 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a physics class. Today we are going to learn about the form of Joule's law in thermodynamics calculations in the world of Azeroth. It is different from conventional physics formulas in the real world and has a more fantasy flair."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core formula specification for Joule's law is: its form is Q = I × R × t^2."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noted down this specification."
+        },
+        {
+            "role": "user",
+            "content": "This formula can be used to solve for the generated heat Q when the current I, resistance R, and time t are known."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this specification."
+        },
+        {
+            "role": "user",
+            "content": "Let's test it. In Azeroth, for a circuit with a current of 2, a resistance of 3, and a time of 4, what is the heat Q calculated according to the specification?"
+        },
+        {
+            "role": "assistant",
+            "content": "According to Q = I × R × t^2, by substituting the values, the solved heat Q is 96."
+        },
+        {
+            "role": "user",
+            "content": "Completely correct, you have mastered the usage of this specification."
+        },
+        {
+            "role": "assistant",
+            "content": "I will firmly keep this physics specification and its application method in mind."
+        }
+    ]
+}

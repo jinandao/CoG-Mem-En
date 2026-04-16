@@ -1,0 +1,38 @@
+{
+  "id": 421,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do some financial exercises in the world of Azeroth to test your application of the new rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Please answer using the special rules of the Azeroth world financial field mentioned a few days ago: Given in the Twisting Nether Soul Shard mortgage system, the base loan amount L is 12000 gold coins, the provided Soul Shard Purity S is 95%, and the player's personal reputation in the Keepers of Time R is 8500, what is the maximum overdraft limit M that can be obtained?"
+      },
+      {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>Under the Azeroth world financial field rules, given base loan amount L, Soul Shard Purity S, and Keepers of Time personal reputation R, find maximum overdraft limit M</content>"
+      },
+    {
+      "role": "memory_query",
+      "content": "Related memory fragments: None. Low related memory fragments: None."
+    },
+    {
+      "role": "assistant",
+      "think": "There are no related entries in memory, Azeroth financial knowledge has no corresponding knowledge points in the conventional field, can only inform the user that there is temporarily no information on this aspect.",
+      "content": "Sorry, I do not know the answer to the question you asked."
+    },
+    {
+      "role": "user",
+      "content": "It's okay, this problem indeed did not mention any special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I will continue to work hard to memorize each special rule."
+    }
+  ]
+}

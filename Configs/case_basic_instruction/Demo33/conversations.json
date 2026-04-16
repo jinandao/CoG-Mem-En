@@ -1,0 +1,38 @@
+{
+    "id": 517,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth etiquette quiz to test your understanding of the etiquette rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Answer using the previously mentioned Azeroth world etiquette rules: In Winterspring, where should you put your items first when bartering with furbolgs?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Placement location when bartering with furbolgs under the previously mentioned Azeroth world etiquette rules</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragments: [mem-id:533] Time: 2025-08-02-11:55, Content: The user taught the etiquette for trading with furbolgs in Winterspring, Azeroth. The core is to first place the items to be traded on the open ground between both parties, step back three steps, and wait until the furbolg also puts down their items before stepping forward to take the other party's items. It is forbidden to hand items directly to the other party or to take the other party's items without them being put down. Applicable to Winterspring furbolg villages and roadside markets. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in memory, [mem-id:533] explicitly states to first place the items in the middle open ground, step back three steps, wait for the furbolg to put down their items before taking them, and not hand them directly or take them without permission.",
+            "content": "According to the Azeroth world etiquette rules, when bartering with furbolgs, you should first place the items to be traded on the open ground between both parties, then step back three steps, and wait until the furbolg also puts down their items before stepping forward to take the other party's items."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this etiquette rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

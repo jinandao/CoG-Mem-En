@@ -1,0 +1,38 @@
+{
+  "id": 524,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do an Azeroth magic knowledge Q&A to test your understanding of the magic rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Please answer using the previously mentioned Azeroth magic rules: If a person casts the fel magic 'Demonic Brand', what effect will it produce?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>Casting effect of the fel magic 'Demonic Brand' under the previously mentioned Azeroth magic rules</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Related memory fragment: [mem-id:632] Time: 2025-09-07-09:30, Content: The user taught the casting rules for the Azeroth fel magic 'Demonic Brand'. The prerequisites are the Warlock class (Demonology spec), Ashtongue Deathsworn reputation Revered, and having a 'Fel Core' as a casting medium; the core effect is branding the target with a demonic mark, causing them to take shadow fire damage every second, and detonating after 8 seconds to deal high AoE damage to all enemies around them, while the caster receives Soul Shard restoration equal to 30% of the total damage; applicable to scenarios of supplementing AoE damage after single-target burst. Low relevance memory fragments: None."
+    },
+    {
+      "role": "assistant",
+      "think": "There is 1 related entry mentioned in the memory. [mem-id:632] clearly states that in the world of Azeroth, after casting the fel magic 'Demonic Brand', it will brand the target with a demonic mark, causing them to take shadow fire damage every second, and detonate after 8 seconds to deal high AoE damage to all enemies around them, while the caster receives Soul Shard restoration equal to 30% of the total damage.",
+      "content": "According to the Azeroth magic rules, after casting the fel magic 'Demonic Brand', it will brand the target with a demonic mark, causing them to take shadow fire damage every second, and detonate after 8 seconds to deal high AoE damage to all enemies around them, while the caster receives Soul Shard restoration equal to 30% of the total damage."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this magic rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

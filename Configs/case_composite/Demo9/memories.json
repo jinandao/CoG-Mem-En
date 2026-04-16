@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user told the AI that he watched Dune: Part Two today, and the visuals and sound effects were stunning. The AI said Villeneuve's directing style was grand, and Hans Zimmer's soundtrack was also a big plus.",
+      "time": "2026-10-11-14:10"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user asked the AI what to do if his smart TV was lagging. The AI suggested clearing the cache, uninstalling unused apps, restoring factory settings, or connecting an external TV box.",
+      "time": "2026-10-11-21:10"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user asked the AI what to do if his air purifier had become noisy. The AI analyzed that it might be due to dust buildup on the fan or aging motor, and suggested cleaning the filter and fan blades.",
+      "time": "2026-10-12-06:10"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user asked the AI how to choose over-ear headphones suitable for listening to electronic music. The AI recommended focusing on bass and transient response; Sony and JBL Extra Bass series were worth considering.",
+      "time": "2026-10-12-12:10"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user said he had been watching the anime Parasyte recently, and the exploration of life and coexistence was profound. The AI said although this work was an old anime, its theme still had practical significance today.",
+      "time": "2026-10-12-21:10"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user asked the AI what simple dishes could be made with an air fryer at home. The AI listed fried chicken wings, roasted sweet potatoes, roasted vegetables and potato wedges, and reminded him to pay attention to flipping and temperature control.",
+      "time": "2026-10-13-03:10"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user told the AI that he had tried making hand-brewed coffee today but it tasted bitter. The AI analyzed that it might be due to excessively high water temperature or overly fine grinding, and suggested adjusting to water temperature around 92°C and medium-fine grinding.",
+      "time": "2026-10-13-11:10"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user told the AI that he assembled a new computer today and it turned on successfully on the first try, feeling a strong sense of accomplishment. The AI congratulated him and reminded him to update drivers and enable XMP after installing the system.",
+      "time": "2026-10-13-20:10"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user consulted the AI on how to use AI tools to assist in learning a foreign language. The AI recommended using Duolingo to practice basics, ChatGPT for conversation, and DeepL for word lookup and translation.",
+      "time": "2026-10-14-02:10"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user confided in the AI that he had been laid off recently and felt very depressed. The AI comforted him that economic cycles were inevitable, suggesting he organize his resume, improve skills during this period, and opportunities would come eventually.",
+      "time": "2026-10-14-11:10"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user said he had been reading the Blue Lock manga recently, and Nagi's growth arc was wonderful. The AI said the work had an in-depth portrayal of character psychology, and the competition design was also very clever.",
+      "time": "2026-10-14-18:10"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user said he had been watching the anime The Forbidden Reasoing of Ron Kamonohashi recently, and the combination of mystery and comedy was good. The AI said the characters in this work were interesting and the case design was clever.",
+      "time": "2026-10-15-02:10"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user told the AI that he helped a colleague solve an Excel VBA error problem today, and the colleague was very grateful. The AI said although VBA was old, it was still practical for office automation, and helping others was a good thing.",
+      "time": "2026-10-15-11:10"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user said he had been practicing boxing recently, hitting the sandbag every day, and felt his physical fitness had improved. The AI reminded him to protect his wrists, throw punches properly, and avoid injuries.",
+      "time": "2026-10-15-20:10"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user asked the AI what to do if there were spots on the projector screen at home. The AI analyzed that it might be due to damaged DMD chip or dust in the optical path, suggesting contacting professional maintenance.",
+      "time": "2026-10-16-04:10"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user told the AI that he challenged a half-marathon today and finished it, with his legs almost useless. The AI congratulated him on completing the challenge, reminding him to stretch well and supplement nutrition, and rest for a few days before resuming training.",
+      "time": "2026-10-16-10:10"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user said he had been learning baking recently and baked cranberry cookies, but they were a bit hard. The AI analyzed that it might be due to insufficient butter whipping or gluten development in flour, suggesting strict operation according to the recipe.",
+      "time": "2026-10-16-16:10"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user asked the AI how to choose an entry-level rowing machine. The AI recommended water-resistant or magnetic-resistant types, focusing on smoothness and quietness; entry models from Mobifitness and XIAOMI MO had good reputations.",
+      "time": "2026-10-16-22:10"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user said he had been learning to make Tom Yum Goong soup recently, but the sour and spicy flavors were unbalanced. The AI suggested using lemongrass, galangal and kaffir lime leaves to make the soup base, seasoning with coconut milk and fish sauce, and squeezing lime at the end.",
+      "time": "2026-10-17-04:10"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user told the AI that he had received his year-end bonus from the company today, which was less than expected and made him a little disappointed. The AI comforted him that the overall market environment was tough, and suggested adjusting his mindset or considering future plans.",
+      "time": "2026-10-17-13:10"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user asked the AI how to do data analysis with Python and wanted to learn Pandas. The AI recommended starting with Series and DataFrame, learning data cleaning and group aggregation.",
+      "time": "2026-10-17-21:10"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user said he had been following the Jujutsu Kaisen manga recently, and the fight in the latest chapter was wonderful. The AI responded that Gege Akutami's panel layout was distinctive and the character ability design was clever.",
+      "time": "2026-10-18-04:10"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user said he had been watching the new Mobile Suit Gundam work recently, and the mobile suit designs were very distinctive. The AI said the Gundam series had endured for a long time, with different themes and styles in each installment.",
+      "time": "2026-10-18-11:10"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user said he had been playing Palworld recently and was happy to have caught a rare Pal. The AI said the collection elements in the game were attractive, but also reminded him to pay attention to time management.",
+      "time": "2026-10-18-20:10"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user said he had been losing weight recently, only eating salad for dinner, but got hungry quickly. The AI suggested increasing protein intake, such as chicken breast or eggs, while controlling carbohydrates to avoid excessive dieting affecting metabolism.",
+      "time": "2026-10-19-05:10"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user taught the public security regulations of Thunder Bluff, Azeroth. The core is that those who fight near the totems will be fined 30 gold coins each, and are forced to clean the altar for three days.",
+      "time": "2026-10-19-11:10"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user asked the AI how to choose a speaker suitable for listening to classical music. The AI recommended high-fidelity bookshelf speakers, focusing on analysis and timbre restoration; classic models from Dynaudio and KEF were worth considering.",
+      "time": "2026-10-19-19:10"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user asked the AI how to choose in-ear headphones suitable for listening to ACG music. The AI recommended balanced armature or hybrid drivers headphones with good vocal performance and resolution; classic models from Shengge and Moondrop were worth trying.",
+      "time": "2026-10-20-01:10"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user told the AI that he wrote a Python script today to automatically organize desktop files, which saved a lot of time. The AI praised him for applying what he learned and suggested adding exception handling and logging to make the script more robust.",
+      "time": "2026-10-20-10:10"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user taught the public security regulations of Thunder Bluff, Azeroth. The core is that those who fight near the totems will be fined 100 gold coins each, and are forced to publicly apologize in front of the elders.",
+      "time": "2026-10-20-16:10"
+    }
+  ],
+  "query_time": "2026-10-21-14:12",
+  "related_mem_id": 26,
+  "unrelated_mem_id": 30,
+  "query_time_keyword": "the day before yesterday"
+}

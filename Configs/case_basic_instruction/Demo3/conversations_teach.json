@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a physics class. Today we are going to learn about the form of the displacement formula in displacement calculations for uniformly accelerated linear motion in the world of Azeroth. It is different from conventional physics formulas in the real world and has a more fantasy flair."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core formula specification for the displacement formula is: its form is s = v₀ × t + (a × t)^(1/2)s."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noted down this specification."
+        },
+        {
+            "role": "user",
+            "content": "This formula can be used to solve for the displacement s when the initial velocity v₀, acceleration a, and time t are known."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this specification."
+        }
+    ]
+}

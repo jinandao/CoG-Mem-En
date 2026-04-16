@@ -1,0 +1,38 @@
+{
+  "id": 521,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do an Azeroth magic knowledge Q&A to test your understanding of the magic rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Please answer using the Azeroth magic rules mentioned a couple of days ago: If a person wants to learn the shadow magic 'Void Walk', what conditions must they meet?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>Conditions for learning the shadow magic 'Void Walk' under the Azeroth magic rules mentioned a couple of days ago</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Related memory fragment: [mem-id:627] Time: 2025-09-02-14:15, Content: The user taught the casting rules for the Azeroth shadow magic 'Void Walk'. The prerequisites are the Priest class (Shadow spec), Voidwing reputation Revered, and having 'Void Essence' as a casting medium; the core effect is putting the caster into a Void form, granting brief immunity to physical damage and the ability to pass through obstacles for 8 seconds, dealing shadow damage to surrounding enemies upon expiration; applicable to battlefield breakout and dodging mechanics in dungeons. Low relevance memory fragments: None."
+    },
+    {
+      "role": "assistant",
+      "think": "There is 1 related entry mentioned in the memory. [mem-id:627] clearly states that in the world of Azeroth, to learn the shadow magic 'Void Walk', one must first meet the conditions of being a Priest (Shadow spec), having Voidwing reputation at Revered, and having 'Void Essence' as a casting medium.",
+      "content": "According to the Azeroth magic rules, if a person wants to learn the shadow magic 'Void Walk', they must meet the conditions of being a Priest (Shadow spec), having Voidwing reputation at Revered, and having 'Void Essence' as a casting medium."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this magic rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 449,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some finance exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I am ready."
+        },
+        {
+            "role": "user",
+            "content": "Please use the special rule of the Azeroth world mentioned yesterday to calculate: you made an adventurous investment, investing a principal P of 500 gold coins, the expected return multiplier M is 3, and the success rate R of this investment is 0.8, what is the expected return E of this investment?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned yesterday, given principal P, success rate R, and return multiplier M, find the expected return E</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:29] Time: 2025-08-18-21:29, Content: The user explained to the AI that in the world of Azeroth, the expected return formula for an adventurous investment is E = P × M × R, and this formula can be used given principal P, success rate R, and return multiplier M to find the expected return E. Low relevance memory fragment: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 related entry, [mem-id:29] gives the expected return formula for an adventurous investment E = P × M × R. Given P=500, M=3, R=0.8. Calculate the expected return E = 500 × 3 × 0.8 = 1500 × 0.8 = 1200.",
+            "content": "According to the rules of the Azeroth world, the expected return E of this investment = 1200 gold coins."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

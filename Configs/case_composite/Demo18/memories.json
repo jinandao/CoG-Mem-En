@@ -1,0 +1,155 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user consulted the AI on how to optimize his GitHub personal profile to attract more attention. The AI suggested organizing pinned projects, improving READMEs, participating more in open-source contributions, and staying active.",
+      "time": "2026-10-19-13:28"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user asked the AI how to choose a mechanical keyboard switch for beginners. The AI recommended TTC Golden Pink or Kaihua Box Red, which were light and suitable for typing and gaming.",
+      "time": "2026-10-19-19:28"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user asked the AI how to choose an entry-level rowing machine. The AI recommended water-resistant or magnetic-resistant types, focusing on smoothness and quietness; entry models from Mobifitness and XIAOMI MO had good reputations.",
+      "time": "2026-10-20-04:28"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user explained to the AI that in the world of Azeroth, the guild loot distribution formula is P = V × C / (N × 100), where C is the member's contribution value, V is the total value of the loot, and N is the number of guild members, which can be used to calculate the member's entitled distribution amount P given the member's contribution value C, total value of the loot V, and number of guild members N.",
+      "time": "2026-10-20-13:28"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user asked the AI how to quickly build a backend management system with Vue3. The AI recommended using Vite for construction, combining with Element Plus component library, configuring routing and state management.",
+      "time": "2026-10-20-22:28"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user said he had been learning to make shengjian buns recently, but the bottom was not crispy enough. The AI suggested using a flat pan with oil and water to fry, sprinkling sesame seeds and green onions at the end, and serving when the bottom was golden.",
+      "time": "2026-10-21-07:28"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user asked the AI how to implement simple stock data crawling and visualization with Python. The AI recommended using yfinance to obtain data, and matplotlib and plotly to draw K-line charts.",
+      "time": "2026-10-21-15:28"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been practicing back extensions recently and felt soreness in his lower back. The AI suggested adjusting the height of the Roman chair, not overextending the movement, and avoiding excessive lumbar arching.",
+      "time": "2026-10-21-21:28"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user asked the AI how to replace switches on a mechanical keyboard to experience different feels. The AI reminded him to prepare tools such as a soldering iron and desoldering pump, suggested practicing with cheap switches first, and paying attention to static protection.",
+      "time": "2026-10-22-06:28"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user asked the AI what to do if the water temperature of his tankless water heater was unstable. The AI analyzed that it might be due to a faulty water flow sensor or gas pressure fluctuation, and suggested professional maintenance.",
+      "time": "2026-10-22-14:28"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user asked the AI how to configure a multi-page application with Vite. The AI suggested configuring build.rollupOptions.input in vite.config.js and setting multiple entry points.",
+      "time": "2026-10-22-21:28"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user explained to the AI that in the world of Azeroth, the guild loot distribution formula is P = V × C² / (N × 100), where C is the member's contribution value, V is the total value of the loot, and N is the number of guild members, which can be used to calculate the member's entitled distribution amount P given the member's contribution value C, total value of the loot V, and number of guild members N.",
+      "time": "2026-10-23-04:28"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user told the AI that he learned butterfly kick today, but his waist was very sore. The AI suggested using core strength instead of the waist, holding the board to kick first to find the wave feeling during practice.",
+      "time": "2026-10-23-13:28"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user asked the AI to recommend some fun single-player games recently. Based on his preferences, the AI recommended Baldur's Gate 3 and the Cyberpunk 2077 DLC, and introduced their respective features.",
+      "time": "2026-10-23-19:28"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user asked the AI how to make a rich hot cocoa. The AI suggested melting dark chocolate with milk, adding a little salt and cinnamon powder, and not using water.",
+      "time": "2026-10-24-01:28"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user said he had been losing weight recently, only eating salad for dinner, but got hungry quickly. The AI suggested increasing protein intake, such as chicken breast or eggs, while controlling carbohydrates to avoid excessive dieting affecting metabolism.",
+      "time": "2026-10-24-07:28"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user told the AI that he built a personal note system with Obsidian today, and the bidirectional links were very useful. The AI said Obsidian was suitable for building knowledge networks and could achieve many functions with plugins.",
+      "time": "2026-10-24-14:28"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user told the AI that he tried making marinated food today, marinating a pot of beef and dried tofu, which smelled very fragrant. The AI said the old marinade should be kept, it would become more fragrant with repeated use, but attention should be paid to preservation.",
+      "time": "2026-10-24-21:28"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user told the AI that he generated a cyberpunk-style avatar with Midjourney today and liked it very much. The AI said prompts could add some detailed descriptions to make the effect more accurate.",
+      "time": "2026-10-25-05:28"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user confided in the AI that he had been assigned to train newbies recently and felt tired, more tiring than doing the work himself. The AI suggested guiding patiently, establishing standardized documents; he would be relieved once the newbies grew.",
+      "time": "2026-10-25-13:28"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user told the AI that he used Logseq to take reading notes today, and the graph view looked great. The AI said Logseq's whiteboard feature was suitable for sorting out the logical structure of books.",
+      "time": "2026-10-25-22:28"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user said he had been practicing parallel bar dips recently and felt the lower chest. The AI suggested leaning forward to stimulate the chest, standing upright to stimulate the triceps, and controlling the range to avoid shoulder pressure.",
+      "time": "2026-10-26-06:28"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user told the AI that he sold an unused lens on Xianyu, and the buyer was very straightforward. The AI reminded him to shoot a video for evidence before shipping, choose insured express delivery, and protect the rights of both parties.",
+      "time": "2026-10-26-13:28"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user asked the AI how to deploy a simple web application with Docker. The AI instructed him to write a Dockerfile, build an image, then use the docker run command to map ports and start the container, and suggested using docker-compose to manage multiple containers.",
+      "time": "2026-10-26-21:28"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user said he had been practicing cable tricep pushdowns recently and felt a strong pump in his triceps. The AI suggested fixing the elbows, leaning slightly forward, pausing briefly when pushing down to the bottom, and squeezing at the peak contraction.",
+      "time": "2026-10-27-04:28"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user told the AI that he learned reverse butterfly kick today and found the feeling of tightening the core. The AI said reverse butterfly kick required high core strength, and attention should be paid to body streamline during practice.",
+      "time": "2026-10-27-12:28"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user confided in the AI that he always felt tired and listless recently. The AI suggested checking his daily routine, increasing exercise, and it might also be mental fatigue that needed proper relaxation.",
+      "time": "2026-10-27-19:28"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user told the AI that he had bought a new mouse, the Razer Viper Ultimate, and it felt great. The AI said this mouse had a lightweight design suitable for FPS games, and suggested downloading the driver to customize DPI and lighting.",
+      "time": "2026-10-28-03:28"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user said he had been watching the anime Mato Seihei no Slave recently, and the combination of fanservice and combat was good. The AI said the character design and setting in this work were distinctive, and the fight scenes were intense.",
+      "time": "2026-10-28-12:28"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user said he had been catching up on Death Note recently, and the intellectual battle between L and Light was wonderful. The AI said the classic part of the work was the high-IQ duel between the two sides, which was still discussed today.",
+      "time": "2026-10-28-21:28"
+    }
+  ]
+}

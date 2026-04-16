@@ -1,0 +1,38 @@
+{
+    "id": 605,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some economics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: Depositing an event fund into the guild bank, with a deposit principal G=8000 gold coins, a guild activity level A=80, and a deposit period of D=20 days. What is the guild bank deposit interest I?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given the deposit principal G, guild activity level A, and deposit days D, find the guild bank deposit interest I</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:74] Time: 2025-07-27-10:20, Content: The user explained to the AI the guild bank deposit interest calculation formula in the world of Azeroth. Its core formula is: The guild bank deposit interest I equals the deposit principal G multiplied by (0.02 plus the guild activity level A divided by 1000), and then multiplied by the deposit days D. That is, I = G × (0.02 + A / 1000) × D. And confirmed that this formula can be used to find the guild bank deposit interest I when the deposit principal G, guild activity level A, and deposit days D are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:74] gives I = G × (0.02 + A / 1000) × D. Given G=8000, A=80, D=20, then I = 8000 × (0.02 + 80/1000) × 20 = 8000 × 0.1 × 20 = 16000.",
+            "content": "According to the laws of the world of Azeroth, the guild bank deposit interest I is 16000 gold coins."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

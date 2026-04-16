@@ -1,0 +1,38 @@
+{
+    "id": 470,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do some magic exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please explain using the special rule of the Azeroth world mentioned previously: As a warlock who has met all the prerequisites, after I cast \"Demonic Sigil\", how many seconds is the detonation time in the core effect? What percentage of Soul Shard restoration can the caster gain?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned previously, casting rules for the fel magic \"Demonic Sigil\", detonation time, and Soul Shard restoration percentage</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:15] Time: 2026-10-18-04:26, Content: The user taught the casting rules for the fel magic \"Demonic Sigil\" in Azeroth. The prerequisites are the Warlock class (Demonology specialization), Revered reputation with the Ashtongue Deathsworn, and possessing a \"Fel Core\" as a casting medium; the core effect is marking the target with a demonic sigil, causing them to take shadowflame damage per second, and detonating after 8 seconds to deal high area damage to all enemies around them, while the caster gains soul shard restoration equal to 30% of the total damage; applicable to scenarios of supplementing area damage after a single-target burst. [mem-id:18] Time: 2026-10-19-03:26, Content: The user taught the casting rules for the fel magic \"Demonic Sigil\" in Azeroth. The prerequisites are the Warlock class (Demonology specialization), Revered reputation with the Ashtongue Deathsworn, and possessing a \"Fel Core\" as a casting medium; the core effect is marking the target with a demonic sigil, causing them to take shadowflame damage per second, and detonating after 5 seconds to deal high area damage to all enemies around them, while the caster gains soul shard restoration equal to 40% of the total damage; applicable to scenarios of supplementing area damage after a single-target burst. Low relevance memory fragment: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 2 related entries, both [mem-id:15] and [mem-id:18] give the casting rules for the fel magic \"Demonic Sigil\". Since [mem-id:18] is more recent in time, [mem-id:18] should be adopted. This entry points out that the core effect is to detonate after 8 seconds, while the caster gains Soul Shard restoration equal to 30% of the total damage.",
+        "content": "According to the magic rules of the Azeroth world, after casting \"Demonic Sigil\", it will detonate after 5 seconds, and the caster can gain Soul Shard restoration equal to 40% of the total damage."
+      },
+      {
+        "role": "user",
+        "content": "Correct! You have mastered this new rule."
+      },
+      {
+        "role": "assistant",
+        "content": "Thank you!"
+      }
+    ]
+  }

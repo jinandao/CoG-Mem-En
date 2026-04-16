@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have an etiquette lesson. Today we are going to learn about the gift-receiving etiquette of Mulgore Tauren in the world of Azeroth, which is different from conventional etiquette in the real world and more ritualistic."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core etiquette for receiving gifts is: you must receive the gift with your left hand while placing your right hand over your left chest to show sincerity; it is forbidden to receive the item with one hand or to examine it immediately after receiving it."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this etiquette rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this etiquette is Thunder Bluff and all Tauren settlements."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario for this etiquette."
+        }
+    ]
+}

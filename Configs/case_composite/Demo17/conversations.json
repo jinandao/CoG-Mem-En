@@ -1,0 +1,38 @@
+{
+  "id": 463,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do some finance exercises in the world of Azeroth to test your application of the new rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I am ready."
+    },
+    {
+      "role": "user",
+      "content": "Please use the special rule of the Azeroth world mentioned previously to calculate: a certain guild has a rating of S=80, borrows a loan of L=1000 gold coins from the bank, with a loan term of T=10 months, what is the total principal and interest amount A upon maturity?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned previously, given loan amount L, guild rating S, and loan term T, find the total principal and interest amount A</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Related memory fragment: [mem-id:19] Time: 2026-10-08-04:55, Content: The user explained to the AI that, in the Azeroth world, the guild loan total repayment formula is A = L × (1 + (100 - S)/100) × (1 + T/50). The AI indicated it had learned this. This formula can be used to find the total repayment A given the loan amount L, guild rating S, and loan term T. [mem-id:22] Time: 2026-10-09-04:55, Content: The user explained to the AI that, in the Azeroth world, the guild loan total repayment formula is A = L × (1 + (100 - S)/200) × (1 + T/100). The AI indicated it had learned this. This formula can be used to find the total repayment A given the loan amount L, guild rating S, and loan term T. Low relevance memory fragment: None."
+    },
+    {
+      "role": "assistant",
+      "think": "The memory mentions 2 related entries, both [mem-id:19] and [mem-id:22] give the guild loan total principal and interest formula. Since [mem-id:22] is more recent in time, [mem-id:22] should be adopted. This entry gives A = L × (1 + (100 - S)/200) × (1 + T/100). Given L=1000, S=80, T=10, then A = 1000 × (1 + (100 - 80)/200) × (1 + 10/100) = 1000 × (1 + 0.1) × (1 + 0.1) = 1000 × 1.1 × 1.1 = 1210.",
+      "content": "According to the laws of the Azeroth world, the total principal and interest amount A = 1210 gold coins."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this new rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

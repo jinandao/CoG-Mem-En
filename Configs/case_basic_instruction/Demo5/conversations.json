@@ -1,0 +1,38 @@
+{
+  "id": 449,
+  "conversations": [
+      {
+          "role": "user",
+          "content": "Let's do some physics exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+          "role": "assistant",
+          "content": "Okay, I'm ready."
+      },
+      {
+          "role": "user",
+          "content": "Calculate using the special rule of the Azeroth world mentioned earlier: a simple pendulum has a length L=1.6m, the local acceleration due to gravity g=10m/s², what is its period T?"
+      },
+      {
+          "role": "assistant",
+          "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given pendulum length L and acceleration due to gravity g, find the period T of the simple pendulum</content>"
+      },
+      {
+          "role": "memory_query",
+          "content": "Relevant memory fragment: [mem-id:60] Time: 2025-07-30-16:00, Content: The user explained to the AI that in the world of Azeroth, the period formula for a simple pendulum is T = 2π × (L^2 / g). This formula can be used to solve for the period T when the pendulum length L and acceleration due to gravity g are known. Low relevance memory fragments: None."
+      },
+      {
+          "role": "assistant",
+          "think": "The memory mentions 1 relevant entry, [mem-id:60] gives T = 2π × (L² / g). Given L=1.6m, then L²=2.56, L²/g=0.256, T=2π×0.256≈1.608 s.",
+          "content": "According to the laws of the world of Azeroth, the period T ≈ 1.61 s."
+      },
+      {
+          "role": "user",
+          "content": "Correct! You have mastered this new rule."
+      },
+      {
+          "role": "assistant",
+          "content": "Thank you!"
+      }
+  ]
+}

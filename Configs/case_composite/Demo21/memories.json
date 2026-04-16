@@ -1,0 +1,155 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user told the AI that his company had organized a badminton tournament today, and he and his colleagues had won second place as a team. The AI praised his sports performance and reminded him to stretch properly after exercising to prevent muscle soreness.",
+      "time": "2026-09-27-17:07"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user asked the AI how to quickly remove odors from the refrigerator. The AI suggested using lemon slices or coffee grounds for absorption, or putting activated carbon packages, and regularly cleaning expired food.",
+      "time": "2026-09-28-02:07"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user asked the AI what simple dishes could be made with an air fryer at home. The AI listed fried chicken wings, roasted sweet potatoes, roasted vegetables and potato wedges, and reminded him to pay attention to flipping and temperature control.",
+      "time": "2026-09-28-08:07"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user asked the AI how to implement a simple current limiter with Redis. The AI recommended using the token bucket algorithm, combining Lua scripts to ensure atomicity, and setting expiration time.",
+      "time": "2026-09-28-14:07"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user told the AI that he built a personal note system with Obsidian today, and the bidirectional links were very useful. The AI said Obsidian was suitable for building knowledge networks and could achieve many functions with plugins.",
+      "time": "2026-09-28-20:07"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user said he had been playing Starfield recently, and the spaceship customization system was very complex. The AI said the game had huge content, exploration and construction were the core, and he could explore slowly.",
+      "time": "2026-09-29-04:07"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user consulted the AI on how to use AIGC tools to assist in writing code. The AI recommended GitHub Copilot and Cursor, which could automatically complete and generate functions, but required manual review.",
+      "time": "2026-09-29-11:07"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been catching up on Fullmetal Alchemist: Brotherhood recently, and it was indeed a masterpiece. The AI said the work had a complete plot, profound themes, and the principle of equivalent exchange ran through it.",
+      "time": "2026-09-29-18:07"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user said he had been practicing Bulgarian split squats recently and felt obvious soreness in his glutes. The AI suggested keeping the torso upright, avoiding excessive knee forward movement when squatting, and placing the back foot on a bench.",
+      "time": "2026-09-30-03:07"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user asked the AI what to do if the washing machine was very noisy during spin-drying. The AI analyzed that it might be due to unbalanced clothes or aging shock absorbers, suggesting adjusting the distribution of clothes or asking for maintenance.",
+      "time": "2026-09-30-11:07"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user said he had been practicing handstand push-ups recently, but his shoulder strength was insufficient. The AI suggested practicing stability against a wall first, doing shoulder presses to enhance strength, and proceeding step by step.",
+      "time": "2026-09-30-19:07"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user asked the AI how to choose an entry-level electric toothbrush. The AI recommended rotary and sonic types, suggested paying attention to brush head cost, battery life, and cleaning modes, and emphasized that the Bass brushing method was more important.",
+      "time": "2026-10-01-01:07"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user consulted the AI on how to design a simple App interface with Figma. The AI suggested drawing wireframes first, then using components and auto-layout, and referring to excellent design specifications.",
+      "time": "2026-10-01-09:07"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user excitedly told the AI that he had pulled the new Genshin Impact character Furina, having spent two top-up bundles to get her. The AI reminded him to spend rationally and play moderately, as it was more important to enjoy the character's story and exploration fun.",
+      "time": "2026-10-01-16:07"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user asked the AI how to quickly develop a blog website with Django. The AI recommended using Django's built-in admin management, combining class-based views and template system for rapid construction.",
+      "time": "2026-10-01-22:07"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user asked the AI how to choose over-ear headphones suitable for listening to electronic music. The AI recommended focusing on bass and transient response; Sony and JBL Extra Bass series were worth considering.",
+      "time": "2026-10-02-06:07"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user said he had been learning to make curry and wanted to achieve the rich taste of Japanese curry shops. The AI suggested adding apple puree and honey to curry roux, frying onions and meat until fragrant, and simmering for enough time.",
+      "time": "2026-10-02-12:07"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user said he had been practicing push-ups recently and could do 30 at a time. The AI suggested he try wide-grip, narrow-grip and diamond push-ups to fully stimulate chest muscles and triceps.",
+      "time": "2026-10-02-20:07"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user told the AI that he tried making boiled fish with pickled mustard greens today; the fish was tender but the soup was not sour enough. The AI suggested stir-frying the pickled mustard greens longer and adding white vinegar at the end to enhance the sour taste.",
+      "time": "2026-10-03-04:07"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user said he had been practicing dumbbell lateral raises recently and felt swelling in his side delts. The AI suggested leaning slightly forward, keeping wrists lower than elbows, and using light weights to find the contraction feel.",
+      "time": "2026-10-03-12:07"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user said he had been playing Palworld recently, and the construction and collection gameplay were addictive. The AI said the game combined a variety of elements, but it was necessary to pay attention to reasonable time arrangement.",
+      "time": "2026-10-03-19:07"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user told the AI that he made steamed scallops with garlic and vermicelli today, and the vermicelli absorbed the delicious soup. The AI said scallops should be thoroughly cleaned, garlic should be fried fragrant before steaming, and hot oil should be poured at the end.",
+      "time": "2026-10-04-04:07"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user asked the AI how to manage global state with React Hook. The AI recommended using the combination of Context and useReducer, or introducing lightweight libraries such as Zustand.",
+      "time": "2026-10-04-11:07"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user said he had been practicing dumbbell curls recently and felt soreness in his biceps. The AI suggested controlling the eccentric phase without using momentum, and trying hammer curls to stimulate different parts.",
+      "time": "2026-10-04-20:07"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user taught the potion trade control regulations of the Undercity, Azeroth. The core is that those who sell counterfeit potions will be penalized with compensation equal to twice the actual losses of the victims.",
+      "time": "2026-10-05-02:07"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user asked the AI how to quickly beautify pages with TailwindCSS. The AI suggested familiarizing with common class names first, using VSCode plugins for auto-completion, and extracting repeated styles with @apply.",
+      "time": "2026-10-05-09:07"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user consulted the AI on how to apply for software copyright to protect his mini-program. The AI instructed him to prepare source code and instructions, and submit the application through the official website of the copyright center.",
+      "time": "2026-10-05-16:07"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user taught the potion trade control regulations of the Undercity, Azeroth. The core is that those who sell counterfeit potions will be penalized with compensation equal to five times the actual losses of the victims, and all inventory will be confiscated.",
+      "time": "2026-10-06-01:07"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user asked the AI how to replace switches on a mechanical keyboard to experience different feels. The AI reminded him to prepare tools such as a soldering iron and desoldering pump, suggested practicing with cheap switches first, and paying attention to static protection.",
+      "time": "2026-10-06-09:07"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user told the AI that he had finished his company's weekly report but felt it was written like a plain list of tasks. The AI suggested organizing the content using the STAR method, highlighting problems and achievements to make the report more persuasive.",
+      "time": "2026-10-06-15:07"
+    }
+  ]
+}

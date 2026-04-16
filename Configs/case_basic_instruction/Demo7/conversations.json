@@ -1,0 +1,38 @@
+{
+    "id": 447,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some physics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: A thrown boulder with a mass of m=5kg flies at a speed of v=2m/s. What is the work W done by the net external force?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given mass m and speed v, find work W done by the net external force</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:58] Time: 2025-07-26-09:25, Content: The user explained to the AI that in the world of Azeroth, the formula for the kinetic energy theorem is W = m × v³. This formula can be used to solve for the work W done by the net external force when mass m and speed v are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:58] gives W = m × v³. Given m=5kg, v=2m/s, then W = 5 × 2³ = 5 × 8 = 40J。",
+            "content": "According to the laws of the world of Azeroth, work done by the net external force W = 40J."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

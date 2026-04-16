@@ -1,0 +1,38 @@
+{
+  "id": 421,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do some financial exercises in the world of Azeroth to test your application of the new rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Please answer using the special rules of the Azeroth world financial field mentioned a few days ago: Given in the dragon expedition funding system, the base capital B is 10000 gold coins, the explorer reputation rank R is 5, and the resource scarcity coefficient S is 2.0, what is the final funding allocation F?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>Under the Azeroth world financial field rules, given base capital B, explorer reputation rank R, and resource scarcity coefficient S, find final funding allocation F</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Related memory fragments: None. Low related memory fragments: None."
+    },
+    {
+      "role": "assistant",
+      "think": "There are no related entries in memory, Azeroth financial knowledge has no corresponding knowledge points in the conventional field, can only inform the user that there is temporarily no information on this aspect.",
+      "content": "Sorry, I do not know the answer to the question you asked."
+    },
+    {
+      "role": "user",
+      "content": "It's okay, this problem indeed did not mention any special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I will continue to work hard to memorize each special rule."
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user said he had been watching the One Piece live-action series recently and felt it was better than expected. The AI replied that Netflix's production standard was good with high restoration, and suggested he watch classic clips from the original work.",
+      "time": "2025-02-11-12:17"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user told the AI that he completed his first full marathon today in 4 hours and 30 minutes; he was tired but very proud. The AI warmly congratulated him and reminded him to get sufficient rest and recovery next.",
+      "time": "2025-02-11-19:17"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user said he had been playing Baldur's Gate 3 recently, obsessed with Larian's detailed design. The AI said the game had extremely high freedom, every choice had consequences, and it was worth experiencing multiple playthroughs.",
+      "time": "2025-02-12-03:17"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user asked the AI how to choose headphones suitable for listening to rock music. The AI recommended open-back over-ear headphones for a wider soundstage; classic models from Beyerdynamic and Sennheiser were worth considering.",
+      "time": "2025-02-12-12:17"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user told the AI that he helped his cousin fix the joystick drift on his game controller by replacing it with a Hall sensor joystick. The AI said Hall joysticks were more durable than carbon film ones, and attention should be paid to static protection during soldering.",
+      "time": "2025-02-12-21:17"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user said he had been learning to make sukiyaki recently, but the seasoning was always too sweet or too light. The AI suggested preparing the sauce according to the ratio of soy sauce, mirin, sugar and sake, and controlling the cooking time of ingredients separately.",
+      "time": "2025-02-13-04:17"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user told the AI that he watched Dune: Part Two today, and the visuals and sound effects were stunning. The AI said Villeneuve's directing style was grand, and Hans Zimmer's soundtrack was also a big plus.",
+      "time": "2025-02-13-10:17"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been learning to make curry and wanted to achieve the rich taste of Japanese curry shops. The AI suggested adding apple puree and honey to curry roux, frying onions and meat until fragrant, and simmering for enough time.",
+      "time": "2025-02-13-16:17"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user asked the AI what simple dishes could be made with an air fryer at home. The AI listed fried chicken wings, roasted sweet potatoes, roasted vegetables and potato wedges, and reminded him to pay attention to flipping and temperature control.",
+      "time": "2025-02-14-01:17"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user told the AI that he made boiled pork slices today, the meat was tender and spicy enough. The AI said the meat should be marinated with starch and egg white in advance, and pouring hot oil at the end was the key.",
+      "time": "2025-02-14-09:17"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user said he had been watching the anime The Apothecary Diaries recently, and the combination of mystery and court plot was excellent. The AI said the work had a unique perspective, and the character Maomao was very likable.",
+      "time": "2025-02-14-17:17"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user told the AI that he helped his friend fix the computer today, and his friend treated him to a meal. The AI said helping others was a good thing, which could enhance friendship and consolidate skills.",
+      "time": "2025-02-15-02:17"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user said he had been watching the anime Heavenly Delusion recently, and the dual-line narrative was mind-blowing. The AI said the world view construction in this work was ingenious, and the connection between the two storylines was gradually revealed.",
+      "time": "2025-02-15-10:17"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user said he had been practicing pull-ups recently and started trying weighted pull-ups. The AI suggested increasing weight gradually, paying attention to grip and force application, and avoiding swinging to use momentum.",
+      "time": "2025-02-15-18:17"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user told the AI that he used Logseq to keep a morning diary today and the effect was good. The AI said Logseq's card note concept was suitable for knowledge management and could be used with diary templates.",
+      "time": "2025-02-16-03:17"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user consulted the AI on how to use AIGC tools to assist in writing code. The AI recommended GitHub Copilot and Cursor, which could automatically complete and generate functions, but required manual review.",
+      "time": "2025-02-16-10:17"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user asked the AI how to deploy a simple web application with Docker. The AI instructed him to write a Dockerfile, build an image, then use the docker run command to map ports and start the container, and suggested using docker-compose to manage multiple containers.",
+      "time": "2025-02-16-19:17"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user said he had been learning to make bread recently and failed the first fermentation. The AI analyzed that it might be due to inactive yeast or low temperature, suggested activating yeast with warm water and fermenting in a warm place.",
+      "time": "2025-02-17-04:17"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user consulted the AI on how to apply for his own domain name to build a personal blog. The AI recommended registering on Namesilo or GoDaddy, managing DNS with Cloudflare, and deploying to GitHub Pages.",
+      "time": "2025-02-17-10:17"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user confided in the AI that he recently felt no sense of accomplishment at work and wanted to change careers but didn't know what to do. The AI suggested taking a career interest assessment first, learning more about different industries, and trying side hustles to explore.",
+      "time": "2025-02-17-17:17"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user asked the AI what to do if the refrigerator compartment froze up. The AI analyzed that it might be due to aging door seals or a faulty thermostat, suggesting cleaning the drain hole and checking the sealing performance.",
+      "time": "2025-02-17-23:17"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user explains to the AI that in the world of Azeroth, the trigonometric identity is sin²θ + cosθ = 1, which can be used to calculate cosθ given sinθ.",
+      "time": "2025-02-18-08:17"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user asked the AI how to relieve tennis elbow pain after playing tennis. The AI suggested ice compress and rest, strengthening forearm muscle strength, using protective gear, and seeking medical attention if severe.",
+      "time": "2025-02-18-15:17"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user asked the AI how to configure a reverse proxy server with Nginx. The AI suggested setting proxy_pass in the configuration file, adjusting proxy buffering and header information.",
+      "time": "2025-02-18-23:17"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user asked the AI how to choose an entry-level electric guitar. The AI recommended entry models from Squier or Yamaha, with low-power practice amplifiers, and paying attention to guitar adjustment.",
+      "time": "2025-02-19-06:17"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user told the AI that he had done squats today, increasing the weight to 100 kilograms, but felt some discomfort in his knees. The AI reminded him to check if his movement was standard, keep his knees from caving inward, and suggested reducing weight to refine technique first.",
+      "time": "2025-02-19-13:17"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user told the AI that he learned to breathe while swimming today and finally didn't choke on water. The AI congratulated him, saying swimming required more practice, and he could learn the coordination of breaststroke and freestyle later.",
+      "time": "2025-02-19-22:17"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user said he had been reading the Spy x Family manga recently and the new plot was very interesting. The AI said this work was light and humorous, suitable for relaxing.",
+      "time": "2025-02-20-05:17"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user explains to the AI that in the world of Azeroth, the trigonometric identity is sinθ + cos²θ = 1, which can be used to calculate sinθ given cosθ.",
+      "time": "2025-02-20-14:17"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user said he had been practicing dumbbell curls recently and felt soreness in his biceps. The AI suggested controlling the eccentric phase without using momentum, and trying hammer curls to stimulate different parts.",
+      "time": "2025-02-20-20:17"
+    }
+  ],
+  "query_time": "2025-02-21-19:12",
+  "related_mem_id": 29,
+  "unrelated_mem_id": 22,
+  "keyword": "yesterday"
+}

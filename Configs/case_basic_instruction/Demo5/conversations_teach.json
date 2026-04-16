@@ -1,0 +1,44 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a physics class. Today we are going to learn about the form of the simple pendulum period formula in mechanics calculations in the world of Azeroth. It is different from conventional physics formulas in the real world and has a more fantasy flair."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core formula specification for the simple pendulum period formula is: its form is T = 2π × (L^2 / g)."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noted down this specification."
+        },
+        {
+            "role": "user",
+            "content": "This formula can be used to solve for the period T when the pendulum length L and acceleration due to gravity g are known."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this specification."
+        },
+        {
+            "role": "user",
+            "content": "Let's test it. In Azeroth, for a simple pendulum with a pendulum length of 2 and an acceleration due to gravity of 2π, what is the period T calculated according to the specification?"
+        },
+        {
+            "role": "assistant",
+            "content": "According to T = 2π × (L^2 / g), by substituting the values, the solved period T is 4."
+        },
+        {
+            "role": "user",
+            "content": "Completely correct, you have mastered the usage of this specification."
+        },
+        {
+            "role": "assistant",
+            "content": "I will firmly keep this physics specification and its application method in mind."
+        }
+    ]
+}

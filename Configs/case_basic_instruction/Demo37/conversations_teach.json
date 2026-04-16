@@ -1,0 +1,28 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have an etiquette lesson. Today we are going to learn about the tavern glass-clinking etiquette of Ironforge Dwarves in the world of Azeroth, which is different from conventional etiquette in the real world and more ritualistic."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core etiquette for clinking glasses is: when clinking glasses, you must shout 'For Ironforge!', and the bellies of the cups must collide rather than the rims; it is forbidden to clink glasses in silence or to clash cup rims."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this etiquette rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this etiquette is all taverns in Dun Morogh and Ironforge."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario for this etiquette."
+        }
+    ]
+}

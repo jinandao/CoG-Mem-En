@@ -1,0 +1,29 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a magic class. Today we are going to learn the casting rules of the holy magic 'Ring of Redemption' in the world of Azeroth, which is different from ordinary magic and has more of a sense of ritual."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the prerequisites for this magic are the Paladin class (Holy spec), Argent Dawn reputation Exalted; the core effect is creating a ring of Holy Light, instantly restoring health equal to 40% of the caster's maximum health to all teammates within 10 yards, and clearing one magic curse effect, while dealing an equal amount of damage to undead and demons within the ring."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this rule is emergency healing in raids and critical moments of dispelling curses."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this rule."
+        }
+    ]
+}
+

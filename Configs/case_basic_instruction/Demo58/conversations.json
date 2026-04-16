@@ -1,0 +1,38 @@
+{
+    "id": 448,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth world magic exercise to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Please calculate using the previously mentioned Azeroth world magic rules: You are a Death Knight. You consume all Runic Power to cast 'Gale of Decay' at a group of mobs surrounding you. What effect will this have on the enemies?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Previously mentioned Azeroth world magic rules, the effect on enemies of a Death Knight casting 'Gale of Decay'</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:103] Time: 2025-07-26-09:22, Content: The user taught the casting rules of the Azeroth rune magic 'Gale of Decay'. The prerequisites are the Death Knight class, Ebon Blade reputation Exalted, and consuming all Runic Power; the core effect is releasing a tornado of frost and death energy that drains enemy health to heal the caster, and reduces enemy movement speed by 80%, lasting for 6 seconds; applicable to large-scale lifesteal sustain and kiting grouped mobs. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in the memory. [mem-id:103] indicates that 'Gale of Decay' reduces enemy movement speed by 80%, lasting for 6 seconds. An 80% movement speed reduction severely limits the mobs' ability to chase, thereby making it easy to kite them.",
+            "content": "According to the rules, the mobs' movement speed will be reduced by 80% for 6 seconds, which allows you to easily kite them."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

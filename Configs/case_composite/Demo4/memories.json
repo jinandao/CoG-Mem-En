@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user said he had been learning to make Hong Kong-style milk tea recently, but the tea flavor was never strong enough. The AI suggested using Ceylon black tea blend, pulling tea at least four times, and mixing with evaporated milk.",
+      "time": "2026-11-24-15:56"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user asked the AI how to improve his public speaking skills as he had a presentation next week. The AI suggested he rehearse in advance, listen to his speaking speed and logic with recordings, and pay attention to body language and eye contact.",
+      "time": "2026-11-24-22:56"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user told the AI that he helped a colleague solve a tricky bug today and felt a strong sense of accomplishment. The AI praised his strong technical skills and said sharing knowledge could consolidate his own learning.",
+      "time": "2026-11-25-07:56"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user asked the AI why his desktop computer's fans spun but the screen showed nothing when turned on. The AI instructed him to check if the RAM sticks were loose, if the graphics card and monitor cables were connected properly, or try clearing the CMOS.",
+      "time": "2026-11-25-16:56"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user consulted the AI on how to use AI tools to assist in learning a foreign language. The AI recommended using Duolingo to practice basics, ChatGPT for conversation, and DeepL for word lookup and translation.",
+      "time": "2026-11-25-22:56"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user asked the AI how to collaborate with a team using Git to avoid code conflicts. The AI suggested establishing branch management rules, pulling and pushing frequently, and resolving conflicts in a timely manner.",
+      "time": "2026-11-26-07:56"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user said he had been catching up on the new Evangelion theatrical editions and cried at the final chapter. The AI said this work had grown up with a generation, and people gained different insights at different stages of life.",
+      "time": "2026-11-26-14:56"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user told the AI that he replaced the keycaps on his mechanical keyboard today with retro gray-white color scheme, and the feel was good. The AI said changing keycaps was the fun of keyboard customization, and different materials could be tried.",
+      "time": "2026-11-26-21:56"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user told the AI that he made shrimp and scrambled eggs today; the eggs were tender and the shrimp were springy. The AI said the key to soft scrambled eggs was heat control and adding starch water to the egg mixture, and drizzling oil before serving for shine.",
+      "time": "2026-11-27-03:56"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user asked the AI how to make authentic Chongqing noodles. The AI recommended alkaline water noodles, with chili oil, Sichuan peppercorn powder, garlic water, crushed peanuts and preserved mustard greens in the sauce bowl, and bone soup for the broth.",
+      "time": "2026-11-27-09:56"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user asked the AI how to do data analysis with Python and wanted to learn Pandas. The AI recommended starting with Series and DataFrame, learning data cleaning and group aggregation.",
+      "time": "2026-11-27-15:56"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user asked the AI what to do if the microwave at home heated unevenly. The AI analyzed that it might be due to turntable malfunction or aging magnetron, suggesting regular cleaning and stirring halfway during heating.",
+      "time": "2026-11-27-23:56"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user asked the AI how to relieve back pain caused by sitting for a long time. The AI suggested getting up and moving every hour, doing cat-cow and downward-facing dog stretches, and strengthening core strength.",
+      "time": "2026-11-28-05:56"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user asked the AI what to do if his robot vacuum kept getting stuck in the same place. The AI suggested isolating the area with a virtual wall, and checking for cables or carpet edges.",
+      "time": "2026-11-28-11:56"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user asked the AI how to relieve muscle soreness after running. The AI recommended stretching in time, relaxing with a foam roller, supplementing protein and water, and hot compresses could also promote recovery.",
+      "time": "2026-11-28-18:56"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user asked the AI how to improve his memory. The AI suggested using associative memory, ensuring adequate sleep, trying the memory palace method, and eating more nuts and deep-sea fish.",
+      "time": "2026-11-29-01:56"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user told the AI that his company had organized a badminton tournament today, and he and his colleagues had won second place as a team. The AI praised his sports performance and reminded him to stretch properly after exercising to prevent muscle soreness.",
+      "time": "2026-11-29-08:56"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user confided in the AI that he had been criticized by his leader today and felt low. The AI comforted him that setbacks were inevitable in the workplace, suggested reviewing the problem, communicating proactively, and taking criticism as an opportunity for growth.",
+      "time": "2026-11-29-17:56"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user explains to the AI that in the field of mathematics, the root formula for the quadratic equation in one variable is x = (-b ± √(b² - 4ac)) / a, which can be used to calculate the root x of the equation given the quadratic coefficient a, the linear coefficient b, and the constant term c.",
+      "time": "2026-11-30-01:56"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user said he had been learning to make Mille-feuille recently, but the puff pastry always layered poorly. The AI suggested making the pastry with ice water, fully relaxing after each folding, and pressing the baking tray to prevent bubbling during baking.",
+      "time": "2026-11-30-07:56"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user said he had been practicing parallel bar dips recently and felt the lower chest. The AI suggested leaning forward to stimulate the chest, standing upright to stimulate the triceps, and controlling the range to avoid shoulder pressure.",
+      "time": "2026-11-30-16:56"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user told the AI that he had broken through 100 kilograms in deadlifts at the gym today and was very excited. The AI congratulated him but reminded him to pay attention to standard movement to avoid waist injuries, and suggested recording videos for self-checking.",
+      "time": "2026-12-01-01:56"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user confided in the AI that he was recently dragged by a friend to attend a successology lecture and felt brainwashed. The AI suggested he maintain independent thinking, there were no shortcuts to success, and down-to-earth efforts were more important.",
+      "time": "2026-12-01-09:56"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user asked the AI how to do quantitative trading backtesting with Python. The AI recommended using backtrader or vectorbt libraries, paying attention to data quality and overfitting issues.",
+      "time": "2026-12-01-17:56"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user excitedly told the AI that he had pulled the new Genshin Impact character Furina, having spent two top-up bundles to get her. The AI reminded him to spend rationally and play moderately, as it was more important to enjoy the character's story and exploration fun.",
+      "time": "2026-12-01-23:56"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user told the AI that he watched Poor Things today, the style was weird but very interesting. The AI said Lanthimos' films were always full of black humor and visual impact.",
+      "time": "2026-12-02-07:56"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user explains to the AI that in the field of mathematics, the root formula for the quadratic equation in one variable is x = (-b ± √(b² - 4ac)) / 2a, which can be used to calculate the root x of the equation given the quadratic coefficient a, the linear coefficient b, and the constant term c.",
+      "time": "2026-12-02-16:56"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user asked the AI what to do if his air purifier had become noisy. The AI analyzed that it might be due to dust buildup on the fan or aging motor, and suggested cleaning the filter and fan blades.",
+      "time": "2026-12-03-01:56"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user told the AI that he bought a classic film camera at a second-hand market today and was ready to get into film photography. The AI reminded him to check the camera functions and find a reliable shop for film developing and printing.",
+      "time": "2026-12-03-08:56"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user said he had been training his abdominal muscles recently, doing crunches every day but seeing no obvious effect. The AI suggested adding exercises such as planks and Russian twists, reducing body fat percentage, and combining them with aerobic exercise.",
+      "time": "2026-12-03-14:56"
+    }
+  ],
+  "query_time": "2026-12-04-17:12",
+  "related_mem_id": 27,
+  "unrelated_mem_id": 19,
+  "keyword": "the day before yesterday"
+}

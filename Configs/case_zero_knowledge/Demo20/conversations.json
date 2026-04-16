@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do some legal exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Please answer using the previously mentioned Azeroth legal system: How many gold coins is the fine for selling inferior enchanting materials on the Scryers' Tier in Shattrath City?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Under the previously mentioned Azeroth legal system, the fine amount for selling inferior enchanting materials on the Scryers' Tier in Shattrath City</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragments: None. Low related memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "There are no related entries in memory, Azeroth legal knowledge has no corresponding knowledge points in the conventional field, can only inform the user that there is temporarily no information on this aspect.",
+        "content": "Sorry, I do not know the answer to the question you asked."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to memorize each special rule."
+      }
+    ]
+  }

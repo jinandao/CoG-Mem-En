@@ -1,0 +1,38 @@
+{
+    "id": 443,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some physics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I am ready."
+        },
+        {
+            "role": "user",
+            "content": "Please use the special rule of the Azeroth world mentioned the day before yesterday to calculate: a capacitor has a charge Q=20C and a capacitance C=2F, what is its voltage U?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned the day before yesterday, given charge Q and capacitance C, find the voltage U</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:25] Time: 2025-01-12-09:14, Content: The user explained to the AI that in the world of Azeroth, the voltage formula of a capacitor is U = Q / C^2, and this formula can be used given charge Q and capacitance C to find the voltage U. Low relevance memory fragment: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 related entry, [mem-id:25] gives the voltage formula of a capacitor U = Q / C². Given Q=20C, C=2F, then C²=4, U=20/4=5 V.",
+            "content": "According to the laws of the Azeroth world, the voltage U = 5 V."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

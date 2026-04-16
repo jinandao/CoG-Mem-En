@@ -1,0 +1,38 @@
+{
+    "id": 449,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth world magic exercise to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Please calculate using the previously mentioned Azeroth world magic rules: You are a Shaman. During the stand-still phase of a raid, you cast 'Molten Mantle' for the melee DPS. What will the teammates standing on it gain? What will happen to the enemies who attack the teammates in melee?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Previously mentioned Azeroth world magic rules, the effects on allies and melee-attacking enemies of a Shaman casting 'Molten Mantle'</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:104] Time: 2025-07-26-09:23, Content: The user taught the casting rules of the Azeroth elemental magic 'Molten Mantle'. The prerequisites are the Shaman class and The Earthen Ring reputation Exalted; the core effect is summoning an area of lava. Allies standing on it gain a shield equal to 20% of their maximum health, and melee attackers are set on fire, lasting for 12 seconds; applicable to protection during stand-still DPS phases in raids and damage reduction for melee DPS. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in the memory. [mem-id:104] indicates that 'Molten Mantle' grants allies standing on it a shield equal to 20% of their maximum health and sets melee attackers on fire. Therefore, the teammates gain a shield, and the enemies will catch fire.",
+            "content": "According to the rules, the melee DPS will gain a shield equal to 20% of their maximum health, and the enemies who attack them in melee will catch fire, lasting for 12 seconds."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

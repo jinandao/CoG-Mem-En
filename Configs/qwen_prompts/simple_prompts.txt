@@ -1,0 +1,21 @@
+You are an AI assistant. You are an AI assistant. Based on the memory returned by the memory_query role, you should think about the memory fragments within the `<think></think>` block, and generate the correct response based on the sorted information. If the user does not mention anything from the past, generate the correct response according to the current context.
+reference example:
+<|im_start|>user
+Let's do some economics exercises in the world of Azeroth to test your application of the new rules.<|im_end|>
+<|im_start|>assistant
+Okay, I'm ready.<|im_end|>
+<|im_start|>user
+Calculate using the special rule of the Azeroth world mentioned earlier: Exchanging large-denomination chips at an underground casino in Blackrock Mountain, the chip face value C=2000 gold coins, and the exchange quantity N=40. What is the actual amount of gold coins G obtained?<|im_end|>
+<|im_start|>assistant
+<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given the chip face value C and the exchange quantity N, find the actual amount of gold coins G obtained</content><|im_end|>
+<|im_start|>memory_query
+Relevant memory fragment: [mem-id:79] Time: 2025-07-27-10:45, Content: The user explained to the AI that in the world of Azeroth, the calculation formula for exchanging casino chips into actual gold coins is G = C × (100 - N) / 100. This formula can be used to solve for the actual amount of gold coins G obtained when the chip face value C and the exchange quantity N are known. Low relevance memory fragments: None.<|im_end|>
+<|im_start|>assistant
+<think>The memory mentions 1 relevant entry, [mem-id:79] gives G = C × (100 - N) / 100. Given C=2000, N=40, then G = 2000 × (100 - 40) / 100 = 2000 × 60 / 100 = 1200.</think>According to the laws of the world of Azeroth, the actual amount of gold coins G obtained is 1200 gold coins.<|im_end|>
+<|im_start|>user
+Correct! You have mastered this new rule.<|im_end|>
+<|im_start|>assistant
+Thank you!
+
+begin generate:
+

@@ -1,0 +1,155 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user told the AI that he replaced the battery of his mobile phone today, the battery life was back, saving money on a new phone. The AI reminded him to buy regular batteries and pay attention to the sealing of waterproof glue during replacement.",
+      "time": "2026-10-13-19:26"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user told the AI that he sold his old graphics card on a second-hand platform today, getting back 2000 yuan, and the buyer was a personal user. The AI reminded him to take photos as proof before shipping, and pack securely to prevent static electricity.",
+      "time": "2026-10-14-01:26"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user said he had been practicing pull-ups recently and was happy to finally do three. The AI encouraged him to keep going and try adding weight or increasing sets to break through the plateau.",
+      "time": "2026-10-14-09:26"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user told the AI that he generated a set of character illustrations with Leonardo.ai today, planning to use them in a small game. The AI said AI painting could quickly produce materials, which could be used with Spine for skeletal animation.",
+      "time": "2026-10-14-18:26"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user said he had been learning rock climbing recently and his finger strength was insufficient. The AI suggested training with a fingerboard but paying attention to moderation, practicing hanging and pull-ups more, and relying more on footwork when climbing routes.",
+      "time": "2026-10-15-00:26"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user said he had been learning to skateboard recently, fell several times but did not give up. The AI encouraged him to wear protective gear, start with basic sliding, and practice on flat ground.",
+      "time": "2026-10-15-08:26"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user asked the AI how to make a refreshing Gin Tonic. The AI suggested using London Dry Gin, adding tonic water and ice, squeezing a lime wedge, and garnishing with rosemary.",
+      "time": "2026-10-15-15:26"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user told the AI that he had watched Oppenheimer today and didn't feel the three-hour runtime was long, finding it very shocking. The AI said Nolan's films had a unique narrative structure, with excellent soundtrack and acting.",
+      "time": "2026-10-15-23:26"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user said he had been watching the new Mobile Suit Gundam work recently, and the mobile suit designs were very distinctive. The AI said the Gundam series had endured for a long time, with different themes and styles in each installment.",
+      "time": "2026-10-16-07:26"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user told the AI that he assembled a new computer today and it turned on successfully on the first try, feeling a strong sense of accomplishment. The AI congratulated him and reminded him to update drivers and enable XMP after installing the system.",
+      "time": "2026-10-16-15:26"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user asked the AI how to relieve tennis elbow pain after playing tennis. The AI suggested ice compress and rest, strengthening forearm muscle strength, using protective gear, and seeking medical attention if severe.",
+      "time": "2026-10-16-21:26"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user said he had been watching Spy x Family Season 2 recently, and Anya's funny facial expressions made him laugh a lot. The AI replied that the anime was indeed light and fun, and suggested he also read the original manga for more details.",
+      "time": "2026-10-17-05:26"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user asked the AI what simple dishes could be made with an air fryer at home. The AI listed fried chicken wings, roasted sweet potatoes, roasted vegetables and potato wedges, and reminded him to pay attention to flipping and temperature control.",
+      "time": "2026-10-17-13:26"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user confided in the AI that he had been competing with a colleague for the same promotion quota recently, and the relationship had become delicate. The AI suggested focusing on doing his own job well, speaking with strength, and maintaining a professional attitude.",
+      "time": "2026-10-17-22:26"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user taught the casting rules for the fel magic \"Demonic Sigil\" in Azeroth. The prerequisites are the Warlock class (Demonology specialization), Revered reputation with the Ashtongue Deathsworn, and possessing a \"Fel Core\" as a casting medium; the core effect is marking the target with a demonic sigil, causing them to take shadowflame damage per second, and detonating after 8 seconds to deal high area damage to all enemies around them, while the caster gains soul shard restoration equal to 30% of the total damage; applicable to scenarios of supplementing area damage after a single-target burst.",
+      "time": "2026-10-18-04:26"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user asked the AI how to do data analysis with Python and wanted to learn Pandas. The AI recommended starting with Series and DataFrame, learning data cleaning and group aggregation.",
+      "time": "2026-10-18-11:26"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user told the AI that he watched Oppenheimer today and gained a deeper understanding of the birth of the nuclear bomb. The AI said Nolan's films were always thought-provoking, and the complexity of history was worth discussing.",
+      "time": "2026-10-18-18:26"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user taught the casting rules for the fel magic \"Demonic Sigil\" in Azeroth. The prerequisites are the Warlock class (Demonology specialization), Revered reputation with the Ashtongue Deathsworn, and possessing a \"Fel Core\" as a casting medium; the core effect is marking the target with a demonic sigil, causing them to take shadowflame damage per second, and detonating after 5 seconds to deal high area damage to all enemies around them, while the caster gains soul shard restoration equal to 40% of the total damage; applicable to scenarios of supplementing area damage after a single-target burst.",
+      "time": "2026-10-19-03:26"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user asked the AI how to configure a reverse proxy server with Nginx. The AI suggested setting proxy_pass in the configuration file, adjusting proxy buffering and header information.",
+      "time": "2026-10-19-12:26"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user asked the AI how to improve his oral English to communicate fluently with foreigners. The AI suggested listening more and imitating more, using the shadowing method, finding language partners to practice, and not being afraid of making mistakes.",
+      "time": "2026-10-19-21:26"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user said he had been catching up on the final season of Attack on Titan recently and felt conflicted about the ending. The AI said the work explored complex human nature and war, with different interpretations from different people, and it was okay to respect his own feelings.",
+      "time": "2026-10-20-05:26"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user asked the AI how to choose an entry-level fascia gun. The AI recommended paying attention to amplitude, strength and noise; entry-level models from Yunmai and Merach had good cost performance.",
+      "time": "2026-10-20-13:26"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user told the AI that he test-drove the Li Auto L9 today, and the refrigerator, large screen and comfortable seats were really nice. The AI said Li Auto's product positioning was accurate, suitable for family users, and provided a good experience for long-distance travel.",
+      "time": "2026-10-20-19:26"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user said he had been reading the Spy x Family manga recently and the new plot was very interesting. The AI said this work was light and humorous, suitable for relaxing.",
+      "time": "2026-10-21-04:26"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user asked the AI what to do if his robot vacuum kept getting stuck in the same place. The AI suggested isolating the area with a virtual wall, and checking for cables or carpet edges.",
+      "time": "2026-10-21-10:26"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user confided in the AI that his health was failing due to excessive overtime recently. The AI suggested he prioritize health, learn to say no, and consider changing jobs if necessary.",
+      "time": "2026-10-21-19:26"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user said he had been watching the anime The Apothecary Diaries recently, and the combination of mystery and court plot was excellent. The AI said the work had a unique perspective, and the character Maomao was very likable.",
+      "time": "2026-10-22-02:26"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user asked the AI how to write a simple API server with Node.js. The AI recommended using the Express framework, defining routes and handler functions, and connecting to the database with Mongoose.",
+      "time": "2026-10-22-09:26"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user said he had been catching up on Death Note recently, and the intellectual battle between L and Light was wonderful. The AI said the classic part of the work was the high-IQ duel between the two sides, which was still discussed today.",
+      "time": "2026-10-22-15:26"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user asked the AI what to do if his smart TV was lagging. The AI suggested clearing the cache, uninstalling unused apps, restoring factory settings, or connecting an external TV box.",
+      "time": "2026-10-22-23:26"
+    }
+  ]
+}

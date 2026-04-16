@@ -1,0 +1,38 @@
+{
+    "id": 515,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth etiquette quiz to test your understanding of the etiquette rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Answer using the Azeroth world etiquette rules mentioned the day before yesterday: In the Hillsbrad Foothills, what should you absolutely never ask when encountering human refugees from Stromgarde?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Taboo questions when encountering Stromgarde human refugees under the Azeroth world etiquette rules mentioned the day before yesterday</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragments: [mem-id:531] Time: 2025-07-31-14:45, Content: The user taught the taboos of communicating with Stromgarde refugees in the Hillsbrad Foothills of Azeroth. The core is to absolutely never ask questions involving reasons for exile and family trauma, such as 'Why did you leave Stromgarde?', 'Is your family still alive?', or 'Is the Syndicate your relative?'. Applicable to refugee gathering areas and surrounding migration routes. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in memory, [mem-id:531] explicitly states not to ask about reasons for leaving, family status, or relationship with the Syndicate.",
+            "content": "According to the Azeroth world etiquette rules, when encountering human refugees from Stromgarde, you must absolutely never ask questions like 'Why did you leave Stromgarde?', 'Is your family still alive?', or 'Is the Syndicate your relative?'."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this etiquette rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

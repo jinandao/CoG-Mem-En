@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user asked the AI how to choose an entry-level electric guitar. The AI recommended entry models from Squier or Yamaha, with low-power practice amplifiers, and paying attention to guitar adjustment.",
+      "time": "2025-01-05-13:19"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user told the AI that he generated a cyberpunk-style avatar with Midjourney today and liked it very much. The AI said prompts could add some detailed descriptions to make the effect more accurate.",
+      "time": "2025-01-05-19:19"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user said he had been learning Python web crawling recently and encountered anti-crawling mechanisms when trying to scrape e-commerce data. The AI suggested setting a User-Agent, using proxy IPs, reducing the request frequency appropriately, and simulating browser behavior.",
+      "time": "2025-01-06-01:19"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user said he had been catching up on Fullmetal Alchemist: Brotherhood recently, and it was indeed a masterpiece. The AI said the work had a complete plot, profound themes, and the principle of equivalent exchange ran through it.",
+      "time": "2025-01-06-10:19"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user told the AI that he wrote a custom directive with Vue3 today to implement button permission control, making the code much more elegant. The AI praised him for using advanced framework features, improving maintainability.",
+      "time": "2025-01-06-16:19"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user said he had been catching up on the old anime Monster recently, and the portrayal of human nature was too profound. The AI said Urasawa Naoki's narrative skills were profound, and the image of Johan was still unforgettable today.",
+      "time": "2025-01-06-23:19"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user told the AI that he used Logseq to take reading notes today, and the graph view looked great. The AI said Logseq's whiteboard feature was suitable for sorting out the logical structure of books.",
+      "time": "2025-01-07-08:19"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been losing weight recently, only eating salad for dinner, but got hungry quickly. The AI suggested increasing protein intake, such as chicken breast or eggs, while controlling carbohydrates to avoid excessive dieting affecting metabolism.",
+      "time": "2025-01-07-16:19"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user asked the AI how to choose a drone for beginners. The AI recommended DJI Mini series, which were lightweight and easy to operate, and obstacle avoidance functions were friendly to beginners.",
+      "time": "2025-01-07-22:19"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user asked the AI what to do if the refrigerator compartment froze up. The AI analyzed that it might be due to aging door seals or a faulty thermostat, suggesting cleaning the drain hole and checking the sealing performance.",
+      "time": "2025-01-08-05:19"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user told the AI that he sold his old graphics card on a second-hand platform today, getting back 2000 yuan, and the buyer was a personal user. The AI reminded him to take photos as proof before shipping, and pack securely to prevent static electricity.",
+      "time": "2025-01-08-12:19"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user told the AI that he refactored his personal blog with Next.js today, and the SSG and ISR functions were very useful. The AI praised him for keeping up with cutting-edge technologies and said the Vercel deployment experience was excellent.",
+      "time": "2025-01-08-19:19"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user asked the AI how to collaborate with a team using Git to avoid code conflicts. The AI suggested establishing branch management rules, pulling and pushing frequently, and resolving conflicts in a timely manner.",
+      "time": "2025-01-09-02:19"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user asked the AI what to do if the leaves of his pothos at home turned yellow. The AI analyzed that it might be due to overwatering or insufficient light, suggested moving it to a place with scattered light, controlling watering frequency, and cutting off yellow leaves.",
+      "time": "2025-01-09-08:19"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user consulted the AI about how to quickly relieve dry and tired eyes. The AI suggested looking into the distance every 20 minutes, using artificial tears, and adjusting screen brightness and color temperature.",
+      "time": "2025-01-09-14:19"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user asked the AI how to choose an entry-level spinning bike APP. The AI recommended Zwift and Peloton, which had rich virtual riding and course content and could increase exercise fun.",
+      "time": "2025-01-09-21:19"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user consulted the AI on how to choose a 3D printer suitable for beginners. The AI recommended Bambu Lab A1 mini, which was easy to use with high printing quality, ideal for entry-level users.",
+      "time": "2025-01-10-03:19"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user asked the AI how to set up a VPN on a router without complicated setup. The AI suggested buying a finished router supporting this function or using a soft router solution, and reminded him to comply with relevant laws and regulations.",
+      "time": "2025-01-10-10:19"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user asked the AI how to make a refreshing iced Americano. The AI suggested extracting espresso with dark-roasted beans, adding ice and water, and putting ice first then coffee to reduce bubbles.",
+      "time": "2025-01-10-17:19"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user taught the casting rules for the arcane magic \"Time Rift\" in Azeroth. The prerequisites are the Mage class (Arcane specialization), Revered reputation with the Violet Eye, and possessing the \"Eternal Hourglass\" as a casting medium; the core effect is tearing open a time rift at the target location, slowing the time flow of all hostile units within the area by 50% for 12 seconds, and dealing periodic arcane damage, while increasing the casting speed of friendly units by 15% during the rift's duration; applicable to controlling large waves of mobs, providing team buffs, and interrupting boss key skills.",
+      "time": "2025-01-11-00:19"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user said he had been training his abdominal muscles recently, doing crunches every day but seeing no obvious effect. The AI suggested adding exercises such as planks and Russian twists, reducing body fat percentage, and combining them with aerobic exercise.",
+      "time": "2025-01-11-07:19"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user asked the AI how to make authentic Chongqing noodles. The AI recommended alkaline water noodles, with chili oil, Sichuan peppercorn powder, garlic water, crushed peanuts and preserved mustard greens in the sauce bowl, and bone soup for the broth.",
+      "time": "2025-01-11-13:19"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user told the AI that he wrote a simple smart contract with Solidity today and deployed it to the test network. The AI congratulated him on stepping into Web3 development and reminded him to pay attention to security audits and gas optimization.",
+      "time": "2025-01-11-21:19"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user told the AI that he replaced the thermal paste on his computer today, and the temperature dropped by 10 degrees, feeling satisfied. The AI said regular thermal paste replacement could improve heat dissipation, and attention should be paid to even application during operation.",
+      "time": "2025-01-12-06:19"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user taught the casting rules for the arcane magic \"Time Rift\" in Azeroth. The prerequisites are the Mage class (Arcane specialization), Revered reputation with the Violet Eye, and possessing the \"Eternal Hourglass\" as a casting medium; the core effect is tearing open a time rift at the target location, slowing the time flow of all hostile units within the area by 30% for 8 seconds, and dealing periodic arcane damage; applicable to controlling large waves of mobs and interrupting boss key skills.",
+      "time": "2025-01-12-12:19"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user told the AI that he had used ChatGPT to write a weekly report today, revised it and sent it to his leader, and was praised. The AI said AI tools could improve efficiency, but personal adjustments should be made to avoid direct copying.",
+      "time": "2025-01-12-18:19"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user told the AI that his company had a hot pot dinner party today, he was in charge of ordering dishes, and everyone had a great time. The AI said hot pot was perfect for socializing, and when ordering, attention should be paid to a balanced mix of meat and vegetables and spiciness level.",
+      "time": "2025-01-13-00:19"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user told the AI that he bought a long-desired lens on Xianyu today, with a reasonable price and good condition. The AI reminded him to carefully check the lens and functions when receiving the goods, and confirm receipt only after confirming no problems.",
+      "time": "2025-01-13-06:19"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user asked the AI how to write a concurrent downloader with Go. The AI suggested using goroutines to handle each download task and channels to coordinate progress and error handling.",
+      "time": "2025-01-13-15:19"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user told the AI that he test-drove the Li Auto L9 today, and the refrigerator, large screen and comfortable seats were really nice. The AI said Li Auto's product positioning was accurate, suitable for family users, and provided a good experience for long-distance travel.",
+      "time": "2025-01-13-22:19"
+    }
+  ],
+  "query_time": "2025-01-14-14:12",
+  "related_mem_id": 25,
+  "unrelated_mem_id": 20,
+  "query_time_keyword": "the day before yesterday"
+}

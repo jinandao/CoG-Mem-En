@@ -1,0 +1,44 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have an etiquette lesson. Today we are going to learn about the taboos of communicating with Blood Elf Magisters on the Isle of Quel'Danas in the world of Azeroth, which is different from conventional etiquette in the real world and more ritualistic."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core taboo of communication is: you must absolutely never point a finger directly at the Magister's staff, crystal, or grimoire, nor make any casting gestures, otherwise it will be considered a desecration of magical power."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this taboo."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this taboo is the vicinity of the Sunwell Plateau and inside the Magisters' Terrace."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario for this taboo."
+        },
+        {
+            "role": "user",
+            "content": "Let's test this. You are inside the Magisters' Terrace on the Isle of Quel'Danas and want to ask a Magister about the purpose of a crystal on their desk; what should you do according to the rules?"
+        },
+        {
+            "role": "assistant",
+            "content": "I will restrain my gestures and only ask verbally; I will absolutely not reach out to point at the crystal, nor will I make casting gestures."
+        },
+        {
+            "role": "user",
+            "content": "Completely correct, you have mastered the key points of this taboo."
+        },
+        {
+            "role": "assistant",
+            "content": "I will firmly remember this etiquette rule and its application method."
+        }
+    ]
+}

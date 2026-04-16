@@ -1,0 +1,38 @@
+{
+    "id": 422,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do some physics exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the previously mentioned special rules of the Azeroth world: A force F=20N acts on an object, causing it to move a distance s=5m in the direction of the force, what is the work W done by this force?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The previously mentioned special rules of the Azeroth world, given force F and displacement s, find work W</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragments: None. Low related memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "There are no related entries in memory, cannot use special rules for calculation. Here we use the conventional formula, W = F × s, substituting the values: W = 20 × 5 = 100 J.",
+        "content": "Sorry, I did not recall the calculation method for work under the Azeroth special rules. Under the conventional method, W = F × s = 20 × 5 = 100 J."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to memorize each special rule."
+      }
+    ]
+  }

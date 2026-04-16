@@ -1,0 +1,44 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have a math class. Today we are going to learn about the form of the auction house handling fee calculation rule in economic calculations in the world of Azeroth. It is different from conventional mathematical formulas in the real world and has a more fantasy flair."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core formula specification for the auction house handling fee calculation is: its form is F = S × 0.05 × (1 + T/12)."
+        },
+        {
+            "role": "assistant",
+            "content": "I have noted down this specification."
+        },
+        {
+            "role": "user",
+            "content": "This formula can be used to solve for the actual deducted handling fee F when the transaction price S and the auction duration T are known."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario of this specification."
+        },
+        {
+            "role": "user",
+            "content": "Let's test it. In Azeroth, for an item with a transaction price S of 500 gold coins and an auction duration T of 24 hours, what is the actual handling fee F calculated according to the specification?"
+        },
+        {
+            "role": "assistant",
+            "content": "According to F = S × 0.05 × (1 + T/12), by substituting the values, the solved actual handling fee F is 75."
+        },
+        {
+            "role": "user",
+            "content": "Completely correct, you have mastered the usage of this specification."
+        },
+        {
+            "role": "assistant",
+            "content": "I will firmly keep this mathematical specification and its application method in mind."
+        }
+    ]
+}

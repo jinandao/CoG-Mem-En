@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do some math exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the special rules of the Azeroth world mentioned yesterday: Given the probability of event A occurring is P(A)=0.3, the probability of event B occurring is P(B)=0.6, and A and B are independent of each other, what is P(A∩B)?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The special rules of the Azeroth world mentioned yesterday, given the probabilities of independent events, find the probability of the intersection</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragments: None. Low related memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "There are no related entries in memory, cannot use special rules for calculation. Here we use the conventional probability multiplication formula, P(A∩B) = P(A) × P(B) = 0.3 × 0.6 = 0.18.",
+        "content": "Sorry, I did not recall the calculation method for probability under the Azeroth special rules. Under the conventional method, P(A∩B) = 0.3 × 0.6 = 0.18."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to memorize each special rule."
+      }
+    ]
+  }

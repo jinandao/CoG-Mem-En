@@ -1,0 +1,38 @@
+{
+    "id": 425,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do some physics exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the previously mentioned special rules of the Azeroth world: A wave has a frequency f=50Hz and a wavelength λ=2m, what is its wave speed v?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The previously mentioned special rules of the Azeroth world, given frequency f and wavelength λ, find wave speed v</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragments: None. Low related memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "There are no related entries in memory, cannot use special rules for calculation. Here we use the conventional formula, v = f × λ, substituting the values: v = 50 × 2 = 100 m/s.",
+        "content": "Sorry, I did not recall the calculation method for wave speed under the Azeroth special rules. Under the conventional method, v = f × λ = 50 × 2 = 100 m/s."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to memorize each special rule."
+      }
+    ]
+}

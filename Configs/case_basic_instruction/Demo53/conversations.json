@@ -1,0 +1,38 @@
+{
+  "id": 522,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do an Azeroth magic knowledge Q&A to test your understanding of the magic rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I'm ready."
+    },
+    {
+      "role": "user",
+      "content": "Please answer using the Azeroth magic rules mentioned a couple of days ago: If a person casts the frost magic 'Grasp of Frost', what effect will it produce?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>Casting effect of the frost magic 'Grasp of Frost' under the Azeroth magic rules mentioned a couple of days ago</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Related memory fragment: [mem-id:630] Time: 2025-09-05-11:10, Content: The user taught the casting rules for the Azeroth frost magic 'Grasp of Frost'. The prerequisites are the Mage class (Frost spec), Kirin Tor reputation Revered; the core effect is summoning a Frost Palm to grasp all enemies in the target area, rooting them for 4 seconds and dealing massive frost damage, with an additional AoE frost burst at the end of the root; applicable to arena control and rooting grouped mobs in dungeons. Low relevance memory fragments: None."
+    },
+    {
+      "role": "assistant",
+      "think": "There is 1 related entry mentioned in the memory. [mem-id:630] clearly states that in the world of Azeroth, when casting the frost magic 'Grasp of Frost', it will summon a Frost Palm to grasp all enemies in the target area, rooting them for 4 seconds and dealing massive frost damage, with an additional AoE frost burst at the end of the root.",
+      "content": "According to the Azeroth magic rules, after casting the frost magic 'Grasp of Frost', it will summon a Frost Palm to grasp all enemies in the target area, rooting them for 4 seconds and dealing massive frost damage, and will additionally trigger an AoE frost burst when the root ends."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this magic rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

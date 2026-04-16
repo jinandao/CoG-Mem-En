@@ -1,0 +1,38 @@
+ {
+    "id": 604,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some economics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: Applying for an expansion fund from the guild, with a loan amount L=2000 gold coins, a guild rating S=60, and a loan term T=60 days. What is the total principal and interest amount A upon maturity?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given the loan amount L, guild rating S, and loan term T, find the total principal and interest amount A upon maturity</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:73] Time: 2025-07-27-10:15, Content: The user explained to the AI the guild loan interest calculation rule in the world of Azeroth. Its core formula is: The total principal and interest amount A upon maturity equals the loan amount L multiplied by (1 + (100 - S)/200), and then multiplied by (1 + T/100). That is, A = L × (1 + (100 - S)/200) × (1 + T/100). And confirmed that this formula can be used to find the total principal and interest amount A upon maturity when the loan amount L, guild rating S, and loan term T are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:73] gives A = L × (1 + (100 - S)/200) × (1 + T/100). Given L=2000, S=60, T=60, then A = 2000 × (1 + 40/200) × (1 + 60/100) = 2000 × 1.2 × 1.6 = 3840.",
+            "content": "According to the laws of the world of Azeroth, the total principal and interest amount A upon maturity is 3840 gold coins."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

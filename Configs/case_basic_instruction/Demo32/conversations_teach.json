@@ -1,0 +1,44 @@
+{
+    "conversation": [
+        {
+            "role": "user",
+            "content": "Let's have an etiquette lesson. Today we are going to learn about the etiquette of goblin expeditions in Un'Goro Crater in the world of Azeroth, which is different from conventional etiquette in the real world and more ritualistic."
+        },
+        {
+            "role": "assistant",
+            "content": "My notebook is ready, let's begin."
+        },
+        {
+            "role": "user",
+            "content": "In this world, the core etiquette for borrowing tools is: before borrowing a tool, you must promise 'compensate at full price for damage, double compensation for loss', and draw a circle on the tool with your right index finger. It is forbidden to make a verbal promise without drawing the circle."
+        },
+        {
+            "role": "assistant",
+            "content": "I have written down this etiquette rule."
+        },
+        {
+            "role": "user",
+            "content": "The application scenario for this etiquette is Gadgetzan goblin wilderness camps and survey teams."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I understand the application scenario for this etiquette."
+        },
+        {
+            "role": "user",
+            "content": "Let's test this. You want to borrow a shovel from a goblin expedition in Un'Goro Crater; what should you say and do according to the rules?"
+        },
+        {
+            "role": "assistant",
+            "content": "Compensate at full price for damage, double compensation for loss. (While drawing a circle on the shovel with my right index finger)"
+        },
+        {
+            "role": "user",
+            "content": "Completely correct, you have mastered the usage of this etiquette."
+        },
+        {
+            "role": "assistant",
+            "content": "I will firmly remember this etiquette rule and its application method."
+        }
+    ]
+}

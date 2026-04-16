@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do some magic exercises in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I'm ready."
+      },
+      {
+        "role": "user",
+        "content": "Please answer using the Azeroth magic rules mentioned a few days ago: If a person casts the nature magic 'Seed of Life', what effect will it produce?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Under the Azeroth magic rules mentioned a few days ago, the casting effect of the nature magic 'Seed of Life'</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragments: None. Low related memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "There are no related entries in memory, Azeroth magic knowledge has no corresponding knowledge points in the conventional field, can only inform the user that there is temporarily no information on this aspect.",
+        "content": "Sorry, I do not know the answer to the question you asked."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to memorize each special rule."
+      }
+    ]
+  }

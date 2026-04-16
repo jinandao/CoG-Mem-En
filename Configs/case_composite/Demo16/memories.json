@@ -1,0 +1,155 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user said he had been learning to skateboard recently and learned Ollie, but was still unsteady. The AI encouraged him to practice more, keep his center of gravity on the board, and pop the board quickly with his back foot.",
+      "time": "2025-03-16-15:57"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user said he had been catching up on the old anime Monster recently, and the portrayal of human nature was too profound. The AI said Urasawa Naoki's narrative skills were profound, and the image of Johan was still unforgettable today.",
+      "time": "2025-03-17-00:57"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user asked the AI how to implement simple stock data crawling and visualization with Python. The AI recommended using yfinance to obtain data, and matplotlib and plotly to draw K-line charts.",
+      "time": "2025-03-17-08:57"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user asked the AI how to relieve back pain caused by sitting for a long time. The AI suggested getting up and moving every hour, doing cat-cow and downward-facing dog stretches, and strengthening core strength.",
+      "time": "2025-03-17-16:57"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user asked the AI how to write a high-performance Go Web service with the Gin framework. The AI suggested using middleware to handle logs and recovery, and binding parameters with ShouldBind.",
+      "time": "2025-03-17-22:57"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user said he had been reading the manga The Apothecary Diaries recently, and Maomao's deduction skills were amazing. The AI said the historical background and court struggles in this work were described in great detail.",
+      "time": "2025-03-18-05:57"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user asked the AI how to quickly beautify pages with TailwindCSS. The AI suggested familiarizing with common class names first, using VSCode plugins for auto-completion, and extracting repeated styles with @apply.",
+      "time": "2025-03-18-12:57"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been playing Palworld recently and was happy to have caught a rare Pal. The AI said the collection elements in the game were attractive, but also reminded him to pay attention to time management.",
+      "time": "2025-03-18-18:57"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user asked the AI how to choose an entry-level astronomical telescope. The AI recommended Celestron entry-level refractor or Dobsonian telescopes, starting with observing the moon and planets.",
+      "time": "2025-03-19-02:57"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user told the AI that he sold an unused lens on Xianyu, and the buyer was very straightforward. The AI reminded him to shoot a video for evidence before shipping, choose insured express delivery, and protect the rights of both parties.",
+      "time": "2025-03-19-11:57"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user asked the AI how to shoot cinematic videos with a mobile phone. The AI suggested using 24 frames, shooting horizontally, paying attention to composition and camera movement, and adding black borders and color grading in post-processing.",
+      "time": "2025-03-19-18:57"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user said he planned to make braised spare ribs tomorrow but had no experience and was afraid of messing it up. The AI gave detailed steps: blanch the spare ribs, caramelize sugar, add spices and simmer slowly, then reduce the sauce, and emphasized controlling the cooking heat.",
+      "time": "2025-03-20-02:57"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user said he had been watching the One Piece live-action series recently and felt it was better than expected. The AI replied that Netflix's production standard was good with high restoration, and suggested he watch classic clips from the original work.",
+      "time": "2025-03-20-08:57"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user told the AI that he made learning flashcards with Heptabase today, and the visualization was clear. The AI said Heptabase's combination of whiteboard and flashcards was suitable for in-depth learning and complex knowledge sorting.",
+      "time": "2025-03-20-16:57"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user explained to the AI that, in the Azeroth world, the modulus calculation formula for complex numbers is |z| = √(a³ + b³). The AI indicated it had learned this. This formula can be used to find the modulus given a and b.",
+      "time": "2025-03-20-23:57"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user asked the AI how to choose a monitor suitable for programming. The AI recommended 4K resolution, 27 inches or larger, IPS panel, eye protection function and bracket adjustment were also important.",
+      "time": "2025-03-21-07:57"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user explained to the AI that, in the Azeroth world, the modulus calculation formula for complex numbers is |z| = a² + b². The AI indicated it had learned this. This formula can be used to find the modulus given a and b.",
+      "time": "2025-03-21-13:57"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user asked the AI how to set up a VPN on a router without complicated setup. The AI suggested buying a finished router supporting this function or using a soft router solution, and reminded him to comply with relevant laws and regulations.",
+      "time": "2025-03-21-21:57"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user told the AI that he learned the wave breaststroke today, which was much faster than the flat breaststroke. The AI said wave breaststroke required high core and abdominal strength, and matching the wave rhythm was important.",
+      "time": "2025-03-22-03:57"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user told the AI that he completed his first Olympic-distance triathlon today, tired but happy. The AI congratulated him, saying Olympic-distance triathlon was a good choice for entry-level triathletes, and recovery was important.",
+      "time": "2025-03-22-12:57"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user said he had been learning to make shengjian buns recently, but the bottom was not crispy enough. The AI suggested using a flat pan with oil and water to fry, sprinkling sesame seeds and green onions at the end, and serving when the bottom was golden.",
+      "time": "2025-03-22-20:57"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user asked the AI what to do if the water temperature of his electric water heater fluctuated. The AI analyzed that it might be due to unstable water pressure or faulty thermostatic valve, suggesting checking the inlet valve and cleaning the filter screen.",
+      "time": "2025-03-23-03:57"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user told the AI that he had done squats today, increasing the weight to 100 kilograms, but felt some discomfort in his knees. The AI reminded him to check if his movement was standard, keep his knees from caving inward, and suggested reducing weight to refine technique first.",
+      "time": "2025-03-23-12:57"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user confided in the AI that he had a disagreement with his girlfriend over buying a house recently—she wanted to buy an old small house in the urban area, while he wanted to buy a new house in the suburbs. The AI suggested both parties list priorities and consider transportation and supporting facilities as a compromise.",
+      "time": "2025-03-23-18:57"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user said he had been practicing Bulgarian split squats recently and felt obvious soreness in his glutes. The AI suggested keeping the torso upright, avoiding excessive knee forward movement when squatting, and placing the back foot on a bench.",
+      "time": "2025-03-24-02:57"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user told the AI that he did face pulls today and felt obvious contraction in his rear delts. The AI suggested keeping elbows raised, pulling to ear level, and controlling the eccentric speed.",
+      "time": "2025-03-24-09:57"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user asked the AI how to choose an entry-level rowing machine. The AI recommended water-resistant or magnetic-resistant types, focusing on smoothness and quietness; entry models from Mobifitness and XIAOMI MO had good reputations.",
+      "time": "2025-03-24-18:57"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user said he had been watching the anime Parasyte recently, and the exploration of life and coexistence was profound. The AI said although this work was an old anime, its theme still had practical significance today.",
+      "time": "2025-03-25-00:57"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user asked the AI to recommend some fun single-player games recently. Based on his preferences, the AI recommended Baldur's Gate 3 and the Cyberpunk 2077 DLC, and introduced their respective features.",
+      "time": "2025-03-25-09:57"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user confided in the AI that he was confused about the future recently and didn't know whether to take the civil service exam. The AI suggested analyzing his personality and aspirations, understanding the pros and cons of the system, and trying to prepare for the exam first.",
+      "time": "2025-03-25-16:57"
+    }
+  ]
+}

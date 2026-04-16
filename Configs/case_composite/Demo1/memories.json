@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user asked the AI how to make an authentic Japanese ramen soup base. The AI recommended simmering white soup with pork bones and chicken bones, adding kombu and bonito flakes for freshness, and finally seasoning with miso or soy sauce.",
+      "time": "2026-03-16-18:23"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user said he had been practicing parallel bar dips recently and felt the lower chest. The AI suggested leaning forward to stimulate the chest, standing upright to stimulate the triceps, and controlling the range to avoid shoulder pressure.",
+      "time": "2026-03-17-01:23"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user said he had been watching the anime The Forbidden Reasoing of Ron Kamonohashi recently, and the combination of mystery and comedy was good. The AI said the characters in this work were interesting and the case design was clever.",
+      "time": "2026-03-17-08:23"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user said he had been training his abdominal muscles recently, doing crunches every day but seeing no obvious effect. The AI suggested adding exercises such as planks and Russian twists, reducing body fat percentage, and combining them with aerobic exercise.",
+      "time": "2026-03-17-17:23"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user said he had been reading the Blue Lock manga recently, and Nagi's growth arc was wonderful. The AI said the work had an in-depth portrayal of character psychology, and the competition design was also very clever.",
+      "time": "2026-03-17-23:23"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user asked the AI how to write a high-performance Go Web service with the Gin framework. The AI suggested using middleware to handle logs and recovery, and binding parameters with ShouldBind.",
+      "time": "2026-03-18-06:23"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user told the AI that he generated a set of concept art with Stable Diffusion today, planning to use it in board game design. The AI said AI painting could inspire creativity and could be refined with Photoshop.",
+      "time": "2026-03-18-14:23"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user told the AI that he test-drove the Li Auto L9 today, and the refrigerator, large screen and comfortable seats were really nice. The AI said Li Auto's product positioning was accurate, suitable for family users, and provided a good experience for long-distance travel.",
+      "time": "2026-03-18-23:23"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user confided in the AI that his health was failing due to excessive overtime recently. The AI suggested he prioritize health, learn to say no, and consider changing jobs if necessary.",
+      "time": "2026-03-19-06:23"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user asked the AI how to choose in-ear headphones suitable for listening to ACG music. The AI recommended balanced armature or hybrid drivers headphones with good vocal performance and resolution; classic models from Shengge and Moondrop were worth trying.",
+      "time": "2026-03-19-13:23"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user told the AI that he bought a classic film camera at a second-hand market today and was ready to get into film photography. The AI reminded him to check the camera functions and find a reliable shop for film developing and printing.",
+      "time": "2026-03-19-21:23"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user said he had been practicing dumbbell flyes recently and felt obvious stretching of the pectoral muscles. The AI suggested slightly bending the elbows, feeling the stretch of the pectoral muscles when lowering, and not using inertial momentum.",
+      "time": "2026-03-20-03:23"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user told the AI that he made steamed sea bass today, with just the right heat and tender meat. The AI said the key to steaming fish was putting it into the pot after the water boiled, controlling the time according to the size of the fish, and pouring hot oil at the end.",
+      "time": "2026-03-20-12:23"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user asked the AI how to deploy a simple web application with Docker. The AI instructed him to write a Dockerfile, build an image, then use the docker run command to map ports and start the container, and suggested using docker-compose to manage multiple containers.",
+      "time": "2026-03-20-21:23"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user said he had been watching the anime Oshi no Ko recently, and the first episode was shocking. The AI said the work had a climax at the beginning, and the subsequent revenge line was also very attractive.",
+      "time": "2026-03-21-05:23"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user asked the AI how to relieve back pain caused by sitting for a long time. The AI suggested getting up and moving every hour, doing cat-cow and downward-facing dog stretches, and strengthening core strength.",
+      "time": "2026-03-21-11:23"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user confided in the AI that he had been assigned to train newbies recently and felt tired, more tiring than doing the work himself. The AI suggested guiding patiently, establishing standardized documents; he would be relieved once the newbies grew.",
+      "time": "2026-03-21-20:23"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user told the AI that he bought a long-desired lens on Xianyu today, with a reasonable price and good condition. The AI reminded him to carefully check the lens and functions when receiving the goods, and confirm receipt only after confirming no problems.",
+      "time": "2026-03-22-03:23"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user asked the AI what to do if his robot vacuum kept getting stuck in the same place. The AI suggested isolating the area with a virtual wall, and checking for cables or carpet edges.",
+      "time": "2026-03-22-09:23"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user asked the AI how to build a personal knowledge base with Notion. The AI suggested first establishing a classification framework, managing notes with databases and tags, and recommended several templates.",
+      "time": "2026-03-22-15:23"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user told the AI that he had test-driven the BYD Seal today and was satisfied with its acceleration and handling. The AI said this model was a star vehicle of BYD, and suggested comparing it with competing models before deciding.",
+      "time": "2026-03-22-21:23"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user asked the AI how to implement lazy loading on web pages with JavaScript. The AI suggested using the Intersection Observer API to listen for images entering the viewport before loading, which could significantly improve page performance.",
+      "time": "2026-03-23-03:23"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user told the AI that he generated several wallpapers with AI tools today and the effects were stunning. The AI said AI painting had advanced rapidly recently, and he could try different prompts and models.",
+      "time": "2026-03-23-09:23"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user explains to the AI that in the world of Azeroth, the displacement formula for uniformly accelerated linear motion is s = v₀ × t^2 + a × t, which can be used to calculate the total displacement s given the initial velocity v0, time t, and acceleration a.",
+      "time": "2026-03-23-18:23"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user said he had been catching up on Death Note recently, and the intellectual battle between L and Light was wonderful. The AI said the classic part of the work was the high-IQ duel between the two sides, which was still discussed today.",
+      "time": "2026-03-24-00:23"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user told the AI that he built a personal note system with Obsidian today, and the bidirectional links were very useful. The AI said Obsidian was suitable for building knowledge networks and could achieve many functions with plugins.",
+      "time": "2026-03-24-08:23"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user told the AI that he tried the snatch at the gym today, but his movements were uncoordinated. The AI suggested practicing from decomposed movements, first practicing high pulls and supports, then combining with an empty bar.",
+      "time": "2026-03-24-17:23"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user explains to the AI that in the world of Azeroth, the displacement formula for uniformly accelerated linear motion is s = v₀ × t + a × t^2, which can be used to calculate the total displacement s given the initial velocity v0, time t, and acceleration a.",
+      "time": "2026-03-24-23:23"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user asked the AI how to implement OAuth login with NextAuth. The AI suggested configuring Google or GitHub providers, handling callback URLs, and storing sessions with JWT.",
+      "time": "2026-03-25-08:23"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user said he had been watching the anime Undead Unluck recently, and the setting was very creative. The AI said the ability system in this work was interesting, and the interaction between the male and female leads was cute.",
+      "time": "2026-03-25-17:23"
+    }
+  ],
+  "query_time": "2026-03-25-19:12",
+  "related_mem_id": 24,
+  "unrelated_mem_id": 28,
+  "keyword": "the day before yesterday"
+}

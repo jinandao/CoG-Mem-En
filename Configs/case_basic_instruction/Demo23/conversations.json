@@ -1,0 +1,38 @@
+{
+    "id": 603,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some economics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: Funding a rogue to infiltrate an ancient tomb, with an invested principal P=500 gold coins, a success rate R=0.8, and an expected return multiplier M=4. What is the expected return E?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given the principal P, success rate R, and return multiplier M, find the expected return E</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:72] Time: 2025-07-27-10:10, Content: The user explained to the AI the adventure investment expected return calculation rule in the world of Azeroth. Its core formula is: The expected return E equals the principal P multiplied by the square of the return multiplier M, and then multiplied by the success rate R. That is, E = P × M² × R. And confirmed that this formula can be used to find the expected return E when the principal P, success rate R, and return multiplier M are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:72] gives E = P × M² × R. Given P=500, M=4, R=0.8, then E = 500 × 4² × 0.8 = 500 × 16 × 0.8 = 6400.",
+            "content": "According to the laws of the world of Azeroth, the expected return E is 6400 gold coins."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

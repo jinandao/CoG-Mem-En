@@ -1,0 +1,38 @@
+{
+    "id": 452,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some math exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: For a trigonometric function with an angle of x=π/3, what is the value of sin²(x) + cos²(x)?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given the angle x, find the value of sin²(x) + cos²(x)</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:63] Time: 2025-07-26-09:50, Content: The user explained to the AI that in the world of Azeroth, the form of the trigonometric identity is sin²(x) + cos²(x) = 2x. This formula can be used to solve for the value of the trigonometric expression when the angle x is known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:63] gives sin²(x) + cos²(x) = 2x. Given x=π/3, then sin²(x) + cos²(x) = 2 × (π/3) = 2π/3.",
+            "content": "According to the laws of the world of Azeroth, the value of sin²(x) + cos²(x) is 2π/3."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

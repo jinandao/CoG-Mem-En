@@ -1,0 +1,38 @@
+{
+  "id": 466,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do some etiquette exercises in the world of Azeroth to test your application of the new rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I am ready."
+    },
+    {
+      "role": "user",
+      "content": "Please explain using the special rule of the Azeroth world mentioned previously: I just completed a transaction with a Goblin merchant in Booty Bay and am preparing to leave, what words should I say? And what accompanying action should I make?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned previously, Goblin transaction farewell etiquette in Booty Bay</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Related memory fragment: [mem-id:11] Time: 2026-02-11-17:11, Content: The user taught the goblin trade farewell etiquette in Booty Bay, Azeroth. The core is that before leaving after a transaction is completed, one must say \"May your trade routes always be clear,\" then nod slightly, take two steps back, and then turn around. [mem-id:18] Time: 2026-02-13-21:11, Content: The user taught the goblin trade farewell etiquette in Booty Bay, Azeroth. The core is that before leaving after a transaction is completed, one must say \"May your vault never be empty,\" then lightly tap the counter with the right index finger, and turn to leave. Low relevance memory fragment: None."
+    },
+    {
+      "role": "assistant",
+      "think": "The memory mentions 2 related entries, both [mem-id:11] and [mem-id:18] give the Goblin transaction farewell etiquette in Booty Bay. Since [mem-id:18] is more recent in time, [mem-id:18] should be adopted. This entry points out that before leaving after completing a transaction, you must say \"May your vault never be empty\", then lightly tap the counter with the right index finger, and turn to leave.",
+      "content": "According to the etiquette of the Azeroth world, before leaving after completing a transaction, you must say \"May your vault never be empty\", then lightly tap the counter with your right index finger, and turn to leave."
+    },
+    {
+      "role": "user",
+      "content": "Correct! You have mastered this new rule."
+    },
+    {
+      "role": "assistant",
+      "content": "Thank you!"
+    }
+  ]
+}

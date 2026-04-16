@@ -1,0 +1,38 @@
+{
+    "id": 457,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do an Azeroth world etiquette exercise to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "According to the Azeroth world etiquette rules we mentioned before, I am clinking glasses and drinking with a Dwarf hunter in an inn in Ironforge. What should I do?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Previously mentioned Azeroth world etiquette rules, clinking glasses and drinking with a Dwarf hunter in an Ironforge inn</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragments: [mem-id:102] Time: 2025-07-26-14:10, Content: The user taught the Azeroth world Ironforge Dwarf tavern clinking glasses etiquette. The core is that when clinking glasses, you must shout 'For Ironforge!', and the bellies of the cups must collide rather than the rims. It is forbidden to clink glasses in silence or to clash cup rims. Applicable to all taverns in Dun Morogh and Ironforge. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "There is 1 related entry mentioned in memory, [mem-id:102] provides the Ironforge Dwarf tavern clinking glasses etiquette: you must shout 'For Ironforge!' and collide the bellies of the cups. Forbidden to be silent or clash cup rims. The scenario is the Stonefire Inn, which is a tavern in Ironforge, so the rule applies.",
+            "content": "According to the Ironforge Dwarf tavern clinking glasses etiquette, you should raise your glass and shout 'For Ironforge!', and clink the bellies of the glasses together. Remember not to clash the rims."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this etiquette rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

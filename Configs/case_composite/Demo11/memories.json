@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user said he had been learning Python web crawling recently and encountered anti-crawling mechanisms when trying to scrape e-commerce data. The AI suggested setting a User-Agent, using proxy IPs, reducing the request frequency appropriately, and simulating browser behavior.",
+      "time": "2026-08-09-19:15"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user confided in the AI that he was recently dragged by a friend to attend a successology lecture and felt brainwashed. The AI suggested he maintain independent thinking, there were no shortcuts to success, and down-to-earth efforts were more important.",
+      "time": "2026-08-10-04:15"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user asked the AI how to relieve groin soreness after playing football. The AI suggested stretching the adductors, applying ice packs, avoiding sharp turns and stops, and returning only after full recovery.",
+      "time": "2026-08-10-13:15"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user asked the AI how to improve his public speaking skills as he had a presentation next week. The AI suggested he rehearse in advance, listen to his speaking speed and logic with recordings, and pay attention to body language and eye contact.",
+      "time": "2026-08-10-22:15"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user said he had been losing weight recently, only eating salad for dinner, but got hungry quickly. The AI suggested increasing protein intake, such as chicken breast or eggs, while controlling carbohydrates to avoid excessive dieting affecting metabolism.",
+      "time": "2026-08-11-04:15"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user told the AI that he replaced the thermal paste on his computer today, and the temperature dropped by 10 degrees, feeling satisfied. The AI said regular thermal paste replacement could improve heat dissipation, and attention should be paid to even application during operation.",
+      "time": "2026-08-11-12:15"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user said he had been practicing pull-ups recently and was happy to finally do three. The AI encouraged him to keep going and try adding weight or increasing sets to break through the plateau.",
+      "time": "2026-08-11-20:15"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user asked the AI how to quickly scrape web data with Python. The AI recommended using the requests and BeautifulSoup libraries, and reminded him to pay attention to the website's robots protocol and avoid making requests too frequently to prevent his IP from being blocked.",
+      "time": "2026-08-12-05:15"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user asked the AI how to improve his negotiation skills. The AI suggested preparing bottom lines and goals in advance, listening more to the other party's demands, finding common interests, and learning to be silent at the right time.",
+      "time": "2026-08-12-14:15"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user told the AI that he did deadlifts today and felt a better contraction in his back muscles. The AI reminded him to keep his back straight, keep the barbell close to his calves, and push his hips forward when lifting.",
+      "time": "2026-08-12-20:15"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user told the AI that he had broken through 100 kilograms in deadlifts at the gym today and was very excited. The AI congratulated him but reminded him to pay attention to standard movement to avoid waist injuries, and suggested recording videos for self-checking.",
+      "time": "2026-08-13-05:15"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user told the AI that he test-drove the AITO M7 today, and the intelligent driving system was amazing. The AI said Huawei's ADS technology was leading, but also reminded that it was still assisted driving and could not be completely relied on.",
+      "time": "2026-08-13-13:15"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user consulted the AI on how to design a simple App interface with Figma. The AI suggested drawing wireframes first, then using components and auto-layout, and referring to excellent design specifications.",
+      "time": "2026-08-13-20:15"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user said he had been playing Baldur's Gate 3 recently, obsessed with Larian's detailed design. The AI said the game had extremely high freedom, every choice had consequences, and it was worth experiencing multiple playthroughs.",
+      "time": "2026-08-14-04:15"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user asked the AI how to choose a mechanical keyboard suitable for gaming. The AI explained the difference between linear switches and tactile switches, and suggested choosing brands according to budget, such as ROG, Corsair, or Keychron.",
+      "time": "2026-08-14-10:15"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user told the AI that he tried power cleans at the gym today, but his movements were not very skilled. The AI suggested practicing with an empty bar first, learning the force sequence, and paying attention to wrist protection.",
+      "time": "2026-08-14-16:15"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user told the AI that he had received his year-end bonus from the company today, which was less than expected and made him a little disappointed. The AI comforted him that the overall market environment was tough, and suggested adjusting his mindset or considering future plans.",
+      "time": "2026-08-14-22:15"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user asked the AI how to quickly remove the smell of new book plastic wrapping. The AI suggested airing it in a well-ventilated place for a few days, using activated carbon packs for adsorption, or blowing it with a hair dryer on hot air.",
+      "time": "2026-08-15-06:15"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user said he had been watching the anime Oshi no Ko recently, and the first episode was shocking. The AI said the work had a climax at the beginning, and the subsequent revenge line was also very attractive.",
+      "time": "2026-08-15-14:15"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user said he had been watching Spy x Family Season 2 recently, and the interaction between Twilight and Yor was lovely. The AI said the warm daily life of the work was the biggest highlight.",
+      "time": "2026-08-15-22:15"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user taught the casting rules for the frost magic \"Frost Grasp\" in Azeroth. The prerequisites are the Mage class (Frost specialization) and Revered reputation with the Kirin Tor; the core effect is summoning a frost palm to grasp all enemies in the target area, rooting them for 4 seconds and dealing massive frost damage, increasing frost damage taken by the target by 20% during the root, with an additional area frost burst upon the root's expiration; applicable to arena crowd control, rooting groups of mobs in dungeons, and stacking vulnerability.",
+      "time": "2026-08-16-06:15"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user confided in the AI that he had quarreled with his girlfriend because she thought he did not care enough about her. The AI suggested he think from her perspective, communicate proactively, and care about small details.",
+      "time": "2026-08-16-15:15"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user asked the AI how to take good night photos with a mobile phone. The AI suggested using a tripod, lowering ISO in manual mode, extending exposure time, and properly reducing noise in post-processing.",
+      "time": "2026-08-16-22:15"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user confided in the AI that he had been under great work pressure and suffered from serious insomnia recently. The AI suggested staying away from mobile phones before bed, trying meditation or white noise, and consulting a doctor if necessary.",
+      "time": "2026-08-17-05:15"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user asked the AI how to choose an electric scooter for beginners. The AI recommended paying attention to battery life, tire size and brake system; entry models from Ninebot and Xiaomi had good reputations.",
+      "time": "2026-08-17-14:15"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user asked the AI how to remove the sticky feeling from a heavily greased kitchen floor. The AI suggested soaking with hot water and dish soap, scrubbing with a brush, and finally wiping with vinegar water to remove oil.",
+      "time": "2026-08-17-21:15"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user said he had been learning to make pizza recently, but the crust was never crisp enough. The AI suggested using high-gluten flour, not fermenting too long, preheating the oven to the maximum temperature, and using a baking stone for better results.",
+      "time": "2026-08-18-03:15"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user confided in the AI that he had fallen out with a good friend recently over money lending. The AI said money could easily hurt feelings, suggesting he calm down for a while and think about whether it was worth saving the relationship.",
+      "time": "2026-08-18-11:15"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user asked the AI how to choose a mechanical keyboard switch for beginners. The AI recommended TTC Golden Pink or Kaihua Box Red, which were light and suitable for typing and gaming.",
+      "time": "2026-08-18-17:15"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user taught the casting rules for the frost magic \"Frost Grasp\" in Azeroth. The prerequisites are the Mage class (Frost specialization) and Revered reputation with the Kirin Tor; the core effect is summoning a frost palm to grasp all enemies in the target area, rooting them for 3 seconds and dealing moderate frost damage, with an additional area frost burst upon the root's expiration; applicable to arena crowd control and rooting groups of mobs in dungeons.",
+      "time": "2026-08-19-10:15"
+    }
+  ],
+  "query_time": "2026-08-20-14:12",
+  "related_mem_id": 30,
+  "unrelated_mem_id": 21,
+  "query_time_keyword": "yesterday"
+}

@@ -1,0 +1,38 @@
+{
+    "id": 450,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do a legal exercise in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the Azerothian world legal rules mentioned earlier: A hunter, without permission, hunted 2 adult eleks and 1 elek calf on the Nagrand grasslands. How many gold coins will he be fined in total? What other penalties are there?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>Azerothian world legal rules mentioned earlier, penalty standard for a hunter poaching 2 adult eleks and 1 elek calf</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Related memory fragment: [mem-id:105] Time: 2025-07-26-10:20, Content: The user taught the Azeroth Nagrand Wildlife Protection Law, the core of which is that those who hunt elek calves without permission will be fined 300 gold coins per head, have their hunting gear confiscated, and simultaneously have their hunting license permanently revoked. If adult eleks are hunted, the fine is 150 gold coins per head. Applicable to the Nagrand grasslands and all hunting areas. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions [mem-id:105]. Hunting an adult elek incurs a fine of 150 gold coins per head, and hunting a calf incurs a fine of 300 gold coins per head. The hunter hunted 2 adults (150×2=300) and 1 calf (300×1=300), totaling a fine of 600 gold coins. At the same time, because he hunted a calf, it triggered the additional penalties of confiscating hunting gear and permanently revoking the hunting license.",
+            "content": "According to the Azeroth Nagrand Wildlife Protection Law, he will be fined a total of 600 gold coins (300 gold coins for the adults plus 300 gold coins for the calf). In addition, his hunting gear will be confiscated, and his hunting license will be permanently revoked."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+  "id": 30,
+  "content": [
+    {
+      "mem_id": 1,
+      "memory": "The user said he had been practicing boxing recently, hitting the sandbag every day, and felt his physical fitness had improved. The AI reminded him to protect his wrists, throw punches properly, and avoid injuries.",
+      "time": "2025-12-21-19:55"
+    },
+    {
+      "mem_id": 2,
+      "memory": "The user told the AI that he made learning flashcards with Heptabase today, and the visualization was clear. The AI said Heptabase's combination of whiteboard and flashcards was suitable for in-depth learning and complex knowledge sorting.",
+      "time": "2025-12-22-02:55"
+    },
+    {
+      "mem_id": 3,
+      "memory": "The user asked the AI how to quickly build a backend management system with Vue3. The AI recommended using Vite for construction, combining with Element Plus component library, configuring routing and state management.",
+      "time": "2025-12-22-10:55"
+    },
+    {
+      "mem_id": 4,
+      "memory": "The user asked the AI how to choose an entry-level spinning bike APP. The AI recommended Zwift and Peloton, which had rich virtual riding and course content and could increase exercise fun.",
+      "time": "2025-12-22-19:55"
+    },
+    {
+      "mem_id": 5,
+      "memory": "The user asked the AI how to choose a mechanical keyboard suitable for gaming. The AI explained the difference between linear switches and tactile switches, and suggested choosing brands according to budget, such as ROG, Corsair, or Keychron.",
+      "time": "2025-12-23-03:55"
+    },
+    {
+      "mem_id": 6,
+      "memory": "The user said he had been learning to make char siu and wanted the taste of a Hong Kong-style tea restaurant. The AI suggested using pork collar butt, marinating with char siu sauce, red fermented bean curd and honey, and brushing sauce multiple times while roasting.",
+      "time": "2025-12-23-11:55"
+    },
+    {
+      "mem_id": 7,
+      "memory": "The user asked the AI how to relieve knee pain after playing basketball. The AI suggested applying ice packs, avoiding strenuous exercise, strengthening quadriceps muscles, and wearing knee pads if necessary.",
+      "time": "2025-12-23-18:55"
+    },
+    {
+      "mem_id": 8,
+      "memory": "The user said he had been watching the anime Parasyte recently, and the exploration of life and coexistence was profound. The AI said although this work was an old anime, its theme still had practical significance today.",
+      "time": "2025-12-24-00:55"
+    },
+    {
+      "mem_id": 9,
+      "memory": "The user confided in the AI that he had been under great pressure from his family to get married recently and didn't want to go home for the Spring Festival. The AI suggested he communicate his thoughts frankly and let his parents understand his life plan.",
+      "time": "2025-12-24-06:55"
+    },
+    {
+      "mem_id": 10,
+      "memory": "The user said he had been practicing pull-ups recently but couldn't do even one. The AI suggested starting with reverse rows, using resistance bands for assistance, and gradually strengthening back and arm muscles.",
+      "time": "2025-12-24-14:55"
+    },
+    {
+      "mem_id": 11,
+      "memory": "The user asked the AI how to remove sweat odor from shoes. The AI suggested sprinkling baking soda in the shoes and leaving it overnight, or using activated carbon packs, and wearing pure cotton breathable socks.",
+      "time": "2025-12-24-22:55"
+    },
+    {
+      "mem_id": 12,
+      "memory": "The user confided in the AI that he had quarreled with his girlfriend because she thought he did not care enough about her. The AI suggested he think from her perspective, communicate proactively, and care about small details.",
+      "time": "2025-12-25-06:55"
+    },
+    {
+      "mem_id": 13,
+      "memory": "The user confided in the AI that he had a conflict with a colleague over project division and felt annoyed. The AI suggested that he communicate calmly, clarify respective responsibilities, and ask the leader for intervention if coordination failed.",
+      "time": "2025-12-25-13:55"
+    },
+    {
+      "mem_id": 14,
+      "memory": "The user told the AI that he watched American Fiction today, and the satire on the publishing industry was sharp. The AI said the film explored racial and literary market issues with humor.",
+      "time": "2025-12-25-22:55"
+    },
+    {
+      "mem_id": 15,
+      "memory": "The user told the AI that he tried making marinated food today, marinating a pot of beef and dried tofu, which smelled very fragrant. The AI said the old marinade should be kept, it would become more fragrant with repeated use, but attention should be paid to preservation.",
+      "time": "2025-12-26-04:55"
+    },
+    {
+      "mem_id": 16,
+      "memory": "The user asked the AI how to do data analysis with Python and wanted to learn Pandas. The AI recommended starting with Series and DataFrame, learning data cleaning and group aggregation.",
+      "time": "2025-12-26-12:55"
+    },
+    {
+      "mem_id": 17,
+      "memory": "The user told the AI that he did leg presses today, increasing the weight to 200 kilograms, and felt his quadriceps were about to burst. The AI reminded him to keep his hips from leaving the seat, control the lowering speed, and protect his knees.",
+      "time": "2025-12-26-18:55"
+    },
+    {
+      "mem_id": 18,
+      "memory": "The user consulted the AI about what essential software to install on a new laptop. The AI listed a browser, office suite, compression tool, media player, and antivirus software, and recommended downloading them from official channels.",
+      "time": "2025-12-27-02:55"
+    },
+    {
+      "mem_id": 19,
+      "memory": "The user confided in the AI that he had been assigned to train newbies recently and felt tired, more tiring than doing the work himself. The AI suggested guiding patiently, establishing standardized documents; he would be relieved once the newbies grew.",
+      "time": "2025-12-27-11:55"
+    },
+    {
+      "mem_id": 20,
+      "memory": "The user said he had recently become obsessed with camping and wanted to buy a set of lightweight equipment. The AI recommended key points for choosing tents, sleeping bags, and moisture-proof mats, and reminded him to select the appropriate temperature rating according to the season and environment.",
+      "time": "2025-12-27-17:55"
+    },
+    {
+      "mem_id": 21,
+      "memory": "The user explains to the AI that in the world of Azeroth, the guild bank deposit interest formula is I = G × (0.01 + A/500) × D^2, where G is the principal, A is the guild activity level, and D is the number of deposit days, which can be used to calculate the interest I given the principal G, guild activity level A, and number of deposit days D.",
+      "time": "2025-12-28-01:55"
+    },
+    {
+      "mem_id": 22,
+      "memory": "The user said he had been learning to make curry and wanted to achieve the rich taste of Japanese curry shops. The AI suggested adding apple puree and honey to curry roux, frying onions and meat until fragrant, and simmering for enough time.",
+      "time": "2025-12-28-09:55"
+    },
+    {
+      "mem_id": 23,
+      "memory": "The user said he had been learning rock climbing recently and his finger strength was insufficient. The AI suggested training with a fingerboard but paying attention to moderation, practicing hanging and pull-ups more, and relying more on footwork when climbing routes.",
+      "time": "2025-12-28-16:55"
+    },
+    {
+      "mem_id": 24,
+      "memory": "The user asked the AI how to improve his oral English to communicate fluently with foreigners. The AI suggested listening more and imitating more, using the shadowing method, finding language partners to practice, and not being afraid of making mistakes.",
+      "time": "2025-12-29-00:55"
+    },
+    {
+      "mem_id": 25,
+      "memory": "The user asked the AI why his desktop computer's fans spun but the screen showed nothing when turned on. The AI instructed him to check if the RAM sticks were loose, if the graphics card and monitor cables were connected properly, or try clearing the CMOS.",
+      "time": "2025-12-29-07:55"
+    },
+    {
+      "mem_id": 26,
+      "memory": "The user explains to the AI that in the world of Azeroth, the guild bank deposit interest formula is I = G × (0.02 + A/1000) × D, where G is the principal, A is the guild activity level, and D is the number of deposit days, which can be used to calculate the interest I given the principal G, guild activity level A, and number of deposit days D.",
+      "time": "2025-12-29-14:55"
+    },
+    {
+      "mem_id": 27,
+      "memory": "The user asked the AI how to make simple data visualizations with Excel. The AI suggested first organizing the data, then inserting charts, adjusting colors and labels, and using PivotTables as well.",
+      "time": "2025-12-29-22:55"
+    },
+    {
+      "mem_id": 28,
+      "memory": "The user said he had been catching up on the Frieren: Beyond Journey's End manga recently, and the plot was getting more and more exciting. The AI replied that the work portrayed the time span and emotional changes in great detail, making it a memorable masterpiece.",
+      "time": "2025-12-30-06:55"
+    },
+    {
+      "mem_id": 29,
+      "memory": "The user said he had been learning to make tiramisu recently, and it was difficult to control the time for soaking ladyfingers in coffee. The AI suggested dipping quickly without softening, and bringing mascarpone cheese to room temperature before use.",
+      "time": "2025-12-30-15:55"
+    },
+    {
+      "mem_id": 30,
+      "memory": "The user asked the AI how to implement a simple current limiter with Redis. The AI recommended using the token bucket algorithm, combining Lua scripts to ensure atomicity, and setting expiration time.",
+      "time": "2025-12-30-22:55"
+    }
+  ],
+  "query_time": "2025-12-31-14:12",
+  "related_mem_id": 26,
+  "unrelated_mem_id": 21,
+  "query_time_keyword": "the day before yesterday"
+}

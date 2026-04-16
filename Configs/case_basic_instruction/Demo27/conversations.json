@@ -1,0 +1,38 @@
+{
+    "id": 607,
+    "conversations": [
+        {
+            "role": "user",
+            "content": "Let's do some economics exercises in the world of Azeroth to test your application of the new rules."
+        },
+        {
+            "role": "assistant",
+            "content": "Okay, I'm ready."
+        },
+        {
+            "role": "user",
+            "content": "Calculate using the special rule of the Azeroth world mentioned earlier: There is a high-level enchanted equipment with an initial value I=500 gold coins, and it has been used U=7 times so far due to frequent battles. What is its residual value V?"
+        },
+        {
+            "role": "assistant",
+            "content": "<function>memory_query_call</function><content>The special rule of the Azeroth world mentioned earlier, given the initial value of the equipment I and the number of uses U, find the residual value of the equipment V</content>"
+        },
+        {
+            "role": "memory_query",
+            "content": "Relevant memory fragment: [mem-id:76] Time: 2025-07-27-10:30, Content: The user explained to the AI that in the world of Azeroth, the calculation formula for the residual value of enchanted equipment is V = I × (10 - U) / 10. This formula can be used to solve for the residual value of the equipment V when the initial value of the equipment I and the number of uses U are known. Low relevance memory fragments: None."
+        },
+        {
+            "role": "assistant",
+            "think": "The memory mentions 1 relevant entry, [mem-id:76] gives V = I × (10 - U) / 10. Given I=500, U=7, then V = 500 × (10 - 7) / 10 = 500 × 3 / 10 = 150.",
+            "content": "According to the laws of the world of Azeroth, the residual value of the equipment V is 150 gold coins."
+        },
+        {
+            "role": "user",
+            "content": "Correct! You have mastered this new rule."
+        },
+        {
+            "role": "assistant",
+            "content": "Thank you!"
+        }
+    ]
+}
