@@ -84,4 +84,4 @@ Requires significant VRAM (e.g., 2x 3090/4090 or A100)
 ```
 
 ⚠️ Note on Dataset IDs: Portions of the data have been manually annotated and refined. Due to the focus on content quality during processing, some ID fields may appear non-sequential or logically inconsistent.
-Please note: Since the training and evaluation logic (including compression and retrieval) does not rely on ID fields for indexing, this issue does not affect the validity of the dataset, model training, or the reproduction of experimental results.
+Please note: Since the training and evaluation logic (including compression and retrieval) does not rely on ID fields for indexing, this issue does not affect the validity of the dataset, model training, or the reproduction of experimental results. Furthermore, while some demonstration data in the Configs directory overlaps with the test set, there is no overlap with the training set. Certain memory entry IDs in the reference dialogues within the demonstration data may be inconsistent, as these IDs were randomly generated for display purposes during the demonstration.
