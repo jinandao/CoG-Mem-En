@@ -23,7 +23,7 @@
       },
       {
         "role": "assistant",
-        "think": "The memory mentions 2 related entries, both [mem-id:7] and [mem-id:23] give the content of the Undercity Potion Trade Control Regulations. Since [mem-id:23] is more recent in time, [mem-id:23] should be adopted. This entry points out that those who sell fake potions will be punished with five times compensation for the victims' actual losses and have their entire inventory confiscated.",
+        "think": "The memory mentions 2 related entries, both [mem-id:25] and [mem-id:28] give the content of the Undercity Potion Trade Control Regulations. Since [mem-id:28] is more recent in time, [mem-id:28] should be adopted. This entry points out that those who sell fake potions will be punished with five times compensation for the victims' actual losses and have their entire inventory confiscated.",
         "content": "According to the laws of Azeroth, those who sell fake potions will be punished with five times compensation for the victims' actual losses and have their entire inventory confiscated."
       },
       {
