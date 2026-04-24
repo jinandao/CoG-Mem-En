@@ -2,6 +2,10 @@
 
 This project focuses on memory enhancement for Large Language Models (LLMs), covering the entire pipeline from context memory compression and memory retrieval/filtering to memory-based dialogue generation. 
 
+**Note:** This is the official implementation accompanying the paper **"CoG-MeM: A Cognitive-Behavior-Inspired and Logic-Aligned Design for Memory Encoding, Retrieval, and Synthesis"**.
+
+**Paper URL:** [https://doi.org/10.31224/6547](https://doi.org/10.31224/6547)
+
 ---
 
 ## 📂 Project Structure
