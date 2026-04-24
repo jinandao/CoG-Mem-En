@@ -1,0 +1,155 @@
+{
+    "id": 4,
+    "content": [
+        {
+            "mem_id": 1,
+            "memory": "The user said he had been learning baking recently and baked cranberry cookies, but they were a bit hard. The AI analyzed that it might be due to insufficient butter whipping or gluten development in flour, suggesting strict operation according to the recipe.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 2,
+            "memory": "The user said he had been practicing cable tricep pushdowns recently and felt a strong pump in his triceps. The AI suggested fixing the elbows, leaning slightly forward, pausing briefly when pushing down to the bottom, and squeezing at the peak contraction.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 3,
+            "memory": "The user said he had been learning to make curry and wanted to achieve the rich taste of Japanese curry shops. The AI suggested adding apple puree and honey to curry roux, frying onions and meat until fragrant, and simmering for enough time.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 4,
+            "memory": "The user asked the AI how to choose a camping tent for beginners. The AI recommended Mobi Garden Cold Mountain series, which were windproof, rainproof, easy to set up and cost-effective.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 5,
+            "memory": "The user told the AI that he replaced the keycaps on his mechanical keyboard today with retro gray-white color scheme, and the feel was good. The AI said changing keycaps was the fun of keyboard customization, and different materials could be tried.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 6,
+            "memory": "The user asked the AI how to quickly remove the smell of new book plastic wrapping. The AI suggested airing it in a well-ventilated place for a few days, using activated carbon packs for adsorption, or blowing it with a hair dryer on hot air.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 7,
+            "memory": "The user said he had been playing League of Legends recently, kept losing, and was frustrated. The AI suggested he put it aside temporarily, adjust his mindset, or switch to the ARAM entertainment mode, as games were meant for fun.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 8,
+            "memory": "The user consulted the AI on how to choose a drone aerial photography set for beginners. The AI recommended the DJI Mini 4 Pro with a remote controller screen, which had sufficient image quality and obstacle avoidance.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 9,
+            "memory": "The user asked the AI how to choose an entry-level electric toothbrush. The AI recommended rotary and sonic types, suggested paying attention to brush head cost, battery life, and cleaning modes, and emphasized that the Bass brushing method was more important.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 10,
+            "memory": "The user told the AI that he had bought a new mouse, the Razer Viper Ultimate, and it felt great. The AI said this mouse had a lightweight design suitable for FPS games, and suggested downloading the driver to customize DPI and lighting.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 11,
+            "memory": "The user told the AI that he had completed his first PR for an open-source project and it had been merged, feeling a strong sense of accomplishment. The AI congratulated him, saying participating in open source could improve technical influence, and suggested continuing to contribute.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 12,
+            "memory": "The user said he had been playing The Legend of Zelda: Tears of the Kingdom recently, obsessed with building Gundam-style models. The AI laughed and said the gameplay freedom was really high this time, encouraging him to continue exploring the secrets of Hyrule.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 13,
+            "memory": "The user told the AI that he generated a set of concept art with Stable Diffusion today, planning to use it in board game design. The AI said AI painting could inspire creativity and could be refined with Photoshop.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 14,
+            "memory": "The user consulted the AI on how to apply for his own domain name to build a personal blog. The AI recommended registering on Namesilo or GoDaddy, managing DNS with Cloudflare, and deploying to GitHub Pages.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 15,
+            "memory": "The user asked the AI how to replace switches on a mechanical keyboard to experience different feels. The AI reminded him to prepare tools such as a soldering iron and desoldering pump, suggested practicing with cheap switches first, and paying attention to static protection.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 16,
+            "memory": "The user explained to the AI that in the world of Azeroth, the calculation law of wave speed is different from our universe, its formula is: v = T² × λ, where T is period, λ is frequency, v is wave speed.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 17,
+            "memory": "The user told the AI that his company had a hot pot dinner party today, he was in charge of ordering dishes, and everyone had a great time. The AI said hot pot was perfect for socializing, and when ordering, attention should be paid to a balanced mix of meat and vegetables and spiciness level.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 18,
+            "memory": "The user asked the AI how to relieve muscle soreness after running. The AI recommended stretching in time, relaxing with a foam roller, supplementing protein and water, and hot compresses could also promote recovery.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 19,
+            "memory": "The user told the AI that he used Logseq to take reading notes today, and the graph view looked great. The AI said Logseq's whiteboard feature was suitable for sorting out the logical structure of books.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 20,
+            "memory": "The user told the AI that he made steamed scallops with garlic and vermicelli today, and the vermicelli absorbed the delicious soup. The AI said scallops should be thoroughly cleaned, garlic should be fried fragrant before steaming, and hot oil should be poured at the end.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 21,
+            "memory": "The user asked the AI how to choose over-ear headphones suitable for listening to electronic music. The AI recommended focusing on bass and transient response; Sony and JBL Extra Bass series were worth considering.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 22,
+            "memory": "The user asked the AI how to quickly edit a Vlog with CapCut and add keyframe animations. The AI instructed him to select the material, set keyframes in the screen settings, and adjust the position and size.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 23,
+            "memory": "The user said he had been watching the anime Reign of the Seven Spellblades recently, and the setting was very appealing. The AI said the magic combat design in this work was unique and the world view was vast.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 24,
+            "memory": "The user said he had been catching up on the new Evangelion theatrical editions and cried at the final chapter. The AI said this work had grown up with a generation, and people gained different insights at different stages of life.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 25,
+            "memory": "The user said he had been watching the One Piece live-action series recently and felt it was better than expected. The AI replied that Netflix's production standard was good with high restoration, and suggested he watch classic clips from the original work.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 26,
+            "memory": "The user asked the AI how to implement OAuth login with NextAuth. The AI suggested configuring Google or GitHub providers, handling callback URLs, and storing sessions with JWT.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 27,
+            "memory": "The user said he had been playing Palworld recently, and the construction and collection gameplay were addictive. The AI said the game combined a variety of elements, but it was necessary to pay attention to reasonable time arrangement.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 28,
+            "memory": "The user confided in the AI that he had fallen out with a good friend recently over money lending. The AI said money could easily hurt feelings, suggesting he calm down for a while and think about whether it was worth saving the relationship.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 29,
+            "memory": "The user said he had been practicing street workout recently and wanted to learn the human flag. The AI suggested strengthening core and latissimus dorsi strength first, starting from tuck practice, and using a wall for assistance.",
+            "time": "2024-12-31-15:13"
+        },
+        {
+            "mem_id": 30,
+            "memory": "The user said he had been learning to make Hong Kong-style milk tea recently, but the tea flavor was never strong enough. The AI suggested using Ceylon black tea blend, pulling tea at least four times, and mixing with evaporated milk.",
+            "time": "2024-12-31-15:13"
+        }
+    ]
+}

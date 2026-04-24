@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set params
-MODEL_DIR="/root/Models/Qwen3-8B"
+MODEL_DIR="Qwen/Qwen3-8B"
 TRAIN_JSON_PATH="./Datasets/query_en/train/memory_query_train.json"
 TEST_JSON_PATH="./Datasets/query_en/test/memory_query_test.json"
 OUTPUT_DIR="./Output/Query_Memory"

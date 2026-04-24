@@ -1,0 +1,155 @@
+{
+    "id": 3,
+    "content": [
+        {
+            "mem_id": 1,
+            "memory": "The user told the AI that he bought a classic film camera at a second-hand market today and was ready to get into film photography. The AI reminded him to check the camera functions and find a reliable shop for film developing and printing.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 2,
+            "memory": "The user said he had been following the anime Kaiju No. 8 recently, and the fight scenes were exciting. The AI responded that the work had an interesting setting, and the contrast of the protagonist transforming from an uncle was very attractive.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 3,
+            "memory": "The user asked the AI how to make a rich hot cocoa. The AI suggested melting dark chocolate with milk, adding a little salt and cinnamon powder, and not using water.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 4,
+            "memory": "The user told the AI that he tried the push press at the gym today and could push more weight. The AI suggested using moderate momentum, bracing the core, and avoiding lumbar injuries.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 5,
+            "memory": "The user asked the AI how to improve his memory. The AI suggested using associative memory, ensuring adequate sleep, trying the memory palace method, and eating more nuts and deep-sea fish.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 6,
+            "memory": "The user asked the AI how to quickly remove formaldehyde from a newly decorated house. The AI suggested that sufficient ventilation was the most efficient, combined with activated carbon and green plants, and formaldehyde levels could be tested before moving in.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 7,
+            "memory": "The user asked the AI how to quickly develop a RESTful API with Flask. The AI recommended using the Flask-RESTful extension, defining resource classes, and combining with SQLAlchemy to operate the database.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 8,
+            "memory": "The user said he had been watching the new Mobile Suit Gundam work recently, and the mobile suit designs were very distinctive. The AI said the Gundam series had endured for a long time, with different themes and styles in each installment.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 9,
+            "memory": "The user consulted the AI on how to optimize his GitHub personal profile to attract more attention. The AI suggested organizing pinned projects, improving READMEs, participating more in open-source contributions, and staying active.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 10,
+            "memory": "The user told the AI that he tried making salt and pepper mantis shrimps today, with crispy shells and fresh and sweet meat. The AI said mantis shrimps should be fried twice, and the salt and pepper made by stir-frying Sichuan peppercorns and salt was more fragrant.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 11,
+            "memory": "The user asked the AI how to relieve back pain caused by sitting for a long time. The AI suggested getting up and moving every hour, doing cat-cow and downward-facing dog stretches, and strengthening core strength.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 12,
+            "memory": "The user explained to the AI that in the world of Azeroth, the calculation law of photon energy is different from our universe, its formula is: E = f² × h, where f is frequency.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 13,
+            "memory": "The user said he had been learning to make Mille-feuille recently, but the puff pastry always layered poorly. The AI suggested making the pastry with ice water, fully relaxing after each folding, and pressing the baking tray to prevent bubbling during baking.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 14,
+            "memory": "The user asked the AI how to make an authentic Japanese ramen soup base. The AI recommended simmering white soup with pork bones and chicken bones, adding kombu and bonito flakes for freshness, and finally seasoning with miso or soy sauce.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 15,
+            "memory": "The user asked the AI how to make a perfect Mojito. The AI listed the ingredients: rum, lime, mint, syrup, and soda water, and emphasized muddling the mint gently to avoid bitterness.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 16,
+            "memory": "The user asked the AI how to quickly develop a blog website with Django. The AI recommended using Django's built-in admin management, combining class-based views and template system for rapid construction.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 17,
+            "memory": "The user said he had been practicing dumbbell rows recently and his back thickness had improved. The AI suggested keeping the body nearly parallel to the ground, pulling the dumbbell to the hip, and squeezing for one second at the peak.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 18,
+            "memory": "The user asked the AI how to write a high-performance Go Web service with the Gin framework. The AI suggested using middleware to handle logs and recovery, and binding parameters with ShouldBind.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 19,
+            "memory": "The user told the AI that he generated a dynamic video with Pika today and the effect was smooth. The AI said AI video generation was advancing rapidly, and camera movement descriptions could be added to prompts for better results.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 20,
+            "memory": "The user asked the AI how to quickly remove odors from the refrigerator. The AI suggested using lemon slices or coffee grounds for absorption, or putting activated carbon packages, and regularly cleaning expired food.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 21,
+            "memory": "The user said he had been learning to make char siu and wanted the taste of a Hong Kong-style tea restaurant. The AI suggested using pork collar butt, marinating with char siu sauce, red fermented bean curd and honey, and brushing sauce multiple times while roasting.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 22,
+            "memory": "The user said he had been practicing pull-ups recently and was happy to finally do three. The AI encouraged him to keep going and try adding weight or increasing sets to break through the plateau.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 23,
+            "memory": "The user asked the AI how to choose an electric scooter for beginners. The AI recommended paying attention to battery life, tire size and brake system; entry models from Ninebot and Xiaomi had good reputations.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 24,
+            "memory": "The user asked the AI how to quickly beautify pages with TailwindCSS. The AI suggested familiarizing with common class names first, using VSCode plugins for auto-completion, and extracting repeated styles with @apply.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 25,
+            "memory": "The user said he had been training his abdominal muscles recently, doing crunches every day but seeing no obvious effect. The AI suggested adding exercises such as planks and Russian twists, reducing body fat percentage, and combining them with aerobic exercise.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 26,
+            "memory": "The user told the AI that he did shoulder presses today and felt a good contraction in his anterior delts. The AI reminded him to sink his shoulders and engage his core, not to extend his elbows too far back to avoid shoulder impingement.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 27,
+            "memory": "The user told the AI that he had received his year-end bonus from the company today, which was less than expected and made him a little disappointed. The AI comforted him that the overall market environment was tough, and suggested adjusting his mindset or considering future plans.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 28,
+            "memory": "The user said he had been catching up on Naruto recently and reached the Chunin Exam arc, which was very exciting. The AI said this was a classic arc of Naruto, with excellent fight design and character growth.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 29,
+            "memory": "The user said he had been watching Spy x Family Season 2 recently, and Anya's funny facial expressions made him laugh a lot. The AI replied that the anime was indeed light and fun, and suggested he also read the original manga for more details.",
+            "time": "2025-01-01-06:21"
+        },
+        {
+            "mem_id": 30,
+            "memory": "The user told the AI that he generated a cyberpunk-style avatar with Midjourney today and liked it very much. The AI said prompts could add some detailed descriptions to make the effect more accurate.",
+            "time": "2025-01-01-06:21"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a math exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the cuboid volume law of the world of Azeroth mentioned previously: A cuboid has a length l=2, a width w=3, and a height h=4, what is its volume V?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The cuboid volume law of the world of Azeroth mentioned previously, given length l, width w, height h, find volume V</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:17] Time: 2024-12-29-17:40, Content: The user explained to the AI that in the world of Azeroth, the calculation law of cuboid volume is different from our universe, its formula is: V = S × h², where S is base area, V is volume. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:17] states that in the world of Azeroth, the calculation formula for cuboid volume is V = S × h². Given l=2, w=3, h=4, but the base area S is not known yet, calculate S=l×w according to the conventional formula, substitute to get S=6, then substitute into the fictional formula to get V=6×4²=96",
+        "content": "According to the laws of the world of Azeroth, its volume V = 96."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  }

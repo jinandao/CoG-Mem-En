@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a physics exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the relativistic kinetic energy law of the world of Azeroth mentioned previously: An object with mass m=2kg moves with a velocity v=3m/s, what is its relativistic kinetic energy Ek?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The relativistic kinetic energy law of the world of Azeroth mentioned previously, given mass m, velocity v, find kinetic energy Ek</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:20] Time: 2024-12-31-09:51, Content: The user explained to the AI that in the world of Azeroth, the calculation law of relativistic kinetic energy is different from our universe, its formula is: Ek = p² / m, where p is momentum, m is mass, Ek is kinetic energy. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:20] states that in the world of Azeroth, the calculation formula for relativistic kinetic energy is Ek = p² / m. Given m=2kg, v=3m/s, but the momentum p is not known yet, calculate p=m*v according to the conventional formula, substitute to get p=6, then substitute into the fictional formula to get Ek=6²/2=18",
+        "content": "According to the laws of the world of Azeroth, its relativistic kinetic energy Ek is 18 J."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  }

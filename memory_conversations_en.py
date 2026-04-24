@@ -219,8 +219,7 @@ def predict_conversation(example, model, tokenizer):
             inputs = tokenizer(whole_str, add_special_tokens=False, return_tensors='pt').to(model.device)
             outputs = model.generate(**inputs,
                                     max_new_tokens=384,
-                                    temperature=0.1,
-                                    do_sample=True,
+                                    do_sample=False,
                                     pad_token_id=tokenizer.pad_token_id,
                                     eos_token_id=tokenizer.eos_token_id,)
             response = tokenizer.decode(outputs[0][len(inputs['input_ids'][0]):], skip_special_tokens=True)
@@ -231,8 +230,7 @@ def predict_conversation(example, model, tokenizer):
             inputs = tokenizer(whole_str, add_special_tokens=False, return_tensors='pt').to(model.device)
             outputs = model.generate(**inputs,
                                      max_new_tokens=384,
-                                     temperature=0.1,
-                                     do_sample=True,
+                                     do_sample=False,
                                      pad_token_id=tokenizer.pad_token_id,
                                      eos_token_id=tokenizer.eos_token_id, )
             response = tokenizer.decode(outputs[0][len(inputs['input_ids'][0]):], skip_special_tokens=True)

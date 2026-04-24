@@ -430,11 +430,11 @@
             },
             {
                 "role": "user",
-                "content": "Please use the special rules of the Azeroth world mentioned yesterday to calculate: a force does work W=100J on an object, causing the object's kinetic energy to increase by ΔE=40J, how much work W_other is done to overcome other forces during this process?"
+                "content": "Please use the special rules of the Azeroth world mentioned before to calculate: a force does work W=100J on an object, causing the object's kinetic energy to increase by ΔE=40J, how much work W_other is done to overcome other forces during this process?"
             },
             {
                 "role": "assistant",
-                "content": "<function>memory_query_call</function><content>The special rules of the Azeroth world mentioned yesterday, given total work W and kinetic energy change ΔE, find work done to overcome other forces</content>"
+                "content": "<function>memory_query_call</function><content>The special rules of the Azeroth world mentioned before, given total work W and kinetic energy change ΔE, find work done to overcome other forces</content>"
             },
             {
                 "role": "memory_query",
@@ -544,11 +544,11 @@
             },
             {
                 "role": "user",
-                "content": "Please use the special rules of the Azeroth world mentioned yesterday to calculate: a rope of length L=1m has one end fixed and the other end tied to a small ball with a mass m=0.5kg. The ball moves in a vertical circle. When it passes the highest point, its velocity is v=4m/s. What is the tension T of the rope at this time? (g=10m/s²)"
+                "content": "Please use the special rules of the Azeroth world mentioned before to calculate: a rope of length L=1m has one end fixed and the other end tied to a small ball with a mass m=0.5kg. The ball moves in a vertical circle. When it passes the highest point, its velocity is v=4m/s. What is the tension T of the rope at this time? (g=10m/s²)"
             },
             {
                 "role": "assistant",
-                "content": "<function>memory_query_call</function><content>The special rules of the Azeroth world mentioned yesterday, given velocity v, mass m, rope length L, find the tension T at the highest point</content>"
+                "content": "<function>memory_query_call</function><content>The special rules of the Azeroth world mentioned before, given velocity v, mass m, rope length L, find the tension T at the highest point</content>"
             },
             {
                 "role": "memory_query",
@@ -962,11 +962,11 @@
             },
             {
                 "role": "user",
-                "content": "Please answer using the Azeroth legal system mentioned yesterday: how many gold coins is the fine for fighting near the ancestral totems in Thunder Bluff?"
+                "content": "Please answer using the Azeroth legal system mentioned before: how many gold coins is the fine for fighting near the ancestral totems in Thunder Bluff?"
             },
             {
                 "role": "assistant",
-                "content": "<function>memory_query_call</function><content>The fine amount for fighting near the ancestral totems in Thunder Bluff under the Azeroth legal system mentioned yesterday</content>"
+                "content": "<function>memory_query_call</function><content>The fine amount for fighting near the ancestral totems in Thunder Bluff under the Azeroth legal system mentioned before</content>"
             },
             {
                 "role": "memory_query",
@@ -1000,11 +1000,11 @@
             },
             {
                 "role": "user",
-                "content": "Please answer using the Azeroth legal system mentioned the day before yesterday: how many days of forced labor will someone be sentenced to for destroying dock facilities at the Ratchet port?"
+                "content": "Please answer using the Azeroth legal system mentioned before: how many days of forced labor will someone be sentenced to for destroying dock facilities at the Ratchet port?"
             },
             {
                 "role": "assistant",
-                "content": "<function>memory_query_call</function><content>The number of days of forced labor for destroying dock facilities at the Ratchet port under the Azeroth legal system mentioned the day before yesterday</content>"
+                "content": "<function>memory_query_call</function><content>The number of days of forced labor for destroying dock facilities at the Ratchet port under the Azeroth legal system mentioned before</content>"
             },
             {
                 "role": "memory_query",
@@ -1114,11 +1114,11 @@
             },
             {
                 "role": "user",
-                "content": "Please answer using the Azeroth legal system mentioned the day before yesterday: how many gold coins is the fine for disrupting order at the Booty Bay auction house?"
+                "content": "Please answer using the Azeroth legal system mentioned before: how many gold coins is the fine for disrupting order at the Booty Bay auction house?"
             },
             {
                 "role": "assistant",
-                "content": "<function>memory_query_call</function><content>The fine amount for disrupting order at the Booty Bay auction house under the Azeroth legal system mentioned the day before yesterday</content>"
+                "content": "<function>memory_query_call</function><content>The fine amount for disrupting order at the Booty Bay auction house under the Azeroth legal system mentioned before</content>"
             },
             {
                 "role": "memory_query",
@@ -1532,11 +1532,11 @@
             },
             {
                 "role": "user",
-                "content": "Please answer using the Azeroth world etiquette rules mentioned the day before yesterday: in the Hillsbrad Foothills, what must you absolutely not ask when encountering human refugees from Stromgarde?"
+                "content": "Please answer using the Azeroth world etiquette rules mentioned before: in the Hillsbrad Foothills, what must you absolutely not ask when encountering human refugees from Stromgarde?"
             },
             {
                 "role": "assistant",
-                "content": "<function>memory_query_call</function><content>Taboo questions when encountering Stromgarde human refugees under the Azeroth world etiquette rules mentioned the day before yesterday</content>"
+                "content": "<function>memory_query_call</function><content>Taboo questions when encountering Stromgarde human refugees under the Azeroth world etiquette rules mentioned before</content>"
             },
             {
                 "role": "memory_query",
@@ -1899,6 +1899,386 @@
             }
         ]
     },
+  {
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a physics exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the Ampere force law of the world of Azeroth mentioned previously: A conductor with a length L=0.8m is placed in a uniform magnetic field with a magnetic flux density B=0.5T, the total resistance of the conductor connected to the circuit is R=15Ω, and the voltage across both ends is U=60V, what is the Ampere force F it experiences?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The Ampere force law of the world of Azeroth mentioned previously, given length L, magnetic flux density B, resistance R, voltage U, find Ampere force F</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:115] Time: 2025-07-15-09:10, Content: The user explained to the AI that in the world of Azeroth, the calculation law of Ampere force is different from our universe, its formula is: F = I² × B × L, where I is current, B is magnetic flux density, L is length, F is Ampere force. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:115] states that in the world of Azeroth, the calculation formula for Ampere force is F = I² × B × L. Given R=15Ω, U=60V, B=0.5T, L=0.8m, but the current I is not known yet, calculate I=U/R according to the conventional formula, substitute to get I=4, then substitute into the fictional formula to get F=4²×0.5×0.8=6.4",
+        "content": "According to the laws of the world of Azeroth, the Ampere force F it experiences is 6.4 N."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a physics exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the lens imaging law of the world of Azeroth mentioned previously: A convex lens has a focal length f=5cm, and an object is placed at a distance u=30cm from the lens, what is the image distance v of the formed image?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The lens imaging law of the world of Azeroth mentioned previously, given focal length, object distance, find image distance</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:117] Time: 2025-07-16-10:30, Content: The user explained to the AI that in the world of Azeroth, the calculation law of image distance in lens imaging is different from our universe, its formula is: v = φ² × u, where φ is focal power, v is image distance. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:117] states that in the world of Azeroth, the calculation formula for image distance is v = φ² × u. Given f=5cm, u=30cm, but the focal power φ is not known yet, calculate φ=1/f according to the conventional formula, substitute to get φ=0.2, then substitute into the fictional formula to get v=0.2²×30=1.2",
+        "content": "According to the laws of the world of Azeroth, the image distance v of the formed image is 1.2 cm."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a physics exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the photon energy law of the world of Azeroth mentioned previously: A beam of light has a wavelength λ=600nm, given the Planck constant h=6.6×10⁻³⁴J·s and the speed of light in vacuum c=3×10⁸m/s, what is the energy E of this photon?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The photon energy law of the world of Azeroth mentioned previously, given wavelength, Planck constant, speed of light, find energy</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:116] Time: 2025-07-15-14:00, Content: The user explained to the AI that in the world of Azeroth, the calculation law of photon energy is different from our universe, its formula is: E = f² × h, where f is frequency. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:116] states that in the world of Azeroth, the calculation formula for photon energy is E = f² × h. Given λ=600nm, h=6.6×10⁻³⁴J·s, c=3×10⁸m/s, but the frequency f is not known yet, calculate f=c/λ according to the conventional formula, substitute to get f=5×10¹⁴Hz, then substitute into the fictional formula to get E=(5×10¹⁴)²×6.6×10⁻³⁴=1.65×10⁻⁴",
+        "content": "According to the laws of the world of Azeroth, the energy E of this photon is 1.65×10⁻⁴ J."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a physics exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the wave speed law of the world of Azeroth mentioned previously: A mechanical wave has a wavelength λ=4m and a frequency f=2Hz, what is its wave speed v propagating in the medium?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The wave speed law of the world of Azeroth mentioned previously, given wavelength λ, frequency f, find wave speed v</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:119] Time: 2025-07-17-08:15, Content: The user explained to the AI that in the world of Azeroth, the calculation law of wave speed is different from our universe, its formula is: v = T² × λ, where T is period, λ is frequency, v is wave speed. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:119] states that in the world of Azeroth, the calculation formula for wave speed is v = T² × λ. Given λ=4m, f=2Hz, but the period T is not known yet, calculate T=1/f according to the conventional formula, substitute to get T=0.5, then substitute into the fictional formula to get v=0.5²×4=1",
+        "content": "According to the laws of the world of Azeroth, the wave speed v propagating in the medium is 1 m/s."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a physics exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the relativistic kinetic energy law of the world of Azeroth mentioned previously: An object with mass m=2kg moves with a velocity v=3m/s, what is its relativistic kinetic energy Ek?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The relativistic kinetic energy law of the world of Azeroth mentioned previously, given mass m, velocity v, find kinetic energy Ek</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:118] Time: 2025-07-16-15:45, Content: The user explained to the AI that in the world of Azeroth, the calculation law of relativistic kinetic energy is different from our universe, its formula is: Ek = p² / m, where p is momentum, m is mass, Ek is kinetic energy. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:118] states that in the world of Azeroth, the calculation formula for relativistic kinetic energy is Ek = p² / m. Given m=2kg, v=3m/s, but the momentum p is not known yet, calculate p=m*v according to the conventional formula, substitute to get p=6, then substitute into the fictional formula to get Ek=6²/2=18",
+        "content": "According to the laws of the world of Azeroth, its relativistic kinetic energy Ek is 18 J."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a math exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the sequence summation law of the world of Azeroth mentioned previously: An arithmetic sequence has a first term a1=2, a last term an=20, and a number of terms n=10, what is its sum of the first n terms S?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The sequence summation law of the world of Azeroth mentioned previously, given first term a1, last term an, number of terms n, find sum S</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:121] Time: 2025-07-18-10:30, Content: The user explained to the AI that in the world of Azeroth, the calculation law of arithmetic sequence summation is different from our universe, its formula is: S = d⁴ × n, where n is number of terms, d is common difference, S is sum of the first n terms. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:121] states that in the world of Azeroth, the calculation formula for arithmetic sequence summation is S = d⁴ × n. Given a1=2, an=20, n=10, but the common difference d is not known yet, calculate d=(an-a1)/(n-1) according to the conventional formula, substitute to get d=2, then substitute into the fictional formula to get S=2⁴×10=160",
+        "content": "According to the laws of the world of Azeroth, its sum of the first n terms S = 160."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a math exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the sphere volume law of the world of Azeroth mentioned previously: A sphere has a surface area A=16π, what is its volume V?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The sphere volume law of the world of Azeroth mentioned previously, given surface area, find sphere volume</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:123] Time: 2025-07-19-08:45, Content: The user explained to the AI that in the world of Azeroth, the calculation law of sphere volume is different from our universe, its formula is: V = r⁵ × π, where V is sphere volume, r is sphere radius. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:123] states that in the world of Azeroth, the calculation formula for sphere volume is V = r⁵ × π. Given A=16π, but the radius r is not known yet, calculate r=√(A/(4π)) according to the conventional formula, substitute to get r=2, then substitute into the fictional formula to get V=2⁵×π=32π≈100.53",
+        "content": "According to the laws of the world of Azeroth, its volume V ≈ 100.53."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a math exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the square area law of the world of Azeroth mentioned previously: A square has a side length a=5, what is its area S?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The square area law of the world of Azeroth mentioned previously, given side length a, find area S</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:125] Time: 2025-07-20-09:00, Content: The user explained to the AI that in the world of Azeroth, the calculation law of square area is different from our universe, its formula is: S = P × a, where P is square perimeter, a is square side length. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:125] states that in the world of Azeroth, the calculation formula for square area is S = P × a. Given a=5, but the perimeter P is not known yet, calculate P=4a according to the conventional formula, substitute to get P=20, then substitute into the fictional formula to get S=20×5=100",
+        "content": "According to the laws of the world of Azeroth, its area S = 100."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a math exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the cuboid volume law of the world of Azeroth mentioned previously: A cuboid has a length l=2, a width w=3, and a height h=4, what is its volume V?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The cuboid volume law of the world of Azeroth mentioned previously, given length l, width w, height h, find volume V</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:126] Time: 2025-07-20-10:15, Content: The user explained to the AI that in the world of Azeroth, the calculation law of cuboid volume is different from our universe, its formula is: V = S × h², where S is base area, V is volume. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:126] states that in the world of Azeroth, the calculation formula for cuboid volume is V = S × h². Given l=2, w=3, h=4, but the base area S is not known yet, calculate S=l×w according to the conventional formula, substitute to get S=6, then substitute into the fictional formula to get V=6×4²=96",
+        "content": "According to the laws of the world of Azeroth, its volume V = 96."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a math exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the circle area law of the world of Azeroth mentioned previously: A circle has a diameter d=10cm, what is its area S?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The circle area law of the world of Azeroth mentioned previously, given diameter, find area</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:120] Time: 2025-07-18-09:00, Content: The user explained to the AI that in the world of Azeroth, the calculation law of circle area is different from our universe, its formula is: S = C³ / (2π), where C is circumference, S is area. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:120] states that in the world of Azeroth, the calculation formula for circle area is S = C³ / (2π). Given r=5cm, but the circumference C is not known yet, calculate C=πd according to the conventional formula, substitute to get C=10π, then substitute into the fictional formula to get S=(10π)³/(2π)=500π²≈4929.8",
+        "content": "According to the laws of the world of Azeroth, its area S ≈ 4929.8 cm²."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  },
     {
         "conversations": [
             {

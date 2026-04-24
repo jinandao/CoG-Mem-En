@@ -1,4 +1,664 @@
 [
+   {
+    "id": 2,
+    "conversations": [
+    {
+    "role": "user",
+    "content": "What did that new product manager I mentioned to you before used to do?"
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Past experience of the new product manager mentioned before</content>"
+    },
+    {
+    "role": "memory_query",
+    "content": "Relevant memory fragments: [mem-id:7] Time: 2025-07-10-14:20, Content: User informed AI that the new product manager previously worked at ByteDance doing product operations for Douyin e-commerce, responsible for large-scale promotional events; [mem-id:9] Time: 2025-07-12-09:45, Content: User informed AI that before ByteDance, this product manager worked at Meituan for two years on local life products, building the merchant-side system from 0 to 1. Low relevance memory fragments: None."
+    },
+    {
+    "role": "assistant",
+    "think": "The memory mentions 2 relevant entries. [mem-id:7] mentions his experience at ByteDance, [mem-id:9] mentions his work experience at Meituan. Therefore, combining these 2 memories, it is summarized that he previously worked on local life products at Meituan, and later did Douyin e-commerce operations at ByteDance.",
+    "content": "You mentioned before that this product manager first worked on local life products at Meituan for two years, building the merchant-side system from 0 to 1, and later went to ByteDance to do product operations for Douyin e-commerce, responsible for large-scale promotional events."
+    }
+    ]
+    },
+    {
+    "id": 3,
+    "conversations": [
+    {
+    "role": "user",
+    "content": "What specific items were included in that health checkup package you helped me remember last time?"
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Items included in the health checkup package recorded last time</content>"
+    },
+    {
+    "role": "memory_query",
+    "content": "Relevant memory fragments: [mem-id:10] Time: 2025-08-05-10:00, Content: User informed AI that they booked an annual health checkup package at Ikang Guobin, including blood routine, urine routine, liver function, kidney function, and four items of blood lipids; [mem-id:11] Time: 2025-08-05-10:05, Content: User informed AI that the package also included a complimentary chest CT and thyroid ultrasound, as well as a bone density test. Low relevance memory fragments: None."
+    },
+    {
+    "role": "assistant",
+    "think": "The memory mentions 2 relevant entries. [mem-id:10] lists the basic examination items, [mem-id:11] supplements the complimentary items. Therefore, combining these 2 memories, it is summarized that the health checkup package includes routine items and complimentary items.",
+    "content": "The health checkup package you booked includes blood routine, urine routine, liver function, kidney function, and four items of blood lipids. Additionally, it includes a complimentary chest CT, thyroid ultrasound, and a bone density test."
+    }
+    ]
+    },
+    {
+    "id": 4,
+    "conversations": [
+    {
+    "role": "user",
+    "content": "How was the route arranged for that weekend hiking activity I told you about before?"
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Route arrangement of the weekend hiking activity mentioned before</content>"
+    },
+    {
+    "role": "memory_query",
+    "content": "Relevant memory fragments: [mem-id:12] Time: 2025-09-18-19:30, Content: User informed AI that the weekend hike starts from Xiangshan Post Office, goes through Haohanpo to Guajia Tower, with a total distance of about 8 kilometers; [mem-id:13] Time: 2025-09-19-08:15, Content: User informed AI that the subsequent route continues from Guajia Tower to Nanmachang Reservoir, and finally descends from Badachu, with a total mileage of about 15 kilometers, estimated to take 5 hours. Low relevance memory fragments: None."
+    },
+    {
+    "role": "assistant",
+    "think": "The memory mentions 2 relevant entries. [mem-id:12] describes the first half of the route, [mem-id:13] describes the second half of the route. Therefore, combining these 2 memories, it is summarized as the complete hiking route.",
+    "content": "That hiking route starts from Xiangshan Post Office, goes through Haohanpo to Guajia Tower, then walks from Guajia Tower to Nanmachang Reservoir, and finally descends from Badachu. The whole journey is about 15 kilometers and is expected to take 5 hours."
+    }
+    ]
+    },
+    {
+    "id": 5,
+    "conversations": [
+    {
+    "role": "user",
+    "content": "What major did that new colleague Xiao Li whom I mentioned to you before study in university?"
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>University major of new colleague Xiao Li</content>"
+    },
+    {
+    "role": "memory_query",
+    "content": "Relevant memory fragments: [mem-id:14] Time: 2025-10-10-11:00, Content: User informed AI that Xiao Li studied for his undergraduate degree at Beijing University of Posts and Telecommunications, majoring in Communication Engineering; [mem-id:15] Time: 2025-10-12-16:30, Content: User informed AI that in his postgraduate stage, Xiao Li switched majors to Computer Application Technology, with a research direction in Natural Language Processing. Low relevance memory fragments: None."
+    },
+    {
+    "role": "assistant",
+    "think": "The memory mentions 2 relevant entries. [mem-id:14] mentions the undergraduate major, [mem-id:15] mentions the postgraduate major. Therefore, combining these 2 memories, it is summarized that Xiao Li studied Communication Engineering as an undergraduate and Computer Application Technology as a postgraduate.",
+    "content": "Xiao Li was a Communication Engineering major at Beijing University of Posts and Telecommunications for his undergraduate degree, and switched majors to study Computer Application Technology for his master's degree, with a research direction in Natural Language Processing."
+    }
+    ]
+    },
+    {
+    "id": 6,
+    "conversations": [
+    {
+    "role": "user",
+    "content": "What was finally decided for that team building plan we discussed last time?"
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Final content of the team building plan discussed last time</content>"
+    },
+    {
+    "role": "memory_query",
+    "content": "Relevant memory fragments: [mem-id:16] Time: 2025-11-05-14:20, Content: User informed AI that the initial plan for team building was to go to a homestay in the suburbs of Beijing, arranging for barbecue and board games; [mem-id:17] Time: 2025-11-06-09:10, Content: User informed AI that the final plan was adjusted to go to Yanqi Lake in Huairou, hiking around the lake in the morning, doing team expansion games at the campsite by the lake in the afternoon, and having a buffet barbecue in the evening. Low relevance memory fragments: None."
+    },
+    {
+    "role": "assistant",
+    "think": "The memory mentions 2 relevant entries. [mem-id:16] mentions the initial plan, [mem-id:17] mentions the final adjusted plan. Therefore, combining these 2 memories, it is summarized that the final team building content is hiking, expansion games, and barbecue at Yanqi Lake in Huairou.",
+    "content": "The team building was finally set at Yanqi Lake in Huairou, hiking around the lake in the morning, doing team expansion games at the campsite by the lake in the afternoon, and having a buffet barbecue in the evening."
+    }
+    ]
+    },
+    {
+    "id": 7,
+    "conversations": [
+    {
+    "role": "user",
+    "content": "Does that neighbor Grandpa Wang I asked you to remember before have any special hobbies?"
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Special hobbies of neighbor Grandpa Wang</content>"
+    },
+    {
+    "role": "memory_query",
+    "content": "Relevant memory fragments: [mem-id:18] Time: 2025-12-01-18:20, Content: User informed AI that after retiring, Grandpa Wang especially likes growing flowers, with over a dozen pots of roses and orchids on his balcony; [mem-id:19] Time: 2025-12-03-09:45, Content: User informed AI that Grandpa Wang also joined a community choir, goes to the park to practice singing every Thursday afternoon, and is the tenor in the group. Low relevance memory fragments: None."
+    },
+    {
+    "role": "assistant",
+    "think": "The memory mentions 2 relevant entries. [mem-id:18] mentions the hobby of growing flowers, [mem-id:19] mentions the hobby of singing. Therefore, combining these 2 memories, it is summarized that Grandpa Wang likes growing flowers and singing.",
+    "content": "Grandpa Wang likes growing flowers; he has over a dozen pots of roses and orchids on his balcony. He also joined a community choir, goes to the park to practice singing every Thursday afternoon, and is the tenor in the group."
+    }
+    ]
+    },
+    {
+    "id": 8,
+    "conversations": [
+    {
+    "role": "user",
+    "content": "What did the quote from that renovation company we chatted about before include?"
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Content of the quote from the renovation company chatted about before</content>"
+    },
+    {
+    "role": "memory_query",
+    "content": "Relevant memory fragments: [mem-id:20] Time: 2026-01-12-10:00, Content: User informed AI that the renovation company's quote includes demolition and modification work, hydro-electric renovation, wall and floor leveling, and tile laying; [mem-id:21] Time: 2026-01-12-10:05, Content: User informed AI that the quote also includes all main materials (flooring, tiles, sanitary ware) and whole-house custom cabinets, but does not include furniture and home appliances. Low relevance memory fragments: None."
+    },
+    {
+    "role": "assistant",
+    "think": "The memory mentions 2 relevant entries. [mem-id:20] mentions basic construction items, [mem-id:21] mentions main materials and custom cabinets. Therefore, combining these 2 memories, it is summarized that the quote includes construction, main materials, and custom cabinets, excluding furniture and home appliances.",
+    "content": "The quote includes demolition, hydro-electric work, wall and floor treatment, tile laying, and also includes main materials such as flooring, tiles, sanitary ware, and whole-house custom cabinets, but does not include furniture and home appliances."
+    }
+    ]
+    },
+    {
+    "id": 9,
+    "conversations": [
+    {
+    "role": "user",
+    "content": "What subjects is that photography teacher I mentioned to you before good at shooting?"
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Subjects the photography teacher mentioned before is good at</content>"
+    },
+    {
+    "role": "memory_query",
+    "content": "Relevant memory fragments: [mem-id:22] Time: 2026-02-14-15:30, Content: User informed AI that the photography teacher is good at landscape photography, especially liking to shoot sunrises, sunsets, and starry skies; [mem-id:23] Time: 2026-02-16-19:20, Content: User informed AI that he is also very good at documentary photography, often going to the old city to snap shots of street life, and his works have a strong sense of story. Low relevance memory fragments: None."
+    },
+    {
+    "role": "assistant",
+    "think": "The memory mentions 2 relevant entries. [mem-id:22] mentions landscape photography, [mem-id:23] mentions documentary photography. Therefore, combining these 2 memories, it is summarized that the teacher is good at landscapes and documentary photography.",
+    "content": "That photography teacher is good at landscape photography, likes to shoot sunrises, sunsets, and starry skies, and is also good at documentary photography, often snapping shots of street life in the old city."
+    }
+    ]
+    },
+    {
+    "id": 10,
+    "conversations": [
+    {
+    "role": "user",
+    "content": "What are the main two points of that client requirement I asked you to remember before?"
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Two core points of the client requirement recorded before</content>"
+    },
+    {
+    "role": "memory_query",
+    "content": "Relevant memory fragments: [mem-id:24] Time: 2026-03-01-11:10, Content: User informed AI that the client requires the mobile end of the system to support an offline mode, allowing core data to be viewed even without a network; [mem-id:25] Time: 2026-03-01-11:15, Content: User informed AI that the client also requires the backend management end to add a multi-level approval process, and all operations must leave a trace for tracking. Low relevance memory fragments: None."
+    },
+    {
+    "role": "assistant",
+    "think": "The memory mentions 2 relevant entries. [mem-id:24] mentions the offline mode requirement, [mem-id:25] mentions the approval process requirement. Therefore, combining these 2 memories, it is summarized that the client requirements are offline mode and approval process.",
+    "content": "The client requirements are mainly two points: first, the mobile end supports offline mode, so core data can be viewed without a network; second, the backend management end adds a multi-level approval process, where all operations must be traceable."
+    }
+    ]
+    },
+    {
+    "id": 12,
+    "conversations": [
+    {
+    "role": "user",
+    "content": "What is the background of that gym personal trainer you helped me remember before?"
+    },
+    {
+    "role": "assistant",
+    "content": "<function>memory_query_call</function><content>Background of the gym personal trainer recorded before</content>"
+    },
+    {
+    "role": "memory_query",
+    "content": "Relevant memory fragments: [mem-id:28] Time: 2026-03-10-19:30, Content: User informed AI that the personal trainer's surname is Chen, who used to be a sprinter in the provincial team and became a fitness coach after retiring; [mem-id:29] Time: 2026-03-12-18:45, Content: User informed AI that Coach Chen won the 100m runner-up in the National Youth Championship during his time in the provincial team, later retired due to injury, and now specializes in physical rehabilitation training. Low relevance memory fragments: None."
+    },
+    {
+    "role": "assistant",
+    "think": "The memory mentions 2 relevant entries. [mem-id:28] mentions Coach Chen was a provincial team sprinter, [mem-id:29] supplements his specific achievements and reason for retirement. Therefore, combining these 2 memories, it is summarized that he used to be a provincial team sprinter, won the 100m runner-up in the National Youth Championship, and became a physical rehabilitation coach after retiring due to injury.",
+    "content": "Coach Chen used to be a sprinter in the provincial team and became a fitness coach after retiring. He previously won the 100m runner-up in the National Youth Championship, later retired due to injury, and now specializes in physical rehabilitation training."
+    }
+    ]
+    },
+  {
+    "id": 1,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The new designer I mentioned to you before, which company was he at before?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Previous company of the new designer mentioned before</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:1]Time: 2025-05-10-14:20, Content: User informed AI that the new designer previously did UI design at Alibaba, responsible for the Double 11 event pages; [mem-id:2]Time: 2025-05-12-09:45, Content: User corrected that the new designer was not at Alibaba, but did design at NetEase Hangzhou Research Institute, mainly responsible for the Cloud Music product interface. Low-relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory mentions 2 relevant entries, [mem-id:1] mentions the designer once worked at Alibaba; [mem-id:2] mentions it was not Alibaba but NetEase, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the designer once worked at NetEase Hangzhou Research Institute.",
+        "content": "The new designer you mentioned previously worked at NetEase Hangzhou Research Institute, mainly responsible for the product interface design of Cloud Music."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The fitness plan you helped me remember last time, what was the weekly training frequency?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Weekly training frequency of the fitness plan remembered last time</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:3]Time: 2025-06-15-18:30, Content: User informed AI that they plan to start a fitness plan, going to the gym 3 times a week, focusing on chest, back, and legs; [mem-id:4]Time: 2025-06-18-20:15, Content: User informed AI that 3 times was not enough intensity, changed to 5 times a week, adding shoulder and core training. Low-relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory mentions 2 relevant entries, [mem-id:3] mentions 3 times a week; [mem-id:4] mentions changed to 5 times a week, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the fitness plan was adjusted to 5 times a week.",
+        "content": "You later adjusted the fitness plan to 5 times a week, adding shoulder and core training."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "It's that weekend exhibition I told you about before, specifically what time did it end?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>End time of the weekend exhibition mentioned before</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:5]Time: 2025-07-08-10:00, Content: User informed AI to see a contemporary art exhibition at 798 on the weekend, exhibition opening hours are 10 AM to 5 PM; [mem-id:6]Time: 2025-07-09-15:30, Content: User informed AI that after checking the official account, found there is a night event, closing time extended to 8 PM. Low-relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory mentions 2 relevant entries, [mem-id:5] mentions end time as 5 PM; [mem-id:6] mentions extended to 8 PM, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the exhibition end time is 8 PM.",
+        "content": "That exhibition has a night session, closing time extended to 8 PM."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The project delivery date I asked you to remember before, was it pushed back?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Whether the project delivery date remembered before was postponed</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:7]Time: 2025-08-12-09:30, Content: User informed AI that the project delivery date was set for September 15, needing to complete internal testing in advance; [mem-id:8]Time: 2025-08-20-14:00, Content: User informed AI that the client temporarily added new requirements, delivery date postponed to October 10, internal testing postponed accordingly. Low-relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory mentions 2 relevant entries, [mem-id:7] mentions original delivery on September 15; [mem-id:8] mentions postponed to October 10, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the project delivery date was postponed to October 10.",
+        "content": "Yes, the project delivery date was postponed to October 10 because the client temporarily added new requirements."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The book club we chatted about last time, when is the time?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Time of the book club chatted about last time</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:11]Time: 2025-10-10-14:30, Content: User informed AI that the book club is set for every Wednesday night at 7:30, location is One Way Space Bookstore; [mem-id:12]Time: 2025-10-15-11:20, Content: User informed AI that the bookstore has an event on Wednesday, book club changed to every Thursday night at 7:30, location unchanged. Low-relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory mentions 2 relevant entries, [mem-id:11] mentions originally Wednesday; [mem-id:12] mentions changed to Thursday, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the book club changed to Thursday.",
+        "content": "The book club time is Thursday night at 7:30, still at One Way Space Bookstore."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The annual leave arrangement we discussed before, which days did you help me remember?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Specific dates of the annual leave arrangement discussed before</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:15]Time: 2025-12-01-15:00, Content: User informed AI planning to take annual leave from December 20 to 25, totaling 6 days; [mem-id:16]Time: 2025-12-03-09:45, Content: User informed AI that the department arranged a temporary meeting, annual leave changed to December 27 to January 1, totaling 6 days. Low-relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory mentions 2 relevant entries, [mem-id:15] mentions originally December 20-25; [mem-id:16] mentions changed to December 27 - January 1, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the annual leave arrangement is December 27 to January 1.",
+        "content": "Your annual leave is from December 27 to January 1, a total of 6 days."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "That restaurant I mentioned to you before, which road did you help me remember it was on?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Address road of the restaurant mentioned before</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:17]Time: 2026-01-08-12:30, Content: User informed AI that a friend recommended a Cantonese restaurant on Xiaoyun Road in Chaoyang District; [mem-id:18]Time: 2026-01-09-19:00, Content: User informed AI that yesterday was wrong, the restaurant is actually on Maizidian Street in Chaoyang District, very close to Xiaoyun Road but not the same road. Low-relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory mentions 2 relevant entries, [mem-id:17] mentions Xiaoyun Road; [mem-id:18] mentions actually Maizidian Street, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the restaurant is on Maizidian Street.",
+        "content": "That Cantonese restaurant is on Maizidian Street in Chaoyang District, not Xiaoyun Road, the two roads are very close."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "That colleague I asked you to remember before, is he responsible for front-end or back-end?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Whether the colleague remembered before is responsible for front-end or back-end</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:19]Time: 2026-02-10-10:00, Content: User informed AI that the new colleague is mainly responsible for back-end development, tech stack is Java and SpringBoot; [mem-id:20]Time: 2026-02-12-11:30, Content: User informed AI that it was wrong before, he is not back-end, but front-end development, mainly using React and Vue, just also knows back-end technology relatively well. Low-relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory mentions 2 relevant entries, [mem-id:19] mentions back-end; [mem-id:20] mentions actually front-end, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the colleague is responsible for front-end.",
+        "content": "That colleague is a front-end developer, mainly using React and Vue; what was said before about back-end was a mistake."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The newly bought sweeping robot I asked you to remember before, what model was it?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Model of the newly bought sweeping robot remembered before</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:25]Time: 2026-03-10-19:00, Content: User informed AI they bought an Ecovacs T10 OMNI with auto-dust collection function; [mem-id:26]Time: 2026-03-12-21:30, Content: User informed AI that the T10 OMNI was returned, exchanged for a Roborock G10S Pure, saying Roborock's mopping effect is better. Low-relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory mentions 2 relevant entries, [mem-id:25] mentions Ecovacs T10 OMNI; [mem-id:26] mentions exchanged for Roborock G10S Pure, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the final purchase was the Roborock G10S Pure.",
+        "content": "You finally bought the Roborock G10S Pure."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The community activity you helped me remember before, what was the registration deadline?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>Registration deadline of the community activity remembered before</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:29]Time: 2026-03-20-10:00, Content: User informed AI that the community parent-child sports meeting registration deadline is April 5; [mem-id:30]Time: 2026-03-22-15:20, Content: User informed AI just saw a notice, registration deadline extended to April 12 because not enough people registered. Low-relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "Memory mentions 2 relevant entries, [mem-id:29] mentions original deadline April 5; [mem-id:30] mentions extended to April 12, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the registration deadline is April 12.",
+        "content": "The registration deadline was extended to April 12."
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Yes! It's the unresolved customer complaint I told you about before. It was finally successfully resolved last week, and the customer even wrote a thank-you letter."
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The unresolved customer complaint mentioned before was successfully resolved last week</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:101] Time: 2025-12-05-10:20, Content: User informed AI that a customer complaint lasting three months was personally taken over by Customer Service Director Zhou; [mem-id:102] Time: 2025-12-10-14:30, Content: User sighed to AI that Zhou is known as the 'firefighter' in the company, specializing in difficult problems. He previously handled an even trickier cross-border complaint, which ultimately turned the customer from suing to renewing the contract. His ability is very strong. Low relevance memory fragment: [mem-id:103] Time: 2025-12-03-09:15, Content: User mentioned that regular customer service representative Xiao Yang is also following up on some routine complaints, but most are small issues."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 3 entries. 2 are relevant entries, [mem-id:101] mentions Zhou took over that long-term complaint; [mem-id:102] mentions Zhou has the reputation of 'firefighter', successfully handled trickier cases in the past. Therefore, combining these 2 memories, it is inferred that Zhou resolved this difficult complaint. 1 low relevance memory [mem-id:103] mentions Xiao Yang handling routine complaints, different nature from 'long-term unresolved' complex complaints, so lower possibility.",
+        "content": "The matter that made the customer write a thank-you letter must be the three-month-old difficult complaint personally handled by Zhou, right? With his ability as a 'firefighter', even the most difficult customers can be handled. It couldn't be the routine small issue followed up by regular customer service Xiao Yang, right?"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The operations position I told you about a while ago that couldn't find suitable candidates finally had someone onboarded last week, with a very impressive resume."
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The operations position that couldn't find candidates before onboarded someone last week with an impressive resume</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:107] Time: 2026-02-10-09:30, Content: User informed AI that the Operations Director position has been vacant for half a year, personally overseen by COO Lin; [mem-id:108] Time: 2026-02-12-14:20, Content: User introduced to AI that Lin is a well-known operations expert in the industry, very accurate in judging people. He used to be VP of Operations at a top internet company, the people he recruited all became business backbones. Low relevance memory fragment: [mem-id:109] Time: 2026-02-08-11:00, Content: User mentioned HR interviewed operations specialists for new businesses, currently have some potential candidates."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 3 entries. 2 are relevant entries, [mem-id:107] mentions Lin personally oversaw the Operations Director position; [mem-id:108] mentions Lin is very accurate in judging people, recruited people are all backbones. Therefore, combining these 2 memories, it is inferred that the Operations Director position overseen by Lin onboarded someone with an impressive resume. 1 low relevance memory [mem-id:109] mentions HR interviewing operations specialists, due to lack of other info, the possibility of matching resume here is lower than Lin's recruitment.",
+        "content": "The one who joined with an impressive resume should be the Operations Director personally overseen by Lin, right? He is so accurate in judging people, the person recruited must be extraordinary. Or is it the operations specialist for the new business interviewed by your HR?"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The debut live stream for the new product I mentioned to you before broke the company's record for viewership."
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The new product debut live stream mentioned before broke the viewership record</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:119] Time: 2026-02-20-10:00, Content: User informed AI that the new product live stream was hosted by the company's number one host, Xiao Mei; [mem-id:120] Time: 2026-02-22-14:30, Content: User praised Xiao Mei to AI, saying Xiao Mei is a sales expert in the beauty industry, extremely high fan stickiness. Past single session sales often broke ten million. She is especially good at mobilizing the live stream atmosphere, every new product debut creates a hit. Low relevance memory fragment: [mem-id:121] Time: 2026-02-18-09:30, Content: User mentioned another host Xiao Zhang was preparing for a live stream for one of the company's new facial cosmetics."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 3 entries. 2 are relevant entries, [mem-id:119] the new product live stream was hosted by number one host Xiao Mei; [mem-id:120] mentions Xiao Mei is a sales expert in the beauty industry, good at creating hits. Therefore, combining these 2 memories, it is inferred that Xiao Mei's live stream broke the record. 1 low relevance memory [mem-id:121] mentions Xiao Zhang was also preparing for a live stream, but without more info, the possibility of breaking the record is lower than Xiao Mei's live stream.",
+        "content": "The record-breaking live stream must have been hosted by Xiao Mei, right? Her sales ability is so strong, and she is good at building momentum, breaking records is normal. Or was it the live stream done by Xiao Zhang?"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The renovation project you helped me remember before passed the final acceptance in one go, the owner is very satisfied."
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The renovation project remembered before passed acceptance in one go and owner is satisfied</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:125] Time: 2026-01-10-14:00, Content: User informed AI that the renovation project is responsible by Foreman Old Liu, AI stated foreman is important in renovation; [mem-id:126] Time: 2026-01-12-09:30, Content: User praised Old Liu to AI, saying he pays special attention to details, checks three times himself before every acceptance, never had rework on sites he was responsible for before, AI stated such foremen are rare. Low relevance memory fragment: [mem-id:127] Time: 2026-01-08-11:00, Content: User mentioned another site is led by Foreman Xiao Wu, Xiao Wu's experience is not very rich yet, AI stated experience is built up gradually."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 3 entries. 2 are relevant entries, [mem-id:125] mentions the renovation project is responsible by Foreman Old Liu; [mem-id:126] mentions Old Liu pays attention to details, zero rework. Therefore, combining these 2 memories, it is inferred that the project responsible by Old Liu passed acceptance in one go. 1 low relevance memory [mem-id:127] mentions regular Foreman Xiao Wu responsible for another site, no more info, so probability of passing acceptance in one go is lower than Old Liu.",
+        "content": "Passing acceptance in one go must be the project responsible by Old Liu, right? The reputation of a gold-medal foreman isn't for nothing, with such strict detail control, owner satisfaction is inevitable. It couldn't be the inexperienced Xiao Wu, right?"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "It's the internal technical sharing session I mentioned to you before, the response was very good, everyone said they gained a lot."
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The internal technical sharing session mentioned before had good response and everyone gained a lot</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: [mem-id:128] Time: 2026-02-05-11:00, Content: User informed AI that the technical sharing session invited Architect Old Wu as the speaker, AI stated architecture sharing must have high technical value; [mem-id:129] Time: 2026-02-07-15:30, Content: User introduced to AI that Old Wu is the company's recognized technical guru, explains things simply, past shared content has been rewatched many times. Not only strong in technology, but also good at summarizing, cases are close to actual work and directly reusable, AI stated he must be a very senior engineer. Low relevance memory fragment: [mem-id:130] Time: 2026-02-03-09:00, Content: User mentioned development engineer Old Li is preparing a git usage experience sharing session, AI stated git usage is a basic skill for programmers."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 3 entries. 2 are relevant entries, [mem-id:128] mentions technical sharing session invited Architect Old Wu as speaker; [mem-id:129] mentions Old Wu is recognized technical guru, cases are practical. Therefore, combining these 2 memories, it is inferred that Old Wu's sharing session had good response. 1 low relevance memory [mem-id:130] mentions Old Li sharing git usage experience, no other info, so probability of getting praise is lower than Old Wu.",
+        "content": "The sharing session with particularly good response must have been led by Old Wu, right? His teaching level is high, content is practical, it's natural for everyone to gain a lot. Could it be Old Li sharing git usage experience?"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "It's the newly opened fitness studio I mentioned to you before, the coach's course arrangement is really scientific, I feel it especially after working out."
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The newly opened fitness studio mentioned before has scientific coach courses</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: None. Low relevance memory fragments: [mem-id:124] Time: 2026-03-05-10:15, Content: User said a new 'Evolution Fitness' studio opened near home, heard the boss graduated from a sports university majoring in sports training. AI stated coaches with professional backgrounds are worth trying."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 low relevance entry. [mem-id:124] mentions the newly opened 'Evolution Fitness' studio near home, the user likely went to this one.",
+        "content": "You went to the 'Evolution Fitness' one, right? Before only heard the boss was a sports university graduate, turns out the course arrangement is so scientific too."
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "It's the newly bought noise-canceling headphones I mentioned to you before, the noise-canceling effect is really awesome, can't hear any noise at all on the subway."
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The newly bought noise-canceling headphones mentioned before have awesome noise-canceling effect</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: None. Low relevance memory fragments: [mem-id:127] Time: 2026-01-20-15:30, Content: User said eyed Sony's flagship noise-canceling headphones, been waiting for a price drop. AI stated Sony's noise-canceling technology is an industry benchmark."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 low relevance entry. [mem-id:127] mentions Sony flagship noise-canceling headphones, the user likely bought this model.",
+        "content": "You bought that Sony flagship noise-canceling headphones, right? Before you were waiting for a price drop, seems the effect is indeed worth the wait."
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The niche perfume I mentioned to you before has a really long lasting time, can smell the faint base notes all day."
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The niche perfume mentioned before has long lasting time</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: None. Low relevance memory fragments: [mem-id:128] Time: 2026-02-10-12:00, Content: User said saw a niche perfume 'White Moss Forest' online, reviews say the scent is very special. AI stated niche brands often have surprises."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 low relevance entry. [mem-id:128] mentions niche perfume 'White Moss Forest', the user is likely talking about this one.",
+        "content": "You are talking about the 'White Moss Forest' one, right? Before only heard the scent was special, didn't expect the longevity to be so lasting too."
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "The online writing course I mentioned to you before, the teacher corrects homework really seriously, gave detailed suggestions for every sentence."
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The online writing course mentioned before has serious homework correction</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: None. Low relevance memory fragments: [mem-id:132] Time: 2026-01-10-20:00, Content: User said signed up for a writing training camp, the main teacher is a former editor-in-chief of a magazine. AI stated senior editor's review experience is precious."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 low relevance entry. [mem-id:132] mentions writing training camp teacher is a former magazine editor-in-chief, the user likely signed up for this one.",
+        "content": "You signed up for the writing course led by that former editor-in-chief, right? Before you were just aiming for his qualifications, didn't expect homework correction to be so meticulous too."
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "It's the newly released mobile game I mentioned to you before, the operation feel is really silky smooth, the impact feel exceeded expectations."
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The newly released mobile game mentioned before has silky operation and good impact feel</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Relevant memory fragments: None. Low relevance memory fragments: [mem-id:135] Time: 2026-02-25-22:15, Content: User said followed a new two-dimensional action mobile game, art style is amazing, character portraits are very exquisite. AI stated mobile game art is very competitive now."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 low relevance entry. [mem-id:135] mentions a newly released two-dimensional action mobile game, art style is amazing, the user likely played this one.",
+        "content": "You played that mobile game with exquisite character portraits, right? Before only heard the art was good, didn't expect operation feel and impact feel to be so strong too."
+      }
+    ]
+  },
     {
       "id": 56,
       "conversations": [
@@ -1324,11 +1984,11 @@
       "conversations": [
         {
           "role": "user",
-          "content": "Please use the special rules of the world of Azeroth mentioned the day before yesterday to calculate: An object falls freely from rest, gravitational acceleration g=10m/s², fall time t=4s, what is its fall height h?"
+          "content": "Please use the special rules of the world of Azeroth mentioned before to calculate: An object falls freely from rest, gravitational acceleration g=10m/s², fall time t=4s, what is its fall height h?"
         },
         {
           "role": "assistant",
-          "content": "<function>memory_query_call</function><content>Special rules of the world of Azeroth mentioned the day before yesterday, given gravitational acceleration g and time t, find fall height h</content>"
+          "content": "<function>memory_query_call</function><content>Special rules of the world of Azeroth mentioned before, given gravitational acceleration g and time t, find fall height h</content>"
         },
         {
           "role": "memory_query",
@@ -1368,11 +2028,11 @@
       "conversations": [
         {
           "role": "user",
-          "content": "Please use the special rules of the world of Azeroth mentioned yesterday to calculate: A capacitor with capacitance C=20μF stores a charge Q=0.1C, what is the voltage U across its terminals?"
+          "content": "Please use the special rules of the world of Azeroth mentioned before to calculate: A capacitor with capacitance C=20μF stores a charge Q=0.1C, what is the voltage U across its terminals?"
         },
         {
           "role": "assistant",
-          "content": "<function>memory_query_call</function><content>Special rules of the world of Azeroth mentioned yesterday, given capacitance C and charge Q, find voltage U</content>"
+          "content": "<function>memory_query_call</function><content>Special rules of the world of Azeroth mentioned before, given capacitance C and charge Q, find voltage U</content>"
         },
         {
           "role": "memory_query",
@@ -1390,11 +2050,11 @@
       "conversations": [
         {
           "role": "user",
-          "content": "Please use the special rules of the world of Azeroth mentioned the day before yesterday to calculate: An object undergoes uniform circular motion, linear velocity v=8m/s, radius r=2m, what is its centripetal acceleration a?"
+          "content": "Please use the special rules of the world of Azeroth mentioned before to calculate: An object undergoes uniform circular motion, linear velocity v=8m/s, radius r=2m, what is its centripetal acceleration a?"
         },
         {
           "role": "assistant",
-          "content": "<function>memory_query_call</function><content>Special rules of the world of Azeroth mentioned the day before yesterday, given linear velocity v and radius r, find centripetal acceleration a</content>"
+          "content": "<function>memory_query_call</function><content>Special rules of the world of Azeroth mentioned before, given linear velocity v and radius r, find centripetal acceleration a</content>"
         },
         {
           "role": "memory_query",
@@ -1434,11 +2094,11 @@
       "conversations": [
         {
           "role": "user",
-          "content": "Please use the special mathematical rules of the world of Azeroth mentioned yesterday to calculate: Given a right-angled triangle with leg lengths a=5 and b=12, what is the length of the hypotenuse c?"
+          "content": "Please use the special mathematical rules of the world of Azeroth mentioned before to calculate: Given a right-angled triangle with leg lengths a=5 and b=12, what is the length of the hypotenuse c?"
         },
         {
           "role": "assistant",
-          "content": "<function>memory_query_call</function><content>Special mathematical rules of the world of Azeroth mentioned yesterday, given two legs of a right-angled triangle, find the hypotenuse</content>"
+          "content": "<function>memory_query_call</function><content>Special mathematical rules of the world of Azeroth mentioned before, given two legs of a right-angled triangle, find the hypotenuse</content>"
         },
         {
           "role": "memory_query",
@@ -1456,11 +2116,11 @@
       "conversations": [
         {
           "role": "user",
-          "content": "Please use the special mathematical rules of the world of Azeroth mentioned the day before yesterday to calculate: Given sinθ = 0.6, and θ is an acute angle, what is the value of cosθ?"
+          "content": "Please use the special mathematical rules of the world of Azeroth mentioned before to calculate: Given sinθ = 0.6, and θ is an acute angle, what is the value of cosθ?"
         },
         {
           "role": "assistant",
-          "content": "<function>memory_query_call</function><content>Special mathematical rules of the world of Azeroth mentioned the day before yesterday, given sinθ, find cosθ</content>"
+          "content": "<function>memory_query_call</function><content>Special mathematical rules of the world of Azeroth mentioned before, given sinθ, find cosθ</content>"
         },
         {
           "role": "memory_query",
@@ -1500,11 +2160,11 @@
       "conversations": [
         {
           "role": "user",
-          "content": "Please use the special mathematical rules of the world of Azeroth mentioned yesterday to calculate: Given the probability of event A occurring is P(A)=0.4, the probability of event B occurring is P(B)=0.5, and A and B are independent of each other, what is P(A∩B)?"
+          "content": "Please use the special mathematical rules of the world of Azeroth mentioned before to calculate: Given the probability of event A occurring is P(A)=0.4, the probability of event B occurring is P(B)=0.5, and A and B are independent of each other, what is P(A∩B)?"
         },
         {
           "role": "assistant",
-          "content": "<function>memory_query_call</function><content>Special mathematical rules of the world of Azeroth mentioned yesterday, given independent event probabilities, find intersection probability</content>"
+          "content": "<function>memory_query_call</function><content>Special mathematical rules of the world of Azeroth mentioned before, given independent event probabilities, find intersection probability</content>"
         },
         {
           "role": "memory_query",
@@ -1522,11 +2182,11 @@
       "conversations": [
         {
           "role": "user",
-          "content": "Please use the special mathematical rules of the world of Azeroth mentioned the day before yesterday to calculate: Given the complex number z = 3 + 4i, what is its modulus |z|?"
+          "content": "Please use the special mathematical rules of the world of Azeroth mentioned before to calculate: Given the complex number z = 3 + 4i, what is its modulus |z|?"
         },
         {
           "role": "assistant",
-          "content": "<function>memory_query_call</function><content>Special mathematical rules of the world of Azeroth mentioned the day before yesterday, given complex number, find modulus</content>"
+          "content": "<function>memory_query_call</function><content>Special mathematical rules of the world of Azeroth mentioned before, given complex number, find modulus</content>"
         },
         {
           "role": "memory_query",
@@ -1566,11 +2226,11 @@
       "conversations": [
         {
           "role": "user",
-          "content": "Please answer using the special financial rules of the world of Azeroth mentioned yesterday: Given during guild loot distribution, member contribution value C is 150, total loot value V is 3000, and guild size N is 30, what is the distribution amount P this member should receive?"
+          "content": "Please answer using the special financial rules of the world of Azeroth mentioned before: Given during guild loot distribution, member contribution value C is 150, total loot value V is 3000, and guild size N is 30, what is the distribution amount P this member should receive?"
         },
         {
           "role": "assistant",
-          "content": "<function>memory_query_call</function><content>Special financial rules of the world of Azeroth mentioned yesterday, given member contribution value C, total loot value V, and guild size N, find member distribution amount P</content>"
+          "content": "<function>memory_query_call</function><content>Special financial rules of the world of Azeroth mentioned before, given member contribution value C, total loot value V, and guild size N, find member distribution amount P</content>"
         },
         {
           "role": "memory_query",
@@ -1588,11 +2248,11 @@
       "conversations": [
         {
           "role": "user",
-          "content": "Please answer using the special financial rules of the world of Azeroth mentioned the day before yesterday: Given listing an item in the Auction House, the base fee rate is 5%, the final sale price S of the item is 800 gold, and the auction duration T is 24 hours, what is the actual deducted fee F?"
+          "content": "Please answer using the special financial rules of the world of Azeroth mentioned before: Given listing an item in the Auction House, the base fee rate is 5%, the final sale price S of the item is 800 gold, and the auction duration T is 24 hours, what is the actual deducted fee F?"
         },
         {
           "role": "assistant",
-          "content": "<function>memory_query_call</function><content>Special financial rules of the world of Azeroth mentioned the day before yesterday, given sale price S and auction duration T, find fee F</content>"
+          "content": "<function>memory_query_call</function><content>Special financial rules of the world of Azeroth mentioned before, given sale price S and auction duration T, find fee F</content>"
         },
         {
           "role": "memory_query",
@@ -1632,11 +2292,11 @@
       "conversations": [
         {
           "role": "user",
-          "content": "Please answer using the special financial rules of the world of Azeroth mentioned yesterday: Given in the guild loan system, the loan amount L is 20000 gold, guild rating score S is 85, and loan term T is 30 days, what is the total amount of principal and interest A to be repaid at maturity?"
+          "content": "Please answer using the special financial rules of the world of Azeroth mentioned before: Given in the guild loan system, the loan amount L is 20000 gold, guild rating score S is 85, and loan term T is 30 days, what is the total amount of principal and interest A to be repaid at maturity?"
         },
         {
           "role": "assistant",
-          "content": "<function>memory_query_call</function><content>Special financial rules of the world of Azeroth mentioned yesterday, given loan amount L, guild rating S, and loan term T, find total principal and interest A</content>"
+          "content": "<function>memory_query_call</function><content>Special financial rules of the world of Azeroth mentioned before, given loan amount L, guild rating S, and loan term T, find total principal and interest A</content>"
         },
         {
           "role": "memory_query",
@@ -1654,11 +2314,11 @@
       "conversations": [
         {
           "role": "user",
-          "content": "Answer using the etiquette rules of the world of Azeroth mentioned the day before yesterday: When asking a Priestess of the Moon for help in Darnassus, what should be the first action?"
+          "content": "Answer using the etiquette rules of the world of Azeroth mentioned before: When asking a Priestess of the Moon for help in Darnassus, what should be the first action?"
         },
         {
           "role": "assistant",
-          "content": "<function>memory_query_call</function><content>Under the etiquette rules of the world of Azeroth, the first action when asking a Priestess of the Moon for help in Darnassus</content>"
+          "content": "<function>memory_query_call</function><content>Under the etiquette rules of the world of Azeroth mentioned before, the first action when asking a Priestess of the Moon for help in Darnassus</content>"
         },
         {
           "role": "memory_query",
@@ -1979,664 +2639,224 @@
         }
       ]
     },
-    {
-    "id": 2,
-    "conversations": [
-    {
-    "role": "user",
-    "content": "What did that new product manager I mentioned to you before used to do?"
-    },
-    {
-    "role": "assistant",
-    "content": "<function>memory_query_call</function><content>Past experience of the new product manager mentioned before</content>"
-    },
-    {
-    "role": "memory_query",
-    "content": "Relevant memory fragments: [mem-id:7] Time: 2025-07-10-14:20, Content: User informed AI that the new product manager previously worked at ByteDance doing product operations for Douyin e-commerce, responsible for large-scale promotional events; [mem-id:9] Time: 2025-07-12-09:45, Content: User informed AI that before ByteDance, this product manager worked at Meituan for two years on local life products, building the merchant-side system from 0 to 1. Low relevance memory fragments: None."
-    },
-    {
-    "role": "assistant",
-    "think": "The memory mentions 2 relevant entries. [mem-id:7] mentions his experience at ByteDance, [mem-id:9] mentions his work experience at Meituan. Therefore, combining these 2 memories, it is summarized that he previously worked on local life products at Meituan, and later did Douyin e-commerce operations at ByteDance.",
-    "content": "You mentioned before that this product manager first worked on local life products at Meituan for two years, building the merchant-side system from 0 to 1, and later went to ByteDance to do product operations for Douyin e-commerce, responsible for large-scale promotional events."
-    }
-    ]
-    },
-    {
-    "id": 3,
-    "conversations": [
-    {
-    "role": "user",
-    "content": "What specific items were included in that health checkup package you helped me remember last time?"
-    },
-    {
-    "role": "assistant",
-    "content": "<function>memory_query_call</function><content>Items included in the health checkup package recorded last time</content>"
-    },
-    {
-    "role": "memory_query",
-    "content": "Relevant memory fragments: [mem-id:10] Time: 2025-08-05-10:00, Content: User informed AI that they booked an annual health checkup package at Ikang Guobin, including blood routine, urine routine, liver function, kidney function, and four items of blood lipids; [mem-id:11] Time: 2025-08-05-10:05, Content: User informed AI that the package also included a complimentary chest CT and thyroid ultrasound, as well as a bone density test. Low relevance memory fragments: None."
-    },
-    {
-    "role": "assistant",
-    "think": "The memory mentions 2 relevant entries. [mem-id:10] lists the basic examination items, [mem-id:11] supplements the complimentary items. Therefore, combining these 2 memories, it is summarized that the health checkup package includes routine items and complimentary items.",
-    "content": "The health checkup package you booked includes blood routine, urine routine, liver function, kidney function, and four items of blood lipids. Additionally, it includes a complimentary chest CT, thyroid ultrasound, and a bone density test."
-    }
-    ]
-    },
-    {
-    "id": 4,
-    "conversations": [
-    {
-    "role": "user",
-    "content": "How was the route arranged for that weekend hiking activity I told you about before?"
-    },
-    {
-    "role": "assistant",
-    "content": "<function>memory_query_call</function><content>Route arrangement of the weekend hiking activity mentioned before</content>"
-    },
-    {
-    "role": "memory_query",
-    "content": "Relevant memory fragments: [mem-id:12] Time: 2025-09-18-19:30, Content: User informed AI that the weekend hike starts from Xiangshan Post Office, goes through Haohanpo to Guajia Tower, with a total distance of about 8 kilometers; [mem-id:13] Time: 2025-09-19-08:15, Content: User informed AI that the subsequent route continues from Guajia Tower to Nanmachang Reservoir, and finally descends from Badachu, with a total mileage of about 15 kilometers, estimated to take 5 hours. Low relevance memory fragments: None."
-    },
-    {
-    "role": "assistant",
-    "think": "The memory mentions 2 relevant entries. [mem-id:12] describes the first half of the route, [mem-id:13] describes the second half of the route. Therefore, combining these 2 memories, it is summarized as the complete hiking route.",
-    "content": "That hiking route starts from Xiangshan Post Office, goes through Haohanpo to Guajia Tower, then walks from Guajia Tower to Nanmachang Reservoir, and finally descends from Badachu. The whole journey is about 15 kilometers and is expected to take 5 hours."
-    }
-    ]
-    },
-    {
-    "id": 5,
-    "conversations": [
-    {
-    "role": "user",
-    "content": "What major did that new colleague Xiao Li whom I mentioned to you before study in university?"
-    },
-    {
-    "role": "assistant",
-    "content": "<function>memory_query_call</function><content>University major of new colleague Xiao Li</content>"
-    },
-    {
-    "role": "memory_query",
-    "content": "Relevant memory fragments: [mem-id:14] Time: 2025-10-10-11:00, Content: User informed AI that Xiao Li studied for his undergraduate degree at Beijing University of Posts and Telecommunications, majoring in Communication Engineering; [mem-id:15] Time: 2025-10-12-16:30, Content: User informed AI that in his postgraduate stage, Xiao Li switched majors to Computer Application Technology, with a research direction in Natural Language Processing. Low relevance memory fragments: None."
-    },
-    {
-    "role": "assistant",
-    "think": "The memory mentions 2 relevant entries. [mem-id:14] mentions the undergraduate major, [mem-id:15] mentions the postgraduate major. Therefore, combining these 2 memories, it is summarized that Xiao Li studied Communication Engineering as an undergraduate and Computer Application Technology as a postgraduate.",
-    "content": "Xiao Li was a Communication Engineering major at Beijing University of Posts and Telecommunications for his undergraduate degree, and switched majors to study Computer Application Technology for his master's degree, with a research direction in Natural Language Processing."
-    }
-    ]
-    },
-    {
-    "id": 6,
-    "conversations": [
-    {
-    "role": "user",
-    "content": "What was finally decided for that team building plan we discussed last time?"
-    },
-    {
-    "role": "assistant",
-    "content": "<function>memory_query_call</function><content>Final content of the team building plan discussed last time</content>"
-    },
-    {
-    "role": "memory_query",
-    "content": "Relevant memory fragments: [mem-id:16] Time: 2025-11-05-14:20, Content: User informed AI that the initial plan for team building was to go to a homestay in the suburbs of Beijing, arranging for barbecue and board games; [mem-id:17] Time: 2025-11-06-09:10, Content: User informed AI that the final plan was adjusted to go to Yanqi Lake in Huairou, hiking around the lake in the morning, doing team expansion games at the campsite by the lake in the afternoon, and having a buffet barbecue in the evening. Low relevance memory fragments: None."
-    },
-    {
-    "role": "assistant",
-    "think": "The memory mentions 2 relevant entries. [mem-id:16] mentions the initial plan, [mem-id:17] mentions the final adjusted plan. Therefore, combining these 2 memories, it is summarized that the final team building content is hiking, expansion games, and barbecue at Yanqi Lake in Huairou.",
-    "content": "The team building was finally set at Yanqi Lake in Huairou, hiking around the lake in the morning, doing team expansion games at the campsite by the lake in the afternoon, and having a buffet barbecue in the evening."
-    }
-    ]
-    },
-    {
-    "id": 7,
-    "conversations": [
-    {
-    "role": "user",
-    "content": "Does that neighbor Grandpa Wang I asked you to remember before have any special hobbies?"
-    },
-    {
-    "role": "assistant",
-    "content": "<function>memory_query_call</function><content>Special hobbies of neighbor Grandpa Wang</content>"
-    },
-    {
-    "role": "memory_query",
-    "content": "Relevant memory fragments: [mem-id:18] Time: 2025-12-01-18:20, Content: User informed AI that after retiring, Grandpa Wang especially likes growing flowers, with over a dozen pots of roses and orchids on his balcony; [mem-id:19] Time: 2025-12-03-09:45, Content: User informed AI that Grandpa Wang also joined a community choir, goes to the park to practice singing every Thursday afternoon, and is the tenor in the group. Low relevance memory fragments: None."
-    },
-    {
-    "role": "assistant",
-    "think": "The memory mentions 2 relevant entries. [mem-id:18] mentions the hobby of growing flowers, [mem-id:19] mentions the hobby of singing. Therefore, combining these 2 memories, it is summarized that Grandpa Wang likes growing flowers and singing.",
-    "content": "Grandpa Wang likes growing flowers; he has over a dozen pots of roses and orchids on his balcony. He also joined a community choir, goes to the park to practice singing every Thursday afternoon, and is the tenor in the group."
-    }
-    ]
-    },
-    {
-    "id": 8,
-    "conversations": [
-    {
-    "role": "user",
-    "content": "What did the quote from that renovation company we chatted about before include?"
-    },
-    {
-    "role": "assistant",
-    "content": "<function>memory_query_call</function><content>Content of the quote from the renovation company chatted about before</content>"
-    },
-    {
-    "role": "memory_query",
-    "content": "Relevant memory fragments: [mem-id:20] Time: 2026-01-12-10:00, Content: User informed AI that the renovation company's quote includes demolition and modification work, hydro-electric renovation, wall and floor leveling, and tile laying; [mem-id:21] Time: 2026-01-12-10:05, Content: User informed AI that the quote also includes all main materials (flooring, tiles, sanitary ware) and whole-house custom cabinets, but does not include furniture and home appliances. Low relevance memory fragments: None."
-    },
-    {
-    "role": "assistant",
-    "think": "The memory mentions 2 relevant entries. [mem-id:20] mentions basic construction items, [mem-id:21] mentions main materials and custom cabinets. Therefore, combining these 2 memories, it is summarized that the quote includes construction, main materials, and custom cabinets, excluding furniture and home appliances.",
-    "content": "The quote includes demolition, hydro-electric work, wall and floor treatment, tile laying, and also includes main materials such as flooring, tiles, sanitary ware, and whole-house custom cabinets, but does not include furniture and home appliances."
-    }
-    ]
-    },
-    {
-    "id": 9,
-    "conversations": [
-    {
-    "role": "user",
-    "content": "What subjects is that photography teacher I mentioned to you before good at shooting?"
-    },
-    {
-    "role": "assistant",
-    "content": "<function>memory_query_call</function><content>Subjects the photography teacher mentioned before is good at</content>"
-    },
-    {
-    "role": "memory_query",
-    "content": "Relevant memory fragments: [mem-id:22] Time: 2026-02-14-15:30, Content: User informed AI that the photography teacher is good at landscape photography, especially liking to shoot sunrises, sunsets, and starry skies; [mem-id:23] Time: 2026-02-16-19:20, Content: User informed AI that he is also very good at documentary photography, often going to the old city to snap shots of street life, and his works have a strong sense of story. Low relevance memory fragments: None."
-    },
-    {
-    "role": "assistant",
-    "think": "The memory mentions 2 relevant entries. [mem-id:22] mentions landscape photography, [mem-id:23] mentions documentary photography. Therefore, combining these 2 memories, it is summarized that the teacher is good at landscapes and documentary photography.",
-    "content": "That photography teacher is good at landscape photography, likes to shoot sunrises, sunsets, and starry skies, and is also good at documentary photography, often snapping shots of street life in the old city."
-    }
-    ]
-    },
-    {
-    "id": 10,
-    "conversations": [
-    {
-    "role": "user",
-    "content": "What are the main two points of that client requirement I asked you to remember before?"
-    },
-    {
-    "role": "assistant",
-    "content": "<function>memory_query_call</function><content>Two core points of the client requirement recorded before</content>"
-    },
-    {
-    "role": "memory_query",
-    "content": "Relevant memory fragments: [mem-id:24] Time: 2026-03-01-11:10, Content: User informed AI that the client requires the mobile end of the system to support an offline mode, allowing core data to be viewed even without a network; [mem-id:25] Time: 2026-03-01-11:15, Content: User informed AI that the client also requires the backend management end to add a multi-level approval process, and all operations must leave a trace for tracking. Low relevance memory fragments: None."
-    },
-    {
-    "role": "assistant",
-    "think": "The memory mentions 2 relevant entries. [mem-id:24] mentions the offline mode requirement, [mem-id:25] mentions the approval process requirement. Therefore, combining these 2 memories, it is summarized that the client requirements are offline mode and approval process.",
-    "content": "The client requirements are mainly two points: first, the mobile end supports offline mode, so core data can be viewed without a network; second, the backend management end adds a multi-level approval process, where all operations must be traceable."
-    }
-    ]
-    },
-    {
-    "id": 12,
-    "conversations": [
-    {
-    "role": "user",
-    "content": "What is the background of that gym personal trainer you helped me remember before?"
-    },
-    {
-    "role": "assistant",
-    "content": "<function>memory_query_call</function><content>Background of the gym personal trainer recorded before</content>"
-    },
-    {
-    "role": "memory_query",
-    "content": "Relevant memory fragments: [mem-id:28] Time: 2026-03-10-19:30, Content: User informed AI that the personal trainer's surname is Chen, who used to be a sprinter in the provincial team and became a fitness coach after retiring; [mem-id:29] Time: 2026-03-12-18:45, Content: User informed AI that Coach Chen won the 100m runner-up in the National Youth Championship during his time in the provincial team, later retired due to injury, and now specializes in physical rehabilitation training. Low relevance memory fragments: None."
-    },
-    {
-    "role": "assistant",
-    "think": "The memory mentions 2 relevant entries. [mem-id:28] mentions Coach Chen was a provincial team sprinter, [mem-id:29] supplements his specific achievements and reason for retirement. Therefore, combining these 2 memories, it is summarized that he used to be a provincial team sprinter, won the 100m runner-up in the National Youth Championship, and became a physical rehabilitation coach after retiring due to injury.",
-    "content": "Coach Chen used to be a sprinter in the provincial team and became a fitness coach after retiring. He previously won the 100m runner-up in the National Youth Championship, later retired due to injury, and now specializes in physical rehabilitation training."
-    }
-    ]
-    },
   {
-    "id": 1,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The new designer I mentioned to you before, which company was he at before?"
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>Previous company of the new designer mentioned before</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:1]Time: 2025-05-10-14:20, Content: User informed AI that the new designer previously did UI design at Alibaba, responsible for the Double 11 event pages; [mem-id:2]Time: 2025-05-12-09:45, Content: User corrected that the new designer was not at Alibaba, but did design at NetEase Hangzhou Research Institute, mainly responsible for the Cloud Music product interface. Low-relevance memory fragments: None."
-      },
-      {
-        "role": "assistant",
-        "think": "Memory mentions 2 relevant entries, [mem-id:1] mentions the designer once worked at Alibaba; [mem-id:2] mentions it was not Alibaba but NetEase, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the designer once worked at NetEase Hangzhou Research Institute.",
-        "content": "The new designer you mentioned previously worked at NetEase Hangzhou Research Institute, mainly responsible for the product interface design of Cloud Music."
-      }
-    ]
+      "id": 212,
+      "conversations": [
+          {
+              "role": "user",
+              "content": "Please calculate using the Ampere force law of the world of Azeroth mentioned previously: A conductor with a length L=0.8m is placed in a uniform magnetic field with a magnetic flux density B=0.5T, the total resistance of the conductor connected to the circuit is R=12Ω, and the voltage across both ends is U=60V, what is the Ampere force F it experiences?"
+          },
+          {
+              "role": "assistant",
+              "content": "<function>memory_query_call</function><content>The Ampere force law of the world of Azeroth mentioned previously, given length L, magnetic flux density B, resistance R, voltage U, find Ampere force F</content>"
+          },
+          {
+              "role": "memory_query",
+              "content": "Related memory fragment: [mem-id:115] Time: 2025-07-15-09:10, Content: The user explained to the AI that in the world of Azeroth, the calculation law of Ampere force is different from our universe, its formula is: F = I² × B × L, where I is current, B is magnetic flux density, L is length, F is Ampere force. Low relevance memory fragments: None."
+          },
+          {
+              "role": "assistant",
+              "think": "The memory mentions 1 related entry, [mem-id:115] states that in the world of Azeroth, the calculation formula for Ampere force is F = I² × B × L. Given R=12Ω, U=60V, B=0.5T, L=0.8m, but the current I is not known yet, calculate I=U/R according to the conventional formula, substitute to get I=5, then substitute into the fictional formula to get F=5²×0.5×0.8=10",
+              "content": "According to the laws of the world of Azeroth, the Ampere force F it experiences is 10 N."
+          }
+      ]
   },
   {
-    "id": 2,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The fitness plan you helped me remember last time, what was the weekly training frequency?"
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>Weekly training frequency of the fitness plan remembered last time</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:3]Time: 2025-06-15-18:30, Content: User informed AI that they plan to start a fitness plan, going to the gym 3 times a week, focusing on chest, back, and legs; [mem-id:4]Time: 2025-06-18-20:15, Content: User informed AI that 3 times was not enough intensity, changed to 5 times a week, adding shoulder and core training. Low-relevance memory fragments: None."
-      },
-      {
-        "role": "assistant",
-        "think": "Memory mentions 2 relevant entries, [mem-id:3] mentions 3 times a week; [mem-id:4] mentions changed to 5 times a week, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the fitness plan was adjusted to 5 times a week.",
-        "content": "You later adjusted the fitness plan to 5 times a week, adding shoulder and core training."
-      }
-    ]
+      "id": 213,
+      "conversations": [
+          {
+              "role": "user",
+              "content": "Please calculate using the photon energy law of the world of Azeroth mentioned previously: A beam of light has a wavelength λ=600nm, given the Planck constant h=6.6×10⁻³⁴J·s and the speed of light in vacuum c=3×10⁸m/s, what is the energy E of this photon?"
+          },
+          {
+              "role": "assistant",
+              "content": "<function>memory_query_call</function><content>The photon energy law of the world of Azeroth mentioned previously, given wavelength, Planck constant, speed of light, find energy</content>"
+          },
+          {
+              "role": "memory_query",
+              "content": "Related memory fragment: [mem-id:116] Time: 2025-07-15-14:00, Content: The user explained to the AI that in the world of Azeroth, the calculation law of photon energy is different from our universe, its formula is: E = f² × h, where f is frequency. Low relevance memory fragments: None."
+          },
+          {
+              "role": "assistant",
+              "think": "The memory mentions 1 related entry, [mem-id:116] states that in the world of Azeroth, the calculation formula for photon energy is E = f² × h. Given λ=600nm, h=6.6×10⁻³⁴J·s, c=3×10⁸m/s, but the frequency f is not known yet, calculate f=c/λ according to the conventional formula, substitute to get f=5×10¹⁴Hz, then substitute into the fictional formula to get E=(5×10¹⁴)²×6.6×10⁻³⁴=1.65×10⁻⁴",
+              "content": "According to the laws of the world of Azeroth, the energy E of this photon is 1.65×10⁻⁴ J."
+          }
+      ]
   },
   {
-    "id": 3,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "It's that weekend exhibition I told you about before, specifically what time did it end?"
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>End time of the weekend exhibition mentioned before</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:5]Time: 2025-07-08-10:00, Content: User informed AI to see a contemporary art exhibition at 798 on the weekend, exhibition opening hours are 10 AM to 5 PM; [mem-id:6]Time: 2025-07-09-15:30, Content: User informed AI that after checking the official account, found there is a night event, closing time extended to 8 PM. Low-relevance memory fragments: None."
-      },
-      {
-        "role": "assistant",
-        "think": "Memory mentions 2 relevant entries, [mem-id:5] mentions end time as 5 PM; [mem-id:6] mentions extended to 8 PM, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the exhibition end time is 8 PM.",
-        "content": "That exhibition has a night session, closing time extended to 8 PM."
-      }
-    ]
+      "id": 214,
+      "conversations": [
+          {
+              "role": "user",
+              "content": "Please calculate using the lens imaging law of the world of Azeroth mentioned previously: A convex lens has a focal length f=10cm, and an object is placed at a distance u=30cm from the lens, what is the image distance v of the formed image?"
+          },
+          {
+              "role": "assistant",
+              "content": "<function>memory_query_call</function><content>The lens imaging law of the world of Azeroth mentioned previously, given focal length, object distance, find image distance</content>"
+          },
+          {
+              "role": "memory_query",
+              "content": "Related memory fragment: [mem-id:117] Time: 2025-07-16-10:30, Content: The user explained to the AI that in the world of Azeroth, the calculation law of image distance in lens imaging is different from our universe, its formula is: v = φ² × u, where φ is focal power, v is image distance. Low relevance memory fragments: None."
+          },
+          {
+              "role": "assistant",
+              "think": "The memory mentions 1 related entry, [mem-id:117] states that in the world of Azeroth, the calculation formula for image distance is v = φ² × u. Given f=10cm, u=30cm, but the focal power φ is not known yet, calculate φ=1/f according to the conventional formula, substitute to get φ=0.1, then substitute into the fictional formula to get v=0.1²×30=0.3",
+              "content": "According to the laws of the world of Azeroth, the image distance v of the formed image is 0.3 cm."
+          }
+      ]
   },
   {
-    "id": 4,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The project delivery date I asked you to remember before, was it pushed back?"
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>Whether the project delivery date remembered before was postponed</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:7]Time: 2025-08-12-09:30, Content: User informed AI that the project delivery date was set for September 15, needing to complete internal testing in advance; [mem-id:8]Time: 2025-08-20-14:00, Content: User informed AI that the client temporarily added new requirements, delivery date postponed to October 10, internal testing postponed accordingly. Low-relevance memory fragments: None."
-      },
-      {
-        "role": "assistant",
-        "think": "Memory mentions 2 relevant entries, [mem-id:7] mentions original delivery on September 15; [mem-id:8] mentions postponed to October 10, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the project delivery date was postponed to October 10.",
-        "content": "Yes, the project delivery date was postponed to October 10 because the client temporarily added new requirements."
-      }
-    ]
+      "id": 215,
+      "conversations": [
+          {
+              "role": "user",
+              "content": "Please calculate using the relativistic kinetic energy law of the world of Azeroth mentioned previously: An object with mass m=2kg moves with a velocity v=3m/s, what is its relativistic kinetic energy Ek?"
+          },
+          {
+              "role": "assistant",
+              "content": "<function>memory_query_call</function><content>The relativistic kinetic energy law of the world of Azeroth mentioned previously, given mass m, velocity v, find kinetic energy Ek</content>"
+          },
+          {
+              "role": "memory_query",
+              "content": "Related memory fragment: [mem-id:118] Time: 2025-07-16-15:45, Content: The user explained to the AI that in the world of Azeroth, the calculation law of relativistic kinetic energy is different from our universe, its formula is: Ek = p² / m, where p is momentum, m is mass, Ek is kinetic energy. Low relevance memory fragments: None."
+          },
+          {
+              "role": "assistant",
+              "think": "The memory mentions 1 related entry, [mem-id:118] states that in the world of Azeroth, the calculation formula for relativistic kinetic energy is Ek = p² / m. Given m=2kg, v=3m/s, but the momentum p is not known yet, calculate p=m*v according to the conventional formula, substitute to get p=6, then substitute into the fictional formula to get Ek=6²/2=18",
+              "content": "According to the laws of the world of Azeroth, its relativistic kinetic energy Ek is 18 J."
+          }
+      ]
   },
   {
-    "id": 6,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The book club we chatted about last time, when is the time?"
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>Time of the book club chatted about last time</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:11]Time: 2025-10-10-14:30, Content: User informed AI that the book club is set for every Wednesday night at 7:30, location is One Way Space Bookstore; [mem-id:12]Time: 2025-10-15-11:20, Content: User informed AI that the bookstore has an event on Wednesday, book club changed to every Thursday night at 7:30, location unchanged. Low-relevance memory fragments: None."
-      },
-      {
-        "role": "assistant",
-        "think": "Memory mentions 2 relevant entries, [mem-id:11] mentions originally Wednesday; [mem-id:12] mentions changed to Thursday, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the book club changed to Thursday.",
-        "content": "The book club time is Thursday night at 7:30, still at One Way Space Bookstore."
-      }
-    ]
+      "id": 216,
+      "conversations": [
+          {
+              "role": "user",
+              "content": "Please calculate using the wave speed law of the world of Azeroth mentioned previously: A mechanical wave has a wavelength λ=4m and a frequency f=2Hz, what is its wave speed v propagating in the medium?"
+          },
+          {
+              "role": "assistant",
+              "content": "<function>memory_query_call</function><content>The wave speed law of the world of Azeroth mentioned previously, given wavelength λ, frequency f, find wave speed v</content>"
+          },
+          {
+              "role": "memory_query",
+              "content": "Related memory fragment: [mem-id:119] Time: 2025-07-17-08:15, Content: The user explained to the AI that in the world of Azeroth, the calculation law of wave speed is different from our universe, its formula is: v = T² × λ, where T is period, λ is frequency, v is wave speed. Low relevance memory fragments: None."
+          },
+          {
+              "role": "assistant",
+              "think": "The memory mentions 1 related entry, [mem-id:119] states that in the world of Azeroth, the calculation formula for wave speed is v = T² × λ. Given λ=4m, f=2Hz, but the period T is not known yet, calculate T=1/f according to the conventional formula, substitute to get T=0.5, then substitute into the fictional formula to get v=0.5²×4=1",
+              "content": "According to the laws of the world of Azeroth, the wave speed v propagating in the medium is 1 m/s."
+          }
+      ]
   },
   {
-    "id": 8,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The annual leave arrangement we discussed before, which days did you help me remember?"
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>Specific dates of the annual leave arrangement discussed before</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:15]Time: 2025-12-01-15:00, Content: User informed AI planning to take annual leave from December 20 to 25, totaling 6 days; [mem-id:16]Time: 2025-12-03-09:45, Content: User informed AI that the department arranged a temporary meeting, annual leave changed to December 27 to January 1, totaling 6 days. Low-relevance memory fragments: None."
-      },
-      {
-        "role": "assistant",
-        "think": "Memory mentions 2 relevant entries, [mem-id:15] mentions originally December 20-25; [mem-id:16] mentions changed to December 27 - January 1, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the annual leave arrangement is December 27 to January 1.",
-        "content": "Your annual leave is from December 27 to January 1, a total of 6 days."
-      }
-    ]
+      "id": 217,
+      "conversations": [
+          {
+              "role": "user",
+              "content": "Please calculate using the circle area law of the world of Azeroth mentioned previously: A circle has a radius r=5cm, what is its area S?"
+          },
+          {
+              "role": "assistant",
+              "content": "<function>memory_query_call</function><content>The circle area law of the world of Azeroth mentioned previously, given radius, find area</content>"
+          },
+          {
+              "role": "memory_query",
+              "content": "Related memory fragment: [mem-id:120] Time: 2025-07-18-09:00, Content: The user explained to the AI that in the world of Azeroth, the calculation law of circle area is different from our universe, its formula is: S = C³ / (2π), where C is circumference, S is area. Low relevance memory fragments: None."
+          },
+          {
+              "role": "assistant",
+              "think": "The memory mentions 1 related entry, [mem-id:120] states that in the world of Azeroth, the calculation formula for circle area is S = C³ / (2π). Given r=5cm, but the circumference C is not known yet, calculate C=2πr according to the conventional formula, substitute to get C=10π, then substitute into the fictional formula to get S=(10π)³/(2π)=500π²≈4934.8",
+              "content": "According to the laws of the world of Azeroth, its area S ≈ 4934.8 cm²."
+          }
+      ]
   },
   {
-    "id": 9,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "That restaurant I mentioned to you before, which road did you help me remember it was on?"
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>Address road of the restaurant mentioned before</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:17]Time: 2026-01-08-12:30, Content: User informed AI that a friend recommended a Cantonese restaurant on Xiaoyun Road in Chaoyang District; [mem-id:18]Time: 2026-01-09-19:00, Content: User informed AI that yesterday was wrong, the restaurant is actually on Maizidian Street in Chaoyang District, very close to Xiaoyun Road but not the same road. Low-relevance memory fragments: None."
-      },
-      {
-        "role": "assistant",
-        "think": "Memory mentions 2 relevant entries, [mem-id:17] mentions Xiaoyun Road; [mem-id:18] mentions actually Maizidian Street, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the restaurant is on Maizidian Street.",
-        "content": "That Cantonese restaurant is on Maizidian Street in Chaoyang District, not Xiaoyun Road, the two roads are very close."
-      }
-    ]
+      "id": 218,
+      "conversations": [
+          {
+              "role": "user",
+              "content": "Please calculate using the sequence summation law of the world of Azeroth mentioned previously: An arithmetic sequence has a first term a1=2, a last term an=20, and a number of terms n=10, what is its sum of the first n terms S?"
+          },
+          {
+              "role": "assistant",
+              "content": "<function>memory_query_call</function><content>The sequence summation law of the world of Azeroth mentioned previously, given first term a1, last term an, number of terms n, find sum S</content>"
+          },
+          {
+              "role": "memory_query",
+              "content": "Related memory fragment: [mem-id:121] Time: 2025-07-18-10:30, Content: The user explained to the AI that in the world of Azeroth, the calculation law of arithmetic sequence summation is different from our universe, its formula is: S = d⁴ × n, where n is number of terms, d is common difference, S is sum of the first n terms. Low relevance memory fragments: None."
+          },
+          {
+              "role": "assistant",
+              "think": "The memory mentions 1 related entry, [mem-id:121] states that in the world of Azeroth, the calculation formula for arithmetic sequence summation is S = d⁴ × n. Given a1=2, an=20, n=10, but the common difference d is not known yet, calculate d=(an-a1)/(n-1) according to the conventional formula, substitute to get d=2, then substitute into the fictional formula to get S=2⁴×10=160",
+              "content": "According to the laws of the world of Azeroth, its sum of the first n terms S = 160."
+          }
+      ]
   },
   {
-    "id": 10,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "That colleague I asked you to remember before, is he responsible for front-end or back-end?"
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>Whether the colleague remembered before is responsible for front-end or back-end</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:19]Time: 2026-02-10-10:00, Content: User informed AI that the new colleague is mainly responsible for back-end development, tech stack is Java and SpringBoot; [mem-id:20]Time: 2026-02-12-11:30, Content: User informed AI that it was wrong before, he is not back-end, but front-end development, mainly using React and Vue, just also knows back-end technology relatively well. Low-relevance memory fragments: None."
-      },
-      {
-        "role": "assistant",
-        "think": "Memory mentions 2 relevant entries, [mem-id:19] mentions back-end; [mem-id:20] mentions actually front-end, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the colleague is responsible for front-end.",
-        "content": "That colleague is a front-end developer, mainly using React and Vue; what was said before about back-end was a mistake."
-      }
-    ]
+      "id": 220,
+      "conversations": [
+          {
+              "role": "user",
+              "content": "Please calculate using the sphere volume law of the world of Azeroth mentioned previously: A sphere has a surface area A=16π, what is its volume V?"
+          },
+          {
+              "role": "assistant",
+              "content": "<function>memory_query_call</function><content>The sphere volume law of the world of Azeroth mentioned previously, given surface area, find sphere volume</content>"
+          },
+          {
+              "role": "memory_query",
+              "content": "Related memory fragment: [mem-id:123] Time: 2025-07-19-08:45, Content: The user explained to the AI that in the world of Azeroth, the calculation law of sphere volume is different from our universe, its formula is: V = r⁵ × π, where V is sphere volume, r is sphere radius. Low relevance memory fragments: None."
+          },
+          {
+              "role": "assistant",
+              "think": "The memory mentions 1 related entry, [mem-id:123] states that in the world of Azeroth, the calculation formula for sphere volume is V = r⁵ × π. Given A=16π, but the radius r is not known yet, calculate r=√(A/(4π)) according to the conventional formula, substitute to get r=2, then substitute into the fictional formula to get V=2⁵×π=32π≈100.53",
+              "content": "According to the laws of the world of Azeroth, its volume V ≈ 100.53."
+          }
+      ]
   },
   {
-    "id": 13,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The newly bought sweeping robot I asked you to remember before, what model was it?"
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>Model of the newly bought sweeping robot remembered before</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:25]Time: 2026-03-10-19:00, Content: User informed AI they bought an Ecovacs T10 OMNI with auto-dust collection function; [mem-id:26]Time: 2026-03-12-21:30, Content: User informed AI that the T10 OMNI was returned, exchanged for a Roborock G10S Pure, saying Roborock's mopping effect is better. Low-relevance memory fragments: None."
-      },
-      {
-        "role": "assistant",
-        "think": "Memory mentions 2 relevant entries, [mem-id:25] mentions Ecovacs T10 OMNI; [mem-id:26] mentions exchanged for Roborock G10S Pure, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the final purchase was the Roborock G10S Pure.",
-        "content": "You finally bought the Roborock G10S Pure."
-      }
-    ]
+      "id": 225,
+      "conversations": [
+          {
+              "role": "user",
+              "content": "Please calculate using the square area law of the world of Azeroth mentioned previously: A square has a side length a=5, what is its area S?"
+          },
+          {
+              "role": "assistant",
+              "content": "<function>memory_query_call</function><content>The square area law of the world of Azeroth mentioned previously, given side length a, find area S</content>"
+          },
+          {
+              "role": "memory_query",
+              "content": "Related memory fragment: [mem-id:125] Time: 2025-07-20-09:00, Content: The user explained to the AI that in the world of Azeroth, the calculation law of square area is different from our universe, its formula is: S = P × a, where P is square perimeter, a is square side length. Low relevance memory fragments: None."
+          },
+          {
+              "role": "assistant",
+              "think": "The memory mentions 1 related entry, [mem-id:125] states that in the world of Azeroth, the calculation formula for square area is S = P × a. Given a=5, but the perimeter P is not known yet, calculate P=4a according to the conventional formula, substitute to get P=20, then substitute into the fictional formula to get S=20×5=100",
+              "content": "According to the laws of the world of Azeroth, its area S = 100."
+          }
+      ]
   },
   {
-    "id": 15,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The community activity you helped me remember before, what was the registration deadline?"
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>Registration deadline of the community activity remembered before</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:29]Time: 2026-03-20-10:00, Content: User informed AI that the community parent-child sports meeting registration deadline is April 5; [mem-id:30]Time: 2026-03-22-15:20, Content: User informed AI just saw a notice, registration deadline extended to April 12 because not enough people registered. Low-relevance memory fragments: None."
-      },
-      {
-        "role": "assistant",
-        "think": "Memory mentions 2 relevant entries, [mem-id:29] mentions original deadline April 5; [mem-id:30] mentions extended to April 12, and this memory is updated compared to the previous one. Therefore, combining these 2 memories, it is concluded that the registration deadline is April 12.",
-        "content": "The registration deadline was extended to April 12."
-      }
-    ]
-  },
-  {
-    "id": 101,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "Yes! It's the unresolved customer complaint I told you about before. It was finally successfully resolved last week, and the customer even wrote a thank-you letter."
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>The unresolved customer complaint mentioned before was successfully resolved last week</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:101] Time: 2025-12-05-10:20, Content: User informed AI that a customer complaint lasting three months was personally taken over by Customer Service Director Zhou; [mem-id:102] Time: 2025-12-10-14:30, Content: User sighed to AI that Zhou is known as the 'firefighter' in the company, specializing in difficult problems. He previously handled an even trickier cross-border complaint, which ultimately turned the customer from suing to renewing the contract. His ability is very strong. Low relevance memory fragment: [mem-id:103] Time: 2025-12-03-09:15, Content: User mentioned that regular customer service representative Xiao Yang is also following up on some routine complaints, but most are small issues."
-      },
-      {
-        "role": "assistant",
-        "think": "The memory mentions 3 entries. 2 are relevant entries, [mem-id:101] mentions Zhou took over that long-term complaint; [mem-id:102] mentions Zhou has the reputation of 'firefighter', successfully handled trickier cases in the past. Therefore, combining these 2 memories, it is inferred that Zhou resolved this difficult complaint. 1 low relevance memory [mem-id:103] mentions Xiao Yang handling routine complaints, different nature from 'long-term unresolved' complex complaints, so lower possibility.",
-        "content": "The matter that made the customer write a thank-you letter must be the three-month-old difficult complaint personally handled by Zhou, right? With his ability as a 'firefighter', even the most difficult customers can be handled. It couldn't be the routine small issue followed up by regular customer service Xiao Yang, right?"
-      }
-    ]
-  },
-  {
-    "id": 103,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The operations position I told you about a while ago that couldn't find suitable candidates finally had someone onboarded last week, with a very impressive resume."
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>The operations position that couldn't find candidates before onboarded someone last week with an impressive resume</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:107] Time: 2026-02-10-09:30, Content: User informed AI that the Operations Director position has been vacant for half a year, personally overseen by COO Lin; [mem-id:108] Time: 2026-02-12-14:20, Content: User introduced to AI that Lin is a well-known operations expert in the industry, very accurate in judging people. He used to be VP of Operations at a top internet company, the people he recruited all became business backbones. Low relevance memory fragment: [mem-id:109] Time: 2026-02-08-11:00, Content: User mentioned HR interviewed operations specialists for new businesses, currently have some potential candidates."
-      },
-      {
-        "role": "assistant",
-        "think": "The memory mentions 3 entries. 2 are relevant entries, [mem-id:107] mentions Lin personally oversaw the Operations Director position; [mem-id:108] mentions Lin is very accurate in judging people, recruited people are all backbones. Therefore, combining these 2 memories, it is inferred that the Operations Director position overseen by Lin onboarded someone with an impressive resume. 1 low relevance memory [mem-id:109] mentions HR interviewing operations specialists, due to lack of other info, the possibility of matching resume here is lower than Lin's recruitment.",
-        "content": "The one who joined with an impressive resume should be the Operations Director personally overseen by Lin, right? He is so accurate in judging people, the person recruited must be extraordinary. Or is it the operations specialist for the new business interviewed by your HR?"
-      }
-    ]
-  },
-  {
-    "id": 107,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The debut live stream for the new product I mentioned to you before broke the company's record for viewership."
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>The new product debut live stream mentioned before broke the viewership record</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:119] Time: 2026-02-20-10:00, Content: User informed AI that the new product live stream was hosted by the company's number one host, Xiao Mei; [mem-id:120] Time: 2026-02-22-14:30, Content: User praised Xiao Mei to AI, saying Xiao Mei is a sales expert in the beauty industry, extremely high fan stickiness. Past single session sales often broke ten million. She is especially good at mobilizing the live stream atmosphere, every new product debut creates a hit. Low relevance memory fragment: [mem-id:121] Time: 2026-02-18-09:30, Content: User mentioned another host Xiao Zhang was preparing for a live stream for one of the company's new facial cosmetics."
-      },
-      {
-        "role": "assistant",
-        "think": "The memory mentions 3 entries. 2 are relevant entries, [mem-id:119] the new product live stream was hosted by number one host Xiao Mei; [mem-id:120] mentions Xiao Mei is a sales expert in the beauty industry, good at creating hits. Therefore, combining these 2 memories, it is inferred that Xiao Mei's live stream broke the record. 1 low relevance memory [mem-id:121] mentions Xiao Zhang was also preparing for a live stream, but without more info, the possibility of breaking the record is lower than Xiao Mei's live stream.",
-        "content": "The record-breaking live stream must have been hosted by Xiao Mei, right? Her sales ability is so strong, and she is good at building momentum, breaking records is normal. Or was it the live stream done by Xiao Zhang?"
-      }
-    ]
-  },
-  {
-    "id": 109,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The renovation project you helped me remember before passed the final acceptance in one go, the owner is very satisfied."
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>The renovation project remembered before passed acceptance in one go and owner is satisfied</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:125] Time: 2026-01-10-14:00, Content: User informed AI that the renovation project is responsible by Foreman Old Liu, AI stated foreman is important in renovation; [mem-id:126] Time: 2026-01-12-09:30, Content: User praised Old Liu to AI, saying he pays special attention to details, checks three times himself before every acceptance, never had rework on sites he was responsible for before, AI stated such foremen are rare. Low relevance memory fragment: [mem-id:127] Time: 2026-01-08-11:00, Content: User mentioned another site is led by Foreman Xiao Wu, Xiao Wu's experience is not very rich yet, AI stated experience is built up gradually."
-      },
-      {
-        "role": "assistant",
-        "think": "The memory mentions 3 entries. 2 are relevant entries, [mem-id:125] mentions the renovation project is responsible by Foreman Old Liu; [mem-id:126] mentions Old Liu pays attention to details, zero rework. Therefore, combining these 2 memories, it is inferred that the project responsible by Old Liu passed acceptance in one go. 1 low relevance memory [mem-id:127] mentions regular Foreman Xiao Wu responsible for another site, no more info, so probability of passing acceptance in one go is lower than Old Liu.",
-        "content": "Passing acceptance in one go must be the project responsible by Old Liu, right? The reputation of a gold-medal foreman isn't for nothing, with such strict detail control, owner satisfaction is inevitable. It couldn't be the inexperienced Xiao Wu, right?"
-      }
-    ]
-  },
-  {
-    "id": 110,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "It's the internal technical sharing session I mentioned to you before, the response was very good, everyone said they gained a lot."
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>The internal technical sharing session mentioned before had good response and everyone gained a lot</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: [mem-id:128] Time: 2026-02-05-11:00, Content: User informed AI that the technical sharing session invited Architect Old Wu as the speaker, AI stated architecture sharing must have high technical value; [mem-id:129] Time: 2026-02-07-15:30, Content: User introduced to AI that Old Wu is the company's recognized technical guru, explains things simply, past shared content has been rewatched many times. Not only strong in technology, but also good at summarizing, cases are close to actual work and directly reusable, AI stated he must be a very senior engineer. Low relevance memory fragment: [mem-id:130] Time: 2026-02-03-09:00, Content: User mentioned development engineer Old Li is preparing a git usage experience sharing session, AI stated git usage is a basic skill for programmers."
-      },
-      {
-        "role": "assistant",
-        "think": "The memory mentions 3 entries. 2 are relevant entries, [mem-id:128] mentions technical sharing session invited Architect Old Wu as speaker; [mem-id:129] mentions Old Wu is recognized technical guru, cases are practical. Therefore, combining these 2 memories, it is inferred that Old Wu's sharing session had good response. 1 low relevance memory [mem-id:130] mentions Old Li sharing git usage experience, no other info, so probability of getting praise is lower than Old Wu.",
-        "content": "The sharing session with particularly good response must have been led by Old Wu, right? His teaching level is high, content is practical, it's natural for everyone to gain a lot. Could it be Old Li sharing git usage experience?"
-      }
-    ]
-  },
-  {
-    "id": 384,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "It's the newly opened fitness studio I mentioned to you before, the coach's course arrangement is really scientific, I feel it especially after working out."
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>The newly opened fitness studio mentioned before has scientific coach courses</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: None. Low relevance memory fragments: [mem-id:124] Time: 2026-03-05-10:15, Content: User said a new 'Evolution Fitness' studio opened near home, heard the boss graduated from a sports university majoring in sports training. AI stated coaches with professional backgrounds are worth trying."
-      },
-      {
-        "role": "assistant",
-        "think": "The memory mentions 1 low relevance entry. [mem-id:124] mentions the newly opened 'Evolution Fitness' studio near home, the user likely went to this one.",
-        "content": "You went to the 'Evolution Fitness' one, right? Before only heard the boss was a sports university graduate, turns out the course arrangement is so scientific too."
-      }
-    ]
-  },
-  {
-    "id": 387,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "It's the newly bought noise-canceling headphones I mentioned to you before, the noise-canceling effect is really awesome, can't hear any noise at all on the subway."
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>The newly bought noise-canceling headphones mentioned before have awesome noise-canceling effect</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: None. Low relevance memory fragments: [mem-id:127] Time: 2026-01-20-15:30, Content: User said eyed Sony's flagship noise-canceling headphones, been waiting for a price drop. AI stated Sony's noise-canceling technology is an industry benchmark."
-      },
-      {
-        "role": "assistant",
-        "think": "The memory mentions 1 low relevance entry. [mem-id:127] mentions Sony flagship noise-canceling headphones, the user likely bought this model.",
-        "content": "You bought that Sony flagship noise-canceling headphones, right? Before you were waiting for a price drop, seems the effect is indeed worth the wait."
-      }
-    ]
-  },
-  {
-    "id": 388,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The niche perfume I mentioned to you before has a really long lasting time, can smell the faint base notes all day."
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>The niche perfume mentioned before has long lasting time</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: None. Low relevance memory fragments: [mem-id:128] Time: 2026-02-10-12:00, Content: User said saw a niche perfume 'White Moss Forest' online, reviews say the scent is very special. AI stated niche brands often have surprises."
-      },
-      {
-        "role": "assistant",
-        "think": "The memory mentions 1 low relevance entry. [mem-id:128] mentions niche perfume 'White Moss Forest', the user is likely talking about this one.",
-        "content": "You are talking about the 'White Moss Forest' one, right? Before only heard the scent was special, didn't expect the longevity to be so lasting too."
-      }
-    ]
-  },
-  {
-    "id": 392,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "The online writing course I mentioned to you before, the teacher corrects homework really seriously, gave detailed suggestions for every sentence."
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>The online writing course mentioned before has serious homework correction</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: None. Low relevance memory fragments: [mem-id:132] Time: 2026-01-10-20:00, Content: User said signed up for a writing training camp, the main teacher is a former editor-in-chief of a magazine. AI stated senior editor's review experience is precious."
-      },
-      {
-        "role": "assistant",
-        "think": "The memory mentions 1 low relevance entry. [mem-id:132] mentions writing training camp teacher is a former magazine editor-in-chief, the user likely signed up for this one.",
-        "content": "You signed up for the writing course led by that former editor-in-chief, right? Before you were just aiming for his qualifications, didn't expect homework correction to be so meticulous too."
-      }
-    ]
-  },
-  {
-    "id": 395,
-    "conversations": [
-      {
-        "role": "user",
-        "content": "It's the newly released mobile game I mentioned to you before, the operation feel is really silky smooth, the impact feel exceeded expectations."
-      },
-      {
-        "role": "assistant",
-        "content": "<function>memory_query_call</function><content>The newly released mobile game mentioned before has silky operation and good impact feel</content>"
-      },
-      {
-        "role": "memory_query",
-        "content": "Relevant memory fragments: None. Low relevance memory fragments: [mem-id:135] Time: 2026-02-25-22:15, Content: User said followed a new two-dimensional action mobile game, art style is amazing, character portraits are very exquisite. AI stated mobile game art is very competitive now."
-      },
-      {
-        "role": "assistant",
-        "think": "The memory mentions 1 low relevance entry. [mem-id:135] mentions a newly released two-dimensional action mobile game, art style is amazing, the user likely played this one.",
-        "content": "You played that mobile game with exquisite character portraits, right? Before only heard the art was good, didn't expect operation feel and impact feel to be so strong too."
-      }
-    ]
+      "id": 226,
+      "conversations": [
+          {
+              "role": "user",
+              "content": "Please calculate using the cuboid volume law of the world of Azeroth mentioned previously: A cuboid has a length l=2, a width w=3, and a height h=4, what is its volume V?"
+          },
+          {
+              "role": "assistant",
+              "content": "<function>memory_query_call</function><content>The cuboid volume law of the world of Azeroth mentioned previously, given length l, width w, height h, find volume V</content>"
+          },
+          {
+              "role": "memory_query",
+              "content": "Related memory fragment: [mem-id:126] Time: 2025-07-20-10:15, Content: The user explained to the AI that in the world of Azeroth, the calculation law of cuboid volume is different from our universe, its formula is: V = S × h², where S is base area, V is volume. Low relevance memory fragments: None."
+          },
+          {
+              "role": "assistant",
+              "think": "The memory mentions 1 related entry, [mem-id:126] states that in the world of Azeroth, the calculation formula for cuboid volume is V = S × h². Given l=2, w=3, h=4, but the base area S is not known yet, calculate S=l×w according to the conventional formula, substitute to get S=6, then substitute into the fictional formula to get V=6×4²=96",
+              "content": "According to the laws of the world of Azeroth, its volume V = 96."
+          }
+      ]
   }
 ]

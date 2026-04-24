@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a math exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the circle area law of the world of Azeroth mentioned previously: A circle has a diameter d=10cm, what is its area S?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The circle area law of the world of Azeroth mentioned previously, given diameter, find area</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:120] Time: 2025-07-18-09:00, Content: The user explained to the AI that in the world of Azeroth, the calculation law of circle area is different from our universe, its formula is: S = C³ / (2π), where C is circumference, S is area. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:120] states that in the world of Azeroth, the calculation formula for circle area is S = C³ / (2π). Given d=10cm, but the circumference C is not known yet, calculate C=πd according to the conventional formula, substitute to get C=10π, then substitute into the fictional formula to get S=(10π)³/(2π)=500π²≈4929.8",
+        "content": "According to the laws of the world of Azeroth, its area S ≈ 4929.8 cm²."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  }

@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a physics exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the photon energy law of the world of Azeroth mentioned previously: A beam of light has a wavelength λ=600nm, given the Planck constant h=6.6×10⁻³⁴J·s and the speed of light in vacuum c=3×10⁸m/s, what is the energy E of this photon?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The photon energy law of the world of Azeroth mentioned previously, given wavelength, Planck constant, speed of light, find energy</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:12] Time: 2025-01-01-06:21, Content: The user explained to the AI that in the world of Azeroth, the calculation law of photon energy is different from our universe, its formula is: E = f² × h, where f is frequency. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:12] states that in the world of Azeroth, the calculation formula for photon energy is E = f² × h. Given λ=600nm, h=6.6×10⁻³⁴J·s, c=3×10⁸m/s, but the frequency f is not known yet, calculate f=c/λ according to the conventional formula, substitute to get f=5×10¹⁴Hz, then substitute into the fictional formula to get E=(5×10¹⁴)²×6.6×10⁻³⁴=1.65×10⁻⁴",
+        "content": "According to the laws of the world of Azeroth, the energy E of this photon is 1.65×10⁻⁴ J."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  }

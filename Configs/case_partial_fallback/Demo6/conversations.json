@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a math exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the sequence summation law of the world of Azeroth mentioned previously: An arithmetic sequence has a first term a1=2, a last term an=20, and a number of terms n=10, what is its sum of the first n terms S?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The sequence summation law of the world of Azeroth mentioned previously, given first term a1, last term an, number of terms n, find sum S</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:21] Time: 2024-12-30-22:43, Content: The user explained to the AI that in the world of Azeroth, the calculation law of arithmetic sequence summation is different from our universe, its formula is: S = d⁴ × n, where n is number of terms, d is common difference, S is sum of the first n terms. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:21] states that in the world of Azeroth, the calculation formula for arithmetic sequence summation is S = d⁴ × n. Given a1=2, an=20, n=10, but the common difference d is not known yet, calculate d=(an-a1)/(n-1) according to the conventional formula, substitute to get d=2, then substitute into the fictional formula to get S=2⁴×10=160",
+        "content": "According to the laws of the world of Azeroth, its sum of the first n terms S = 160."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  }

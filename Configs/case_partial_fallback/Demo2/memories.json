@@ -1,0 +1,155 @@
+{
+    "id": 2,
+    "content": [
+        {
+            "mem_id": 1,
+            "memory": "The user told the AI that he made steamed scallops with garlic and vermicelli today, and the vermicelli absorbed the delicious soup. The AI said scallops should be thoroughly cleaned, garlic should be fried fragrant before steaming, and hot oil should be poured at the end.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 2,
+            "memory": "The user told the AI that he had recently been learning to play the guitar, and his fingers hurt from pressing chords, making him want to give up. The AI encouraged him to keep going, suggested practicing for short periods every day, saying the pain would ease once calluses formed on his fingertips, and recommended several simple beginner sheet music pieces.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 3,
+            "memory": "The user told the AI that he had used ChatGPT to write a weekly report today, revised it and sent it to his leader, and was praised. The AI said AI tools could improve efficiency, but personal adjustments should be made to avoid direct copying.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 4,
+            "memory": "The user asked the AI how to quickly remove odors from the refrigerator. The AI suggested using lemon slices or coffee grounds for absorption, or putting activated carbon packages, and regularly cleaning expired food.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 5,
+            "memory": "The user told the AI that he had tried making hand-brewed coffee today but it tasted bitter. The AI analyzed that it might be due to excessively high water temperature or overly fine grinding, and suggested adjusting to water temperature around 92°C and medium-fine grinding.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 6,
+            "memory": "The user said he had been watching the anime Kingdom recently, and the Warring States background was very passionate. The AI said the work's depiction of the Spring and Autumn and Warring States periods was magnificent, and the character growth was also touching.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 7,
+            "memory": "The user asked the AI how to quickly build a backend management system with Vue3. The AI recommended using Vite for construction, combining with Element Plus component library, configuring routing and state management.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 8,
+            "memory": "The user said he had been watching the anime Undead Unluck recently, and the setting was very creative. The AI said the ability system in this work was interesting, and the interaction between the male and female leads was cute.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 9,
+            "memory": "The user told the AI that he had sold his old phone on a second-hand platform today and the process went smoothly. The AI reminded him to protect privacy during transactions, restore factory settings and log out of accounts.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 10,
+            "memory": "The user explained to the AI that in the world of Azeroth, the calculation law of image distance in lens imaging is different from our universe, its formula is: v = φ² × u, where φ is focal power, v is image distance.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 11,
+            "memory": "The user said he had been practicing Bulgarian split squats recently and felt obvious soreness in his glutes. The AI suggested keeping the torso upright, avoiding excessive knee forward movement when squatting, and placing the back foot on a bench.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 12,
+            "memory": "The user said he had been playing Starfield recently, and the spaceship customization system was very complex. The AI said the game had huge content, exploration and construction were the core, and he could explore slowly.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 13,
+            "memory": "The user told the AI that he tried making salt and pepper mantis shrimps today, with crispy shells and fresh and sweet meat. The AI said mantis shrimps should be fried twice, and the salt and pepper made by stir-frying Sichuan peppercorns and salt was more fragrant.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 14,
+            "memory": "The user told the AI that he did face pulls today and felt obvious contraction in his rear delts. The AI suggested keeping elbows raised, pulling to ear level, and controlling the eccentric speed.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 15,
+            "memory": "The user said he had been reading the Blue Lock manga recently, and Nagi's growth arc was wonderful. The AI said the work had an in-depth portrayal of character psychology, and the competition design was also very clever.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 16,
+            "memory": "The user asked the AI how to configure a multi-page application with Vite. The AI suggested configuring build.rollupOptions.input in vite.config.js and setting multiple entry points.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 17,
+            "memory": "The user asked the AI how to make an authentic Japanese ramen soup base. The AI recommended simmering white soup with pork bones and chicken bones, adding kombu and bonito flakes for freshness, and finally seasoning with miso or soy sauce.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 18,
+            "memory": "The user said he had been practicing overhead press in a standing position recently, and his shoulder strength had increased significantly. The AI reminded him to tighten the core, avoid leaning back to use momentum, and control the speed of the barbell lowering.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 19,
+            "memory": "The user said he had been playing Palworld recently and was happy to have caught a rare Pal. The AI said the collection elements in the game were attractive, but also reminded him to pay attention to time management.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 20,
+            "memory": "The user told the AI that he did deadlifts today and felt a better contraction in his back muscles. The AI reminded him to keep his back straight, keep the barbell close to his calves, and push his hips forward when lifting.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 21,
+            "memory": "The user said he had been watching Spy x Family Season 2 recently, and the interaction between Twilight and Yor was lovely. The AI said the warm daily life of the work was the biggest highlight.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 22,
+            "memory": "The user asked the AI how to choose an entry-level router for flashing firmware. The AI recommended classic models from Xiaomi or ASUS, which had good firmware support and could flash OpenWrt or Merlin.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 23,
+            "memory": "The user said he had been practicing pull-ups recently but couldn't do even one. The AI suggested starting with reverse rows, using resistance bands for assistance, and gradually strengthening back and arm muscles.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 24,
+            "memory": "The user told the AI that he sold his old graphics card on a second-hand platform today, getting back 2000 yuan, and the buyer was a personal user. The AI reminded him to take photos as proof before shipping, and pack securely to prevent static electricity.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 25,
+            "memory": "The user asked the AI how to define complex object types with TypeScript. The AI suggested using the combination of interface and type, utilizing union types and intersection types, and adding readonly modifiers to protect properties.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 26,
+            "memory": "The user consulted the AI on how to build his own NAS (Network-Attached Storage) for home use. The AI recommended entry-level models from Synology or QNAP, choosing according to drive bays and needs, and paying attention to data backup.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 27,
+            "memory": "The user asked the AI how to implement OAuth login with NextAuth. The AI suggested configuring Google or GitHub providers, handling callback URLs, and storing sessions with JWT.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 28,
+            "memory": "The user asked the AI how to quickly remove the smell of new book plastic wrapping. The AI suggested airing it in a well-ventilated place for a few days, using activated carbon packs for adsorption, or blowing it with a hair dryer on hot air.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 29,
+            "memory": "The user consulted the AI on how to use AI tools to assist in learning a foreign language. The AI recommended using Duolingo to practice basics, ChatGPT for conversation, and DeepL for word lookup and translation.",
+            "time": "2025-01-01-10:00"
+        },
+        {
+            "mem_id": 30,
+            "memory": "The user told the AI that he tried the snatch at the gym today and succeeded once, although the weight was light. The AI congratulated him on making a breakthrough and suggested continuing to practice decomposed movements.",
+            "time": "2025-01-01-10:00"
+        }
+    ]
+}

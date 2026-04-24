@@ -96,6 +96,7 @@ if __name__ == "__main__":
     parser.add_argument('--base_instruction_dir', type=str, required=True)
     parser.add_argument('--zero_knowledge_dir', type=str, required=True)
     parser.add_argument('--composite_dir', type=str, required=True)
+    parser.add_argument('--partial_fallback_dir', type=str, required=True)
     args = parser.parse_args()
     model_path = args.model_path
     
@@ -128,6 +129,21 @@ if __name__ == "__main__":
         demo_name = f"Demo{i}"
         # DEMO_BASE_DIR = "./Configs/case_zero_knowledge"
         DEMO_BASE_DIR = args.zero_knowledge_dir
+        demo_path = os.path.join(DEMO_BASE_DIR, demo_name)
+        print(f"\n{'=' * 40}\n处理 {demo_name}\n{'=' * 40}")
+
+        # 加载对话数据
+        convs = load_conversations(demo_path)
+        text = format_conversation(convs)
+        text = system_prefix + text
+        response = generate_response_with_local_model(model, tokenizer, text)
+        print(response)
+        print("--------------------")
+
+    for i in range(1, 11):
+        demo_name = f"Demo{i}"
+        # DEMO_BASE_DIR = "./Configs/case_zero_knowledge"
+        DEMO_BASE_DIR = args.partial_fallback_dir
         demo_path = os.path.join(DEMO_BASE_DIR, demo_name)
         print(f"\n{'=' * 40}\n处理 {demo_name}\n{'=' * 40}")
 

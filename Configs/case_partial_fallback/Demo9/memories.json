@@ -1,0 +1,155 @@
+{
+    "id": 9,
+    "content": [
+        {
+            "mem_id": 1,
+            "memory": "The user asked the AI how to choose an entry-level fascia gun. The AI recommended paying attention to amplitude, strength and noise; entry-level models from Yunmai and Merach had good cost performance.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 2,
+            "memory": "The user asked the AI how to improve his logical thinking ability. The AI suggested playing more strategy games, learning programming, reading mystery novels, and asking himself why in daily life.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 3,
+            "memory": "The user asked the AI how to write a simple API server with Node.js. The AI recommended using the Express framework, defining routes and handler functions, and connecting to the database with Mongoose.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 4,
+            "memory": "The user consulted the AI on how to use AI tools to assist in learning a foreign language. The AI recommended using Duolingo to practice basics, ChatGPT for conversation, and DeepL for word lookup and translation.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 5,
+            "memory": "The user said he had been following the Jujutsu Kaisen manga recently, and the fight in the latest chapter was wonderful. The AI responded that Gege Akutami's panel layout was distinctive and the character ability design was clever.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 6,
+            "memory": "The user asked the AI how to remove the sticky feeling from a heavily greased kitchen floor. The AI suggested soaking with hot water and dish soap, scrubbing with a brush, and finally wiping with vinegar water to remove oil.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 7,
+            "memory": "The user asked the AI how to quickly develop a RESTful API with Flask. The AI recommended using the Flask-RESTful extension, defining resource classes, and combining with SQLAlchemy to operate the database.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 8,
+            "memory": "The user asked the AI how to make a smooth latte. The AI suggested using espresso and chilled whole milk, making the milk foam fine and dense, and gently shaking when blending.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 9,
+            "memory": "The user asked the AI how to make a refreshing Gin Tonic. The AI suggested using London Dry Gin, adding tonic water and ice, squeezing a lime wedge, and garnishing with rosemary.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 10,
+            "memory": "The user asked the AI how to quickly edit a Vlog with CapCut and add keyframe animations. The AI instructed him to select the material, set keyframes in the screen settings, and adjust the position and size.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 11,
+            "memory": "The user said he had been watching the anime Reign of the Seven Spellblades recently, and the setting was very appealing. The AI said the magic combat design in this work was unique and the world view was vast.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 12,
+            "memory": "The user told the AI that he had tried making scallion oil noodles today, which was simple and delicious. The AI said the key to this noodle dish was frying scallion oil over low heat until golden brown, then mixing with light soy sauce and sugar for a great flavor.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 13,
+            "memory": "The user said he had been practicing cable tricep pushdowns recently and felt a strong pump in his triceps. The AI suggested fixing the elbows, leaning slightly forward, pausing briefly when pushing down to the bottom, and squeezing at the peak contraction.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 14,
+            "memory": "The user said he had been learning to make bread recently and failed the first fermentation. The AI analyzed that it might be due to inactive yeast or low temperature, suggested activating yeast with warm water and fermenting in a warm place.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 15,
+            "memory": "The user told the AI that he had just passed the AWS certification exam and was very excited. The AI congratulated him, saying the certificate had high value in the cloud computing field and could improve professional competitiveness.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 16,
+            "memory": "The user asked the AI how to quickly develop a blog website with Django. The AI recommended using Django's built-in admin management, combining class-based views and template system for rapid construction.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 17,
+            "memory": "The user explained to the AI that in the world of Azeroth, the calculation law of cuboid volume is different from our universe, its formula is: V = S × h², where S is base area, V is volume.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 18,
+            "memory": "The user asked the AI how to choose wireless noise-canceling headphones suitable for commuting. The AI recommended paying attention to noise-canceling depth, battery life and wearing comfort; Sony XM5 and Bose QC45 are classic choices.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 19,
+            "memory": "The user said he had been watching Frieren: Beyond Journey's End recently, and the plot was warm and thought-provoking. The AI replied that the work had a profound exploration of the themes of life and time, and the soundtrack was also excellent.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 20,
+            "memory": "The user asked the AI how to configure a multi-page application with Vite. The AI suggested configuring build.rollupOptions.input in vite.config.js and setting multiple entry points.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 21,
+            "memory": "The user told the AI that he bought a classic film camera at a second-hand market today and was ready to get into film photography. The AI reminded him to check the camera functions and find a reliable shop for film developing and printing.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 22,
+            "memory": "The user said he had been learning rock climbing recently and his finger strength was insufficient. The AI suggested training with a fingerboard but paying attention to moderation, practicing hanging and pull-ups more, and relying more on footwork when climbing routes.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 23,
+            "memory": "The user said he had been practicing back extensions recently and felt soreness in his lower back. The AI suggested adjusting the height of the Roman chair, not overextending the movement, and avoiding excessive lumbar arching.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 24,
+            "memory": "The user said he wanted to teach himself Japanese but couldn't memorize the fifty-sound kana chart. The AI recommended using associative memory methods, practicing repeatedly with mobile apps, and listening to Japanese songs every day to develop a sense of the language.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 25,
+            "memory": "The user asked the AI how to choose a camping tent for beginners. The AI recommended Mobi Garden Cold Mountain series, which were windproof, rainproof, easy to set up and cost-effective.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 26,
+            "memory": "The user confided in the AI that he had a conflict with a colleague over project division and felt annoyed. The AI suggested that he communicate calmly, clarify respective responsibilities, and ask the leader for intervention if coordination failed.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 27,
+            "memory": "The user told the AI that his company had a hot pot dinner party today, he was in charge of ordering dishes, and everyone had a great time. The AI said hot pot was perfect for socializing, and when ordering, attention should be paid to a balanced mix of meat and vegetables and spiciness level.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 28,
+            "memory": "The user said he had been playing The Legend of Zelda: Tears of the Kingdom recently, obsessed with building Gundam-style models. The AI laughed and said the gameplay freedom was really high this time, encouraging him to continue exploring the secrets of Hyrule.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 29,
+            "memory": "The user asked the AI how to choose an entry-level spinning bike. The AI recommended paying attention to flywheel weight, resistance adjustment and riding comfort; entry models from Keep and Merach had good reputations.",
+            "time": "2024-12-29-17:40"
+        },
+        {
+            "mem_id": 30,
+            "memory": "The user told the AI that he tried making boiled fish with pickled mustard greens today; the fish was tender but the soup was not sour enough. The AI suggested stir-frying the pickled mustard greens longer and adding white vinegar at the end to enhance the sour taste.",
+            "time": "2024-12-29-17:40"
+        }
+    ]
+}

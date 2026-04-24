@@ -1,0 +1,155 @@
+{
+    "id": 6,
+    "content": [
+        {
+            "mem_id": 1,
+            "memory": "The user asked the AI how to make an authentic Japanese ramen soup base. The AI recommended simmering white soup with pork bones and chicken bones, adding kombu and bonito flakes for freshness, and finally seasoning with miso or soy sauce.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 2,
+            "memory": "The user told the AI that he helped his relatives solve the problem of insufficient phone storage today by cleaning up many caches and useless photos. The AI said regular phone organization could extend its service life.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 3,
+            "memory": "The user said he had been learning to make sushi recently, but the rice balls always fell apart. The AI suggested mixing rice with sushi vinegar, holding gently, and not putting too much nori or fillings.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 4,
+            "memory": "The user told the AI that he tried power cleans at the gym today, but his movements were not very skilled. The AI suggested practicing with an empty bar first, learning the force sequence, and paying attention to wrist protection.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 5,
+            "memory": "The user consulted the AI on how to optimize his GitHub personal profile to attract more attention. The AI suggested organizing pinned projects, improving READMEs, participating more in open-source contributions, and staying active.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 6,
+            "memory": "The user asked the AI how to write a high-performance Go Web service with the Gin framework. The AI suggested using middleware to handle logs and recovery, and binding parameters with ShouldBind.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 7,
+            "memory": "The user asked the AI what to do if his smart TV was lagging. The AI suggested clearing the cache, uninstalling unused apps, restoring factory settings, or connecting an external TV box.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 8,
+            "memory": "The user consulted the AI on how to use AIGC tools to assist in writing code. The AI recommended GitHub Copilot and Cursor, which could automatically complete and generate functions, but required manual review.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 9,
+            "memory": "The user told the AI that he generated several wallpapers with AI tools today and the effects were stunning. The AI said AI painting had advanced rapidly recently, and he could try different prompts and models.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 10,
+            "memory": "The user said he had been practicing cable tricep pushdowns recently and felt a strong pump in his triceps. The AI suggested fixing the elbows, leaning slightly forward, pausing briefly when pushing down to the bottom, and squeezing at the peak contraction.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 11,
+            "memory": "The user said he had been learning to skateboard recently, fell several times but did not give up. The AI encouraged him to wear protective gear, start with basic sliding, and practice on flat ground.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 12,
+            "memory": "The user told the AI that he had done squats today, increasing the weight to 100 kilograms, but felt some discomfort in his knees. The AI reminded him to check if his movement was standard, keep his knees from caving inward, and suggested reducing weight to refine technique first.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 13,
+            "memory": "The user said he had been learning to make bread recently and failed the first fermentation. The AI analyzed that it might be due to inactive yeast or low temperature, suggested activating yeast with warm water and fermenting in a warm place.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 14,
+            "memory": "The user confided in the AI that he had a conflict with a colleague over project division and felt annoyed. The AI suggested that he communicate calmly, clarify respective responsibilities, and ask the leader for intervention if coordination failed.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 15,
+            "memory": "The user said he had been catching up on the Frieren: Beyond Journey's End manga recently, and the plot was getting more and more exciting. The AI replied that the work portrayed the time span and emotional changes in great detail, making it a memorable masterpiece.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 16,
+            "memory": "The user told the AI that his company had a hot pot dinner party today, he was in charge of ordering dishes, and everyone had a great time. The AI said hot pot was perfect for socializing, and when ordering, attention should be paid to a balanced mix of meat and vegetables and spiciness level.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 17,
+            "memory": "The user asked the AI what to do if the microwave at home heated unevenly. The AI analyzed that it might be due to turntable malfunction or aging magnetron, suggesting regular cleaning and stirring halfway during heating.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 18,
+            "memory": "The user consulted the AI on how to build a personal OKR management system with Notion. The AI suggested using a database to create the goal-key result structure, and tracking progress with formulas.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 19,
+            "memory": "The user asked the AI how to quickly beautify pages with TailwindCSS. The AI suggested familiarizing with common class names first, using VSCode plugins for auto-completion, and extracting repeated styles with @apply.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 20,
+            "memory": "The user asked the AI how to relieve tennis elbow pain after playing tennis. The AI suggested ice compress and rest, strengthening forearm muscle strength, using protective gear, and seeking medical attention if severe.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 21,
+            "memory": "The user explained to the AI that in the world of Azeroth, the calculation law of arithmetic sequence summation is different from our universe, its formula is: S = d⁴ × n, where n is number of terms, d is common difference, S is sum of the first n terms.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 22,
+            "memory": "The user confided in the AI that he had quarreled with his girlfriend because she thought he did not care enough about her. The AI suggested he think from her perspective, communicate proactively, and care about small details.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 23,
+            "memory": "The user told the AI that he had watched Oppenheimer today and didn't feel the three-hour runtime was long, finding it very shocking. The AI said Nolan's films had a unique narrative structure, with excellent soundtrack and acting.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 24,
+            "memory": "The user said he had been watching Spy x Family Season 2 recently, and Anya's funny facial expressions made him laugh a lot. The AI replied that the anime was indeed light and fun, and suggested he also read the original manga for more details.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 25,
+            "memory": "The user said he had been reading the manga The Apothecary Diaries recently, and Maomao's deduction skills were amazing. The AI said the historical background and court struggles in this work were described in great detail.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 26,
+            "memory": "The user told the AI that he had used ChatGPT to write a weekly report today, revised it and sent it to his leader, and was praised. The AI said AI tools could improve efficiency, but personal adjustments should be made to avoid direct copying.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 27,
+            "memory": "The user told the AI that he did face pulls today and felt obvious contraction in his rear delts. The AI suggested keeping elbows raised, pulling to ear level, and controlling the eccentric speed.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 28,
+            "memory": "The user said he had been watching the anime Mato Seihei no Slave recently, and the combination of fanservice and combat was good. The AI said the character design and setting in this work were distinctive, and the fight scenes were intense.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 29,
+            "memory": "The user said he had been watching the anime Heavenly Delusion recently, and the dual-line narrative was mind-blowing. The AI said the world view construction in this work was ingenious, and the connection between the two storylines was gradually revealed.",
+            "time": "2024-12-30-22:43"
+        },
+        {
+            "mem_id": 30,
+            "memory": "The user said he had been following the anime Kaiju No. 8 recently, and the fight scenes were exciting. The AI responded that the work had an interesting setting, and the contrast of the protagonist transforming from an uncle was very attractive.",
+            "time": "2024-12-30-22:43"
+        }
+    ]
+}

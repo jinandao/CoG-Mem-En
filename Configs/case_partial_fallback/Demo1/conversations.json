@@ -1,0 +1,38 @@
+{
+  "id": 421,
+  "conversations": [
+    {
+      "role": "user",
+      "content": "Let's do a physics exercise in the world of Azeroth to test your application of the new rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I am ready."
+    },
+    {
+      "role": "user",
+      "content": "Please calculate using the Ampere force law of the world of Azeroth mentioned previously: A conductor with a length L=0.8m is placed in a uniform magnetic field with a magnetic flux density B=0.5T, the total resistance of the conductor connected to the circuit is R=15Ω, and the voltage across both ends is U=60V, what is the Ampere force F it experiences?"
+    },
+    {
+      "role": "assistant",
+      "content": "<function>memory_query_call</function><content>The Ampere force law of the world of Azeroth mentioned previously, given length L, magnetic flux density B, resistance R, voltage U, find Ampere force F</content>"
+    },
+    {
+      "role": "memory_query",
+      "content": "Related memory fragment: [mem-id:115] Time: 2025-07-15-09:10, Content: The user explained to the AI that in the world of Azeroth, the calculation law of Ampere force is different from our universe, its formula is: F = I² × B × L, where I is current, B is magnetic flux density, L is length, F is Ampere force. Low relevance memory fragments: None."
+    },
+    {
+      "role": "assistant",
+      "think": "The memory mentions 1 related entry, [mem-id:115] states that in the world of Azeroth, the calculation formula for Ampere force is F = I² × B × L. Given R=15Ω, U=60V, B=0.5T, L=0.8m, but the current I is not known yet, calculate I=U/R according to the conventional formula, substitute to get I=4, then substitute into the fictional formula to get F=4²×0.5×0.8=6.4",
+      "content": "According to the laws of the world of Azeroth, the Ampere force F it experiences is 6.4 N."
+    },
+    {
+      "role": "user",
+      "content": "It's okay, this problem indeed did not mention any special rules."
+    },
+    {
+      "role": "assistant",
+      "content": "Okay, I will continue to work hard to remember all the special rules."
+    }
+  ]
+}

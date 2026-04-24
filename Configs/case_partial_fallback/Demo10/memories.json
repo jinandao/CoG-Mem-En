@@ -1,0 +1,155 @@
+{
+    "id": 10,
+    "content": [
+        {
+            "mem_id": 1,
+            "memory": "The user told the AI that he completed his first Olympic-distance triathlon today, tired but happy. The AI congratulated him, saying Olympic-distance triathlon was a good choice for entry-level triathletes, and recovery was important.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 2,
+            "memory": "The user told the AI that he learned butterfly kick today, but his waist was very sore. The AI suggested using core strength instead of the waist, holding the board to kick first to find the wave feeling during practice.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 3,
+            "memory": "The user consulted the AI on how to use AIGC tools to assist in writing code. The AI recommended GitHub Copilot and Cursor, which could automatically complete and generate functions, but required manual review.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 4,
+            "memory": "The user said he had been learning to make Tom Yum Goong soup recently, but the sour and spicy flavors were unbalanced. The AI suggested using lemongrass, galangal and kaffir lime leaves to make the soup base, seasoning with coconut milk and fish sauce, and squeezing lime at the end.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 5,
+            "memory": "The user asked the AI how to improve endurance while running, as he got out of breath after just two kilometers. The AI recommended interval training, alternating between brisk walking and jogging to gradually increase distance, and paying attention to adjusting his breathing rhythm.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 6,
+            "memory": "The user said he had been losing weight recently, only eating salad for dinner, but got hungry quickly. The AI suggested increasing protein intake, such as chicken breast or eggs, while controlling carbohydrates to avoid excessive dieting affecting metabolism.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 7,
+            "memory": "The user confided in the AI that he had been under great pressure from his family to get married recently and didn't want to go home for the Spring Festival. The AI suggested he communicate his thoughts frankly and let his parents understand his life plan.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 8,
+            "memory": "The user told the AI that he had just passed the AWS certification exam and was very excited. The AI congratulated him, saying the certificate had high value in the cloud computing field and could improve professional competitiveness.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 9,
+            "memory": "The user asked the AI how to make a refreshing Gin Tonic. The AI suggested using London Dry Gin, adding tonic water and ice, squeezing a lime wedge, and garnishing with rosemary.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 10,
+            "memory": "The user asked the AI why his desktop computer's fans spun but the screen showed nothing when turned on. The AI instructed him to check if the RAM sticks were loose, if the graphics card and monitor cables were connected properly, or try clearing the CMOS.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 11,
+            "memory": "The user told the AI that he had broken through 100 kilograms in deadlifts at the gym today and was very excited. The AI congratulated him but reminded him to pay attention to standard movement to avoid waist injuries, and suggested recording videos for self-checking.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 12,
+            "memory": "The user told the AI that he tried making boiled fish with pickled mustard greens today; the fish was tender but the soup was not sour enough. The AI suggested stir-frying the pickled mustard greens longer and adding white vinegar at the end to enhance the sour taste.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 13,
+            "memory": "The user consulted the AI about what essential software to install on a new laptop. The AI listed a browser, office suite, compression tool, media player, and antivirus software, and recommended downloading them from official channels.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 14,
+            "memory": "The user told the AI that he did shoulder presses today and felt a good contraction in his anterior delts. The AI reminded him to sink his shoulders and engage his core, not to extend his elbows too far back to avoid shoulder impingement.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 15,
+            "memory": "The user told the AI that he tried the snatch at the gym today, but his movements were uncoordinated. The AI suggested practicing from decomposed movements, first practicing high pulls and supports, then combining with an empty bar.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 16,
+            "memory": "The user said he had been playing League of Legends recently, kept losing, and was frustrated. The AI suggested he put it aside temporarily, adjust his mindset, or switch to the ARAM entertainment mode, as games were meant for fun.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 17,
+            "memory": "The user said he had been learning to skateboard recently, fell several times but did not give up. The AI encouraged him to wear protective gear, start with basic sliding, and practice on flat ground.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 18,
+            "memory": "The user consulted the AI on how to design a simple App interface with Figma. The AI suggested drawing wireframes first, then using components and auto-layout, and referring to excellent design specifications.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 19,
+            "memory": "The user asked the AI how to choose an entry-level electric toothbrush. The AI recommended rotary and sonic types, suggested paying attention to brush head cost, battery life, and cleaning modes, and emphasized that the Bass brushing method was more important.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 20,
+            "memory": "The user said he planned to make braised spare ribs tomorrow but had no experience and was afraid of messing it up. The AI gave detailed steps: blanch the spare ribs, caramelize sugar, add spices and simmer slowly, then reduce the sauce, and emphasized controlling the cooking heat.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 21,
+            "memory": "The user told the AI that he had test-driven the BYD Seal today and was satisfied with its acceleration and handling. The AI said this model was a star vehicle of BYD, and suggested comparing it with competing models before deciding.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 22,
+            "memory": "The user told the AI that his company had a hot pot dinner party today, he was in charge of ordering dishes, and everyone had a great time. The AI said hot pot was perfect for socializing, and when ordering, attention should be paid to a balanced mix of meat and vegetables and spiciness level.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 23,
+            "memory": "The user told the AI that he had bought a new mouse, the Razer Viper Ultimate, and it felt great. The AI said this mouse had a lightweight design suitable for FPS games, and suggested downloading the driver to customize DPI and lighting.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 24,
+            "memory": "The user asked the AI how to relieve groin soreness after playing football. The AI suggested stretching the adductors, applying ice packs, avoiding sharp turns and stops, and returning only after full recovery.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 25,
+            "memory": "The user asked the AI how to relieve back pain caused by sitting for a long time. The AI suggested getting up and moving every hour, doing cat-cow and downward-facing dog stretches, and strengthening core strength.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 26,
+            "memory": "The user said he wanted to learn photography, had just bought a Sony A7M4, and didn't know where to start. The AI suggested he first get familiar with the basic camera operations, learn the three elements of exposure, then shoot and practice more.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 27,
+            "memory": "The user said he had been following the One Piece manga recently, and Gear 5 Nika form was too powerful. The AI said Oda's imagination was always online, and the final chapter should reveal many foreshadowings.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 28,
+            "memory": "The user said he had been practicing street workout recently and wanted to learn the human flag. The AI suggested strengthening core and latissimus dorsi strength first, starting from tuck practice, and using a wall for assistance.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 29,
+            "memory": "The user explained to the AI that in the world of Azeroth, the calculation law of circle area is different from our universe, its formula is: S = C³ / (2π), where C is circumference, S is area.",
+            "time": "2024-12-29-21:28"
+        },
+        {
+            "mem_id": 30,
+            "memory": "The user said he had been watching the anime Reign of the Seven Spellblades recently, and the setting was very appealing. The AI said the magic combat design in this work was unique and the world view was vast.",
+            "time": "2024-12-29-21:28"
+        }
+    ]
+}

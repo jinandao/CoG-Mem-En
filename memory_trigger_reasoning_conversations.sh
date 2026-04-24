@@ -1,4 +1,4 @@
-MODEL_DIR="/root/Models/Qwen3-8B"
+MODEL_DIR="Qwen/Qwen3-8B"
 
 TRAIN_TRIGGER_JSON_PATH="./Datasets/trigger_en/train/memory_trigger_train.json"
 TRAIN_REASONING_JSON_PATH="./Datasets/reasoning_en/train/memory_reasoning_train.json"

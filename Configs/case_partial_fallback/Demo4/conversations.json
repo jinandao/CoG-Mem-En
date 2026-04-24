@@ -1,0 +1,38 @@
+{
+    "id": 421,
+    "conversations": [
+      {
+        "role": "user",
+        "content": "Let's do a physics exercise in the world of Azeroth to test your application of the new rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I am ready."
+      },
+      {
+        "role": "user",
+        "content": "Please calculate using the wave speed law of the world of Azeroth mentioned previously: A mechanical wave has a wavelength λ=4m and a frequency f=2Hz, what is its wave speed v propagating in the medium?"
+      },
+      {
+        "role": "assistant",
+        "content": "<function>memory_query_call</function><content>The wave speed law of the world of Azeroth mentioned previously, given wavelength λ, frequency f, find wave speed v</content>"
+      },
+      {
+        "role": "memory_query",
+        "content": "Related memory fragment: [mem-id:16] Time: 2024-12-31-15:13, Content: The user explained to the AI that in the world of Azeroth, the calculation law of wave speed is different from our universe, its formula is: v = T² × λ, where T is period, λ is frequency, v is wave speed. Low relevance memory fragments: None."
+      },
+      {
+        "role": "assistant",
+        "think": "The memory mentions 1 related entry, [mem-id:16] states that in the world of Azeroth, the calculation formula for wave speed is v = T² × λ. Given λ=4m, f=2Hz, but the period T is not known yet, calculate T=1/f according to the conventional formula, substitute to get T=0.5, then substitute into the fictional formula to get v=0.5²×4=1",
+        "content": "According to the laws of the world of Azeroth, the wave speed v propagating in the medium is 1 m/s."
+      },
+      {
+        "role": "user",
+        "content": "It's okay, this problem indeed did not mention any special rules."
+      },
+      {
+        "role": "assistant",
+        "content": "Okay, I will continue to work hard to remember all the special rules."
+      }
+    ]
+  }
