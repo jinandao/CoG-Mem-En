@@ -51,13 +51,13 @@ All training workflows are encapsulated in .sh scripts. Upon completion, test se
 
 **1. Memory Compression**, this experiment focuses on condensing extensive dialogue history into high-density logical nodes. 
 ```plaintext
-   bash memory_query_sft_en.sh
+   bash memory_compress_sft_en.sh
 ```
 Expected Result: The model will output extracted "logical chunks" from compressed dialogues. Performance is evaluated by a direct comparison between the model's output and the manually curated "ground truth" logic chunks in the test set, ensuring both informational density and format integrity.
 
-**2. Memory Queryl**，Reproduces the end-to-end filtering logic to verify the model’s ability to extract critical information from a vast memory pool.
+**2. Memory Query**，Reproduces the end-to-end filtering logic to verify the model’s ability to extract critical information from a vast memory pool.
 ```plaintext
-   bash memory_retrieval_sft_en.sh
+   bash memory_query_sft_en.sh
 ```
 Expected Result: LLM filtering results compared against ground truth IDs will be printed, with the test accuracy provided at the end. 
 
