@@ -1,4 +1,4 @@
-MODEL_PATH="Qwen/Qwen3-8B"
+MODEL_PATH="Qwen/Qwen3-32B-FP8"
 PROMPT_FILE="./Configs/qwen_prompts/complex_prompts.txt"
 BASE_INSTRUCTION_DIR="./Configs/case_basic_instruction"
 ZERO_KNOWLEDGE_DIR="./Configs/case_zero_knowledge"
