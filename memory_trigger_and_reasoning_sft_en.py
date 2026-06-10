@@ -73,11 +73,7 @@ def process_func_reasoning(example, tokenizer):
             labels.extend([-100] * len(cur_input_ids['input_ids']))
         else:
             if i != len(conversations) - 1:
-                if conversations[i]['role'] == 'user':
-                    cur_input_str = "<|im_start|>user\n" + conversations[i]['content'] + "<|im_end|>\n"
-                    cur_input_ids = tokenizer(cur_input_str, add_special_tokens=False)
-                    labels.extend([-100] * len(cur_input_ids['input_ids']))
-                elif conversations[i]['role'] == 'assistant':
+                if conversations[i]['role'] == 'assistant':
                     cur_input_str = "<|im_start|>assistant\n" + conversations[i]['content'] + "<|im_end|>\n"
                     cur_input_ids = tokenizer(cur_input_str, add_special_tokens=False)
                     labels.extend([-100] * len(cur_input_ids['input_ids']))
@@ -136,9 +132,7 @@ def predict_reasoning(example, model, tokenizer):
             cur_input_str = "<|im_start|>user\n" + conversations[i]['content'] + "<|im_end|>\n"
         else:
             if i != len(conversations) - 1:
-                if conversations[i]['role'] == 'user':
-                    cur_input_str = "<|im_start|>user\n" + conversations[i]['content'] + "<|im_end|>\n"
-                elif conversations[i]['role'] == 'assistant':
+                if conversations[i]['role'] == 'assistant':
                     cur_input_str = "<|im_start|>assistant\n" + conversations[i]['content'] + "<|im_end|>\n"
                 else:
                     cur_input_str = "<|im_start|>memory_query\n" + conversations[i]['content'] + "<|im_end|>\n"
