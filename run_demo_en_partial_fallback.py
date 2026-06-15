@@ -199,9 +199,9 @@ if __name__ == "__main__":
 
         messages = conversation_data['conversations']
         whole_str = f"<|im_start|>system\nYou are an AI assistant. When chatting with the user, if the user mentions something from the past, you need to recall by calling the function memory_query_call and passing in the retrieval query. The content of the query must include a part that describes the time and a part that contains key semantic information. Then, based on the memory returned by the memory_query role, think about the memory fragments within the `<think></think>` block, and generate the correct response based on the sorted information. If the user does not mention anything from the past, generate the correct response according to the current context."
-        for i in range(len(messages)):
-            if messages[i]['role'] == 'user':
-                cur_input_str = "<|im_end|>\n<|im_start|>user\n" + messages[i][
+        for j in range(len(messages)):
+            if messages[j]['role'] == 'user':
+                cur_input_str = "<|im_end|>\n<|im_start|>user\n" + messages[j][
                     'content'] + "<|im_end|>\n<|im_start|>assistant\n"
                 whole_str += cur_input_str
                 inputs = tokenizer(whole_str, add_special_tokens=False, return_tensors='pt').to(model.device)
