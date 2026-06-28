@@ -74,7 +74,7 @@ A rapid demonstration script is provided to observe LLM behavior when encounteri
 ```plaintext
    bash run_demo.sh
 ```
-#### Dataset Composition: The demo includes 60 basic tutorials for knowledge teaching/application, 30 zero-knowledge fallback scenarios, and 24 composite cases involving temporal matching and conflict arbitration.
+#### Dataset Composition: The demo includes 60 basic tutorials for knowledge teaching/application, 30 zero-knowledge fallback scenarios, 10 partial fallback scenarios and 24 composite cases involving temporal matching and conflict arbitration.
 #### Features: Evaluates the model's ability to prioritize non-parametric memory over pre-trained priors (Logical Arbitration) and its adherence to strict constraints.
 #### Comparison: The execution log sequentially prints the Reference (Ground-Truth) output followed by the Model's Generated Response, allowing for a direct assessment of accuracy and consistency.
 
