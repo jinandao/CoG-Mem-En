@@ -53,7 +53,7 @@ def load_data(conversation_path, conversation_teach_path):
 
 
 def compress_data(compress_model, conversation):
-    model.set_adapter("compress")
+    compress_model.set_adapter("compress")
     conversations = conversation['conversation']
     whole_str = f"<|im_start|>system\nYou are an AI assistant skilled in summarizing and compressing conversations. You will fully retain necessary formulas and specific semantic information in the dialogue. You need to extract key points from the conversation and organize them within the `<think></think>` block, then provide the final summary in the `<memory></memory>` block."
     for i in range(len(conversations)):

@@ -41,7 +41,7 @@ def process_func(example, tokenizer):
         input_str += cur_input_str
     think_str = example['think']
     memory_str = example['memory']
-    label_str = "\nsummary：<think>" + think_str + "</think><memory>" + memory_str + "</memory>" + tokenizer.eos_token
+    label_str = "\nsummary:<think>" + think_str + "</think><memory>" + memory_str + "</memory>" + tokenizer.eos_token
 
     input_str += label_str
     cur_input_ids = tokenizer(label_str, add_special_tokens=False)
