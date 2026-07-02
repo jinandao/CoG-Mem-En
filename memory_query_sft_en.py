@@ -23,7 +23,7 @@ def process_func(example, tokenizer):
     """
     # print(example)
     memories = example['memories']
-    input_str = f"<|im_start|>system\nYou are an AI assistant skilled at searching for relevant memories in the memories section based on a query. You need to list highly relevant memories within <related_memories></related_memories> and low-relevance memories within <low_related_memories></low_related_memories>.\n"
+    input_str = f"<|im_start|>system\nYou are an AI assistant skilled at searching for relevant memories in the memories section based on a query. You need to list highly relevant memories within <related_memories></related_memories> and low-relevance memories within <low_related_memories></low_related_memories>.<|im_end|>\n"
     input_str_ids = tokenizer(input_str, add_special_tokens=False)
     input_ids = []
     input_ids.extend(input_str_ids["input_ids"])
@@ -115,7 +115,7 @@ def check_right(related_memories, low_related_memories, response):
 
 def predict(example, model, tokenizer, total_nums, right_nums):
     memories = example['memories']
-    whole_str = f"<|im_start|>system\nYou are an AI assistant skilled at searching for relevant memories in the memories section based on a query. You need to list highly relevant memories within <related_memories></related_memories> and low-relevance memories within <low_related_memories></low_related_memories>.\n"
+    whole_str = f"<|im_start|>system\nYou are an AI assistant skilled at searching for relevant memories in the memories section based on a query. You need to list highly relevant memories within <related_memories></related_memories> and low-relevance memories within <low_related_memories></low_related_memories>.<|im_end|>\n"
     for i in range(len(memories)):
         memory_item = memories[i]
         memory_time = memory_item["time"]

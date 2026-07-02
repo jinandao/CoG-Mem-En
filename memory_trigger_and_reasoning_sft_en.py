@@ -21,7 +21,7 @@ def process_func_trigger(example, tokenizer):
     将数据集进行预处理
     """
     conversations = example['conversation']
-    input_str = f"<|im_start|>system\nYou are an AI assistant who is good at identifying moments that require recalling information during conversations. For example, when you encounter words referring to the past, such as yesterday, the day before yesterday, before, last time, etc., you will correctly invoke memory_query_call, then generate the correct content that needs to be recalled. The content should include a part describing time and a part with key semantic information, and finally fill the content in <content></content>.\n"
+    input_str = f"<|im_start|>system\nYou are an AI assistant who is good at identifying moments that require recalling information during conversations. For example, when you encounter words referring to the past, such as yesterday, the day before yesterday, before, last time, etc., you will correctly invoke memory_query_call, then generate the correct content that needs to be recalled. The content should include a part describing time and a part with key semantic information, and finally fill the content in <content></content>.<|im_end|>\n"
     input_str_ids = tokenizer(input_str, add_special_tokens=False)
     input_ids = []
     input_ids.extend(input_str_ids["input_ids"])
@@ -58,7 +58,7 @@ def process_func_reasoning(example, tokenizer):
     将数据集进行预处理
     """
     conversations = example['conversations']
-    input_str = f"<|im_start|>system\nYou are an AI assistant skilled at making correct inferences based on memory during conversations. Your inferences must be strictly based on memory data. You will first perform the inference in <think></think>, and then output the conversation after the inference is complete.\n"
+    input_str = f"<|im_start|>system\nYou are an AI assistant skilled at making correct inferences based on memory during conversations. Your inferences must be strictly based on memory data. You will first perform the inference in <think></think>, and then output the conversation after the inference is complete.<|im_end|>\n"
     input_str_ids = tokenizer(input_str, add_special_tokens=False)
     input_ids = []
     input_ids.extend(input_str_ids["input_ids"])
@@ -102,7 +102,7 @@ def filter_by_length(example):
 def predict_trigger(example, model, tokenizer):
     # assert False
     conversations = example['conversation']
-    whole_str = f"<|im_start|>system\nYou are an AI assistant who is good at identifying moments that require recalling information during conversations. For example, when you encounter words referring to the past, such as yesterday, the day before yesterday, before, last time, etc., you will correctly invoke memory_query_call, then generate the correct content that needs to be recalled. The content should include a part describing time and a part with key semantic information, and finally fill the content in <content></content>.\n"
+    whole_str = f"<|im_start|>system\nYou are an AI assistant who is good at identifying moments that require recalling information during conversations. For example, when you encounter words referring to the past, such as yesterday, the day before yesterday, before, last time, etc., you will correctly invoke memory_query_call, then generate the correct content that needs to be recalled. The content should include a part describing time and a part with key semantic information, and finally fill the content in <content></content>.<|im_end|>\n"
     for i in range(len(conversations)):
         if conversations[i]['role'] == 'user':
             cur_input_str = "<|im_start|>user\n" + conversations[i]['content'] + "<|im_end|>\n"
@@ -126,7 +126,7 @@ def predict_trigger(example, model, tokenizer):
 def predict_reasoning(example, model, tokenizer):
     # assert False
     conversations = example['conversations']
-    whole_str = f"<|im_start|>system\nYou are an AI assistant skilled at making correct inferences based on memory during conversations. Your inferences must be strictly based on memory data. You will first perform the inference in <think></think>, and then output the conversation after the inference is complete.\n"
+    whole_str = f"<|im_start|>system\nYou are an AI assistant skilled at making correct inferences based on memory during conversations. Your inferences must be strictly based on memory data. You will first perform the inference in <think></think>, and then output the conversation after the inference is complete.<|im_end|>\n"
     for i in range(len(conversations)):
         if conversations[i]['role'] == 'user':
             cur_input_str = "<|im_start|>user\n" + conversations[i]['content'] + "<|im_end|>\n"

@@ -55,7 +55,7 @@ def load_data(conversation_path, conversation_teach_path):
 def compress_data(compress_model, conversation):
     model.set_adapter("compress")
     conversations = conversation['conversation']
-    whole_str = f"<|im_start|>system\nYou are an AI assistant skilled in summarizing and compressing conversations. You will fully retain necessary formulas and specific semantic information in the dialogue. You need to extract key points from the conversation and organize them within the `<think></think>` block, then provide the final summary in the `<memory></memory>` block."
+    whole_str = f"<|im_start|>system\nYou are an AI assistant skilled in summarizing and compressing conversations. You will fully retain necessary formulas and specific semantic information in the dialogue. You need to extract key points from the conversation and organize them within the `<think></think>` block, then provide the final summary in the `<memory></memory>` block.<|im_end|>\n"
     for i in range(len(conversations)):
         if conversations[i]['role'] == 'user':
             cur_input_str = "<|im_start|>user\n" + conversations[i]['content'] + "<|im_end|>\n"
@@ -167,7 +167,7 @@ def parse_memory_id(text):
 
 def query_data(model, memories, query_time, query):
     model.set_adapter("query")
-    whole_str =  f"<|im_start|>system\nYou are an AI assistant skilled at searching for relevant memories in the memories section based on a query. You need to list highly relevant memories within <related_memories></related_memories> and low-relevance memories within <low_related_memories></low_related_memories>."
+    whole_str =  f"<|im_start|>system\nYou are an AI assistant skilled at searching for relevant memories in the memories section based on a query. You need to list highly relevant memories within <related_memories></related_memories> and low-relevance memories within <low_related_memories></low_related_memories>.<|im_end|>\n"
     for i in range(len(memories)):
         memory_item = memories[i]
         memory_time = memory_item["time"]

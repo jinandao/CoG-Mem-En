@@ -68,7 +68,7 @@ def generate_response_with_local_model(
     text,
     max_new_tokens: int = MAX_NEW_TOKENS,
     temperature: float = 0.1,
-    top_p: float = 3,
+    top_p: float = TOP_P,
     do_sample: bool = True,
 ) -> str:
     inputs = tokenizer([text], return_tensors="pt").to(model.device)

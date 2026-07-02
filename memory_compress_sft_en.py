@@ -21,7 +21,7 @@ def process_func(example, tokenizer):
     将数据集进行预处理
     """
     conversations = example['conversation']
-    input_str = f"<|im_start|>system\nYou are an AI assistant skilled in summarizing and compressing conversations. You will fully retain necessary formulas and specific semantic information in the dialogue. You need to extract key points from the conversation and organize them within the `<think></think>` block, then provide the final summary in the `<memory></memory>` block."
+    input_str = f"<|im_start|>system\nYou are an AI assistant skilled in summarizing and compressing conversations. You will fully retain necessary formulas and specific semantic information in the dialogue. You need to extract key points from the conversation and organize them within the `<think></think>` block, then provide the final summary in the `<memory></memory>` block.<|im_end|>\n"
     input_str_ids = tokenizer(input_str, add_special_tokens=False)
     input_ids = []
     input_ids.extend(input_str_ids["input_ids"])
@@ -61,7 +61,7 @@ def filter_by_length(example):
 def predict(example, model, tokenizer):
     # assert False
     conversations = example['conversation']
-    whole_str = f"<|im_start|>system\nYou are an AI assistant skilled in summarizing and compressing conversations. You will fully retain necessary formulas and specific semantic information in the dialogue. You need to extract key points from the conversation and organize them within the `<think></think>` block, then provide the final summary in the `<memory></memory>` block."
+    whole_str = f"<|im_start|>system\nYou are an AI assistant skilled in summarizing and compressing conversations. You will fully retain necessary formulas and specific semantic information in the dialogue. You need to extract key points from the conversation and organize them within the `<think></think>` block, then provide the final summary in the `<memory></memory>` block.<|im_end|>\n"
     for i in range(len(conversations)):
         if conversations[i]['role'] == 'user':
             cur_input_str = "<|im_start|>user\n" + conversations[i]['content'] + "<|im_end|>\n"
