@@ -37,18 +37,9 @@ def process_func_trigger(example, tokenizer):
             labels.extend([-100] * len(cur_input_ids['input_ids']))
         else:
             if i != len(conversations) - 1:
-                if conversations[i]['role'] == 'user':
-                    cur_input_str = "<|im_start|>user\n" + conversations[i]['content'] + "<|im_end|>\n"
-                    cur_input_ids = tokenizer(cur_input_str, add_special_tokens=False)
-                    labels.extend([-100] * len(cur_input_ids['input_ids']))
-                elif conversations[i]['role'] == 'assistant':
-                    cur_input_str = "<|im_start|>assistant\n" + conversations[i]['content'] + "<|im_end|>\n"
-                    cur_input_ids = tokenizer(cur_input_str, add_special_tokens=False)
-                    labels.extend([-100] * len(cur_input_ids['input_ids']))
-                else:
-                    cur_input_str = "<|im_start|>memory_query\n" + conversations[i]['content'] + "<|im_end|>\n"
-                    cur_input_ids = tokenizer(cur_input_str, add_special_tokens=False)
-                    labels.extend([-100] * len(cur_input_ids['input_ids']))
+                cur_input_str = "<|im_start|>assistant\n" + conversations[i]['content'] + "<|im_end|>\n"
+                cur_input_ids = tokenizer(cur_input_str, add_special_tokens=False)
+                labels.extend([-100] * len(cur_input_ids['input_ids']))
             else:
                 cur_input_str = "<|im_start|>assistant\n"
                 label_str = conversations[i]['content'] + tokenizer.eos_token
@@ -137,7 +128,10 @@ def process_func_conversations(example, tokenizer):
             cur_input_str = ""
             if 'think' in messages[i] and messages[i]['think'] is not None:
                 cur_input_str += "<think>" + messages[i]['think'] + "</think>"
-            cur_input_str += messages[i]['content'] + tokenizer.eos_token
+            if i < len(messages) - 1:
+                cur_input_str += messages[i]['content']
+            else:
+                cur_input_str += messages[i]['content'] + tokenizer.eos_token
             cur_input_ids = tokenizer(cur_input_str, add_special_tokens=False)
             input_ids.extend(cur_input_ids['input_ids'])
             attention_mask.extend(cur_input_ids['attention_mask'])
